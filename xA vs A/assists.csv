@@ -1,0 +1,2861 @@
+,Player,Team,Country,Assists p90,xA p90,Mins
+0,Giovanni Di Lorenzo,Napoli,it ITA,0.0,0.03,1080
+1,Mário Rui,Napoli,it ITA,0.17,0.09,1069
+2,Fabián Ruiz Peña,Napoli,it ITA,0.17,0.09,1041
+3,Kalidou Koulibaly,Napoli,it ITA,0.09,0.01,976
+4,Lorenzo Insigne,Napoli,it ITA,0.22,0.26,828
+5,David Ospina,Napoli,it ITA,0.0,0.0,900
+6,Andre-Frank Zambo Anguissa,Napoli,it ITA,0.0,0.08,879
+7,Victor Osimhen,Napoli,it ITA,0.0,0.09,789
+8,Amir Rrahmani,Napoli,it ITA,0.0,0.01,767
+9,Matteo Politano,Napoli,it ITA,0.13,0.27,709
+10,Piotr Zieliński,Napoli,it ITA,0.31,0.2,577
+11,Hirving Lozano,Napoli,it ITA,0.37,0.11,490
+12,Elif Elmas,Napoli,it ITA,0.17,0.07,534
+13,Kostas Manolas,Napoli,it ITA,0.0,0.0,313
+14,Stanislav Lobotka,Napoli,it ITA,0.0,0.0,180
+15,Alex Meret,Napoli,it ITA,0.0,0.0,180
+16,Dries Mertens,Napoli,it ITA,0.0,0.06,117
+17,Juan Jesus,Napoli,it ITA,0.0,0.0,104
+18,Adam Ounas,Napoli,it ITA,0.0,0.15,105
+19,Andrea Petagna,Napoli,it ITA,0.0,0.2,89
+20,Diego Demme,Napoli,it ITA,0.0,0.19,40
+21,Gianluca Gaetano,Napoli,it ITA,0.0,0.0,20
+22,Alessandro Zanoli,Napoli,it ITA,0.0,0.0,6
+23,Faouzi Ghoulam,Napoli,it ITA,0.0,0.0,4
+24,Kévin Malcuit,Napoli,it ITA,0.0,0.0,1
+25,Hubert Idasiak,Napoli,it ITA,0.0,0.0,0
+26,Davide Marfella,Napoli,it ITA,0.0,0.0,0
+27,Luca Palmiero,Napoli,it ITA,0.0,0.0,0
+28,Fikayo Tomori,Milan,it ITA,0.0,0.0,1022
+29,Rafael Leão,Milan,it ITA,0.1,0.09,876
+30,Sandro Tonali,Milan,it ITA,0.11,0.1,799
+31,Davide Calabria,Milan,it ITA,0.11,0.07,826
+32,Alexis Saelemaekers,Milan,it ITA,0.25,0.23,730
+33,Franck Kessié,Milan,it ITA,0.0,0.03,664
+34,Theo Hernández,Milan,it ITA,0.27,0.22,671
+35,Mike Maignan,Milan,it ITA,0.0,0.02,630
+36,Simon Kjær,Milan,it ITA,0.0,0.0,619
+37,Brahim Díaz,Milan,it ITA,0.17,0.09,539
+38,Alessio Romagnoli,Milan,it ITA,0.0,0.0,513
+39,Rade Krunić,Milan,it ITA,0.18,0.06,507
+40,Ante Rebić,Milan,it ITA,0.36,0.5,500
+41,Olivier Giroud,Milan,it ITA,0.0,0.21,455
+42,Ciprian Tătărușanu,Milan,it ITA,0.0,0.0,450
+43,Ismaël Bennacer,Milan,it ITA,0.18,0.15,509
+44,Fodé Ballo-Touré,Milan,it ITA,0.0,0.02,322
+45,Pierre Kalulu,Milan,it ITA,0.29,0.05,313
+46,Zlatan Ibrahimović,Milan,it ITA,0.31,0.11,286
+47,Alessandro Florenzi,Milan,it ITA,0.0,0.01,179
+48,Daniel Maldini,Milan,it ITA,0.0,0.06,110
+49,Samu Castillejo,Milan,it ITA,0.0,0.04,91
+50,Matteo Gabbia,Milan,it ITA,0.0,0.0,58
+51,Tiemoué Bakayoko,Milan,it ITA,0.0,0.02,106
+52,Pietro Pellegri,Milan,it ITA,0.0,0.55,63
+53,Junior Messias,Milan,it ITA,0.0,0.0,17
+54,Andrea Conti,Milan,it ITA,0.0,0.0,0
+55,Andreas Jungdal,Milan,it ITA,0.0,0.0,0
+56,Antonio Mirante,Milan,it ITA,0.0,0.0,0
+57,Alessandro Plizzari,Milan,it ITA,0.0,0.0,0
+58,Tommaso Pobega,Milan,it ITA,0.0,0.0,0
+59,Kylian Mbappé,Paris S-G,fr FRA,0.6,0.31,1048
+60,Presnel Kimpembe,Paris S-G,fr FRA,0.0,0.01,995
+61,Achraf Hakimi,Paris S-G,fr FRA,0.2,0.2,881
+62,Marquinhos,Paris S-G,fr FRA,0.0,0.01,810
+63,Ander Herrera,Paris S-G,fr FRA,0.24,0.13,762
+64,Thilo Kehrer,Paris S-G,fr FRA,0.0,0.0,743
+65,Keylor Navas,Paris S-G,fr FRA,0.0,0.0,720
+66,Neymar,Paris S-G,fr FRA,0.4,0.38,672
+67,Idrissa Gana Gueye,Paris S-G,fr FRA,0.0,0.11,648
+68,Georginio Wijnaldum,Paris S-G,fr FRA,0.14,0.19,635
+69,Abdou Diallo,Paris S-G,fr FRA,0.15,0.08,586
+70,Danilo Pereira,Paris S-G,fr FRA,0.0,0.0,587
+71,Ángel Di María,Paris S-G,fr FRA,0.52,0.37,523
+72,Mauro Icardi,Paris S-G,fr FRA,0.0,0.06,531
+73,Gianluigi Donnarumma,Paris S-G,fr FRA,0.0,0.0,450
+74,Marco Verratti,Paris S-G,fr FRA,0.0,0.05,354
+75,Nuno Mendes,Paris S-G,fr FRA,0.0,0.06,408
+76,Julian Draxler,Paris S-G,fr FRA,0.24,0.23,371
+77,Lionel Messi,Paris S-G,fr FRA,0.0,0.17,325
+78,Rafinha,Paris S-G,fr FRA,0.0,0.05,220
+79,Junior Dina Ebimbe,Paris S-G,fr FRA,0.0,0.03,168
+80,Juan Bernat,Paris S-G,fr FRA,0.0,0.0,155
+81,Leandro Paredes,Paris S-G,fr FRA,0.0,0.0,106
+82,Colin Dagba,Paris S-G,fr FRA,0.0,0.03,97
+83,Pablo Sarabia,Paris S-G,fr FRA,0.0,0.0,22
+84,Nathan Bitu Mazala,Paris S-G,fr FRA,0.0,0.0,11
+85,Arnaud Kalimuendo,Paris S-G,fr FRA,0.0,0.0,8
+86,El Chadaille Bitshiabu,Paris S-G,fr FRA,0.0,0.0,0
+87,Ismaël Gharbi,Paris S-G,fr FRA,0.0,0.0,0
+88,Layvin Kurzawa,Paris S-G,fr FRA,0.0,0.0,0
+89,Edouard Michut,Paris S-G,fr FRA,0.0,0.0,0
+90,Sergio Rico,Paris S-G,fr FRA,0.0,0.0,0
+91,Sekou Yansané,Paris S-G,fr FRA,0.0,0.0,0
+92,Edouard Mendy,Chelsea,eng ENG,0.0,0.0,900
+93,Antonio Rüdiger,Chelsea,eng ENG,0.0,0.02,900
+94,Jorginho,Chelsea,eng ENG,0.12,0.03,737
+95,Andreas Christensen,Chelsea,eng ENG,0.0,0.02,720
+96,Mateo Kovačić,Chelsea,eng ENG,0.64,0.23,702
+97,César Azpilicueta,Chelsea,eng ENG,0.29,0.19,631
+98,Romelu Lukaku,Chelsea,eng ENG,0.0,0.28,615
+99,Kai Havertz,Chelsea,eng ENG,0.0,0.01,570
+100,Thiago Silva,Chelsea,eng ENG,0.0,0.02,647
+101,Marcos Alonso,Chelsea,eng ENG,0.17,0.14,535
+102,Reece James,Chelsea,eng ENG,0.59,0.39,458
+103,Trevoh Chalobah,Chelsea,eng ENG,0.0,0.0,454
+104,Mason Mount,Chelsea,eng ENG,0.4,0.42,454
+105,Ben Chilwell,Chelsea,eng ENG,0.0,0.14,450
+106,N'Golo Kanté,Chelsea,eng ENG,0.0,0.1,405
+107,Callum Hudson-Odoi,Chelsea,eng ENG,0.0,0.3,385
+108,Timo Werner,Chelsea,eng ENG,0.23,0.04,391
+109,Ruben Loftus-Cheek,Chelsea,eng ENG,0.69,0.19,259
+110,Hakim Ziyech,Chelsea,eng ENG,0.0,0.09,183
+111,Ross Barkley,Chelsea,eng ENG,0.0,0.36,128
+112,Kepa Arrizabalaga,Chelsea,eng ENG,0.0,0.0,90
+113,Malang Sarr,Chelsea,eng ENG,0.0,0.0,90
+114,Christian Pulisic,Chelsea,eng ENG,0.0,0.0,87
+115,Saúl Ñíguez,Chelsea,eng ENG,0.0,0.0,48
+116,Emerson Palmieri,Chelsea,eng ENG,0.0,0.0,5
+117,Tammy Abraham,Chelsea,eng ENG,0.0,0.0,0
+118,Marcus Bettinelli,Chelsea,eng ENG,0.0,0.0,0
+119,Kurt Zouma,Chelsea,eng ENG,0.0,0.0,0
+120,Manuel Neuer,Bayern Munich,de GER,0.0,0.0,1080
+121,Robert Lewandowski,Bayern Munich,de GER,0.09,0.24,998
+122,Thomas Müller,Bayern Munich,de GER,0.85,0.49,957
+123,Joshua Kimmich,Bayern Munich,de GER,0.28,0.3,971
+124,Dayot Upamecano,Bayern Munich,de GER,0.41,0.06,877
+125,Alphonso Davies,Bayern Munich,de GER,0.32,0.36,840
+126,Leon Goretzka,Bayern Munich,de GER,0.23,0.29,774
+127,Leroy Sané,Bayern Munich,de GER,0.48,0.35,757
+128,Niklas Süle,Bayern Munich,de GER,0.11,0.07,832
+129,Lucas Hernández,Bayern Munich,de GER,0.0,0.03,736
+130,Serge Gnabry,Bayern Munich,de GER,0.0,0.18,725
+131,Josip Stanišić,Bayern Munich,de GER,0.0,0.02,406
+132,Benjamin Pavard,Bayern Munich,de GER,0.0,0.0,319
+133,Jamal Musiala,Bayern Munich,de GER,0.72,0.52,376
+134,Marcel Sabitzer,Bayern Munich,de GER,0.0,0.19,300
+135,Kingsley Coman,Bayern Munich,de GER,0.0,0.09,231
+136,Omar Richards,Bayern Munich,de GER,0.0,0.0,205
+137,Corentin Tolisso,Bayern Munich,de GER,0.0,0.04,128
+138,Nianzou Kouassi,Bayern Munich,de GER,0.75,0.25,120
+139,Eric Maxim Choupo-Moting,Bayern Munich,de GER,0.0,0.05,154
+140,Bouna Sarr,Bayern Munich,de GER,0.0,0.0,48
+141,Chris Richards,Bayern Munich,de GER,0.0,0.0,3
+142,Mickaël Cuisance,Bayern Munich,de GER,0.0,0.0,0
+143,Christian Früchtl,Bayern Munich,de GER,0.0,0.0,0
+144,Marc Roca,Bayern Munich,de GER,0.0,0.0,0
+145,Malik Tillman,Bayern Munich,de GER,0.0,0.0,0
+146,Sven Ulreich,Bayern Munich,de GER,0.0,0.0,0
+147,Thibaut Courtois,Real Madrid,es ESP,0.0,0.0,1080
+148,Éder Militão,Real Madrid,es ESP,0.0,0.01,1080
+149,David Alaba,Real Madrid,es ESP,0.27,0.15,990
+150,Karim Benzema,Real Madrid,es ESP,0.65,0.32,969
+151,Vinicius Júnior,Real Madrid,es ESP,0.2,0.14,913
+152,Casemiro,Real Madrid,es ESP,0.1,0.06,906
+153,Federico Valverde,Real Madrid,es ESP,0.13,0.07,713
+154,Nacho,Real Madrid,es ESP,0.0,0.03,620
+155,Luka Modrić,Real Madrid,es ESP,0.34,0.18,536
+156,Lucas Vázquez,Real Madrid,es ESP,0.0,0.11,537
+157,Toni Kroos,Real Madrid,es ESP,0.0,0.16,420
+158,Dani Carvajal,Real Madrid,es ESP,0.0,0.13,415
+159,Marco Asensio,Real Madrid,es ESP,0.0,0.22,450
+160,Rodrygo,Real Madrid,es ESP,0.23,0.06,383
+161,Eden Hazard,Real Madrid,es ESP,0.26,0.19,351
+162,Eduardo Camavinga,Real Madrid,es ESP,0.0,0.02,340
+163,Ferland Mendy,Real Madrid,es ESP,0.0,0.04,273
+164,Miguel Gutiérrez,Real Madrid,es ESP,0.35,0.17,260
+165,Gareth Bale,Real Madrid,es ESP,0.0,0.02,190
+166,Isco,Real Madrid,es ESP,0.0,0.12,168
+167,Mariano,Real Madrid,es ESP,1.0,0.18,90
+168,Marcelo,Real Madrid,es ESP,0.0,0.0,89
+169,Luka Jović,Real Madrid,es ESP,1.38,0.14,65
+170,Blanco,Real Madrid,es ESP,0.0,0.0,31
+171,Sergio Santos,Real Madrid,es ESP,0.0,0.32,11
+172,Toni Fuidias,Real Madrid,es ESP,0.0,0.0,0
+173,Luis López,Real Madrid,es ESP,0.0,0.0,0
+174,Andriy Lunin,Real Madrid,es ESP,0.0,0.0,0
+175,Álvaro Odriozola,Real Madrid,es ESP,0.0,0.0,0
+176,Jesús Vallejo,Real Madrid,es ESP,0.0,0.0,0
+177,Diego Carlos,Sevilla,es ESP,0.0,0.01,989
+178,Fernando,Sevilla,es ESP,0.1,0.03,932
+179,Yassine Bounou,Sevilla,es ESP,0.1,0.05,900
+180,Jules Koundé,Sevilla,es ESP,0.0,0.1,900
+181,Joan Jordán,Sevilla,es ESP,0.12,0.09,769
+182,Marcos Acuña,Sevilla,es ESP,0.12,0.18,775
+183,Jesús Navas,Sevilla,es ESP,0.22,0.35,832
+184,Rafa Mir,Sevilla,es ESP,0.0,0.02,646
+185,Ivan Rakitić,Sevilla,es ESP,0.17,0.07,541
+186,Suso,Sevilla,es ESP,0.25,0.09,362
+187,Érik Lamela,Sevilla,es ESP,0.15,0.15,604
+188,Lucas Ocampos,Sevilla,es ESP,0.17,0.03,532
+189,Youssef En-Nesyri,Sevilla,es ESP,0.2,0.23,450
+190,Thomas Delaney,Sevilla,es ESP,0.23,0.06,384
+191,Karim Rekik,Sevilla,es ESP,0.25,0.05,355
+192,Gonzalo Montiel,Sevilla,es ESP,0.0,0.19,248
+193,Papu Gómez,Sevilla,es ESP,0.0,0.05,349
+194,Óscar Rodríguez Arnaiz,Sevilla,es ESP,0.0,0.22,318
+195,Óliver Torres,Sevilla,es ESP,0.46,0.04,196
+196,Ludwig Augustinsson,Sevilla,es ESP,0.43,0.03,209
+197,Marko Dmitrović,Sevilla,es ESP,0.0,0.0,180
+198,Munir El Haddadi,Sevilla,es ESP,0.0,0.02,173
+199,Nemanja Gudelj,Sevilla,es ESP,0.0,0.0,127
+200,Oussama Idrissi,Sevilla,es ESP,0.0,0.14,73
+201,Pedro Ortiz,Sevilla,es ESP,0.0,4.92,7
+202,Iván Romero,Sevilla,es ESP,0.0,0.0,2
+203,Carmona,Sevilla,es ESP,0.0,0.0,0
+204,Javier Díaz,Sevilla,es ESP,0.0,0.0,0
+205,Luuk de Jong,Sevilla,es ESP,0.0,0.0,0
+206,Alfonso Pastor,Sevilla,es ESP,0.0,0.0,0
+207,Pablo Pérez,Sevilla,es ESP,0.0,0.0,0
+208,Alejandro Pozo Pozo,Sevilla,es ESP,0.0,0.0,0
+209,Manuel Akanji,Dortmund,de GER,0.0,0.0,990
+210,Jude Bellingham,Dortmund,de GER,0.28,0.15,951
+211,Gregor Kobel,Dortmund,de GER,0.0,0.0,945
+212,Marco Reus,Dortmund,de GER,0.41,0.15,888
+213,Axel Witsel,Dortmund,de GER,0.0,0.0,750
+214,Thomas Meunier,Dortmund,de GER,0.4,0.28,672
+215,Donyell Malen,Dortmund,de GER,0.0,0.08,663
+216,Mats Hummels,Dortmund,de GER,0.15,0.02,595
+217,Julian Brandt,Dortmund,de GER,0.16,0.28,547
+218,Erling Haaland,Dortmund,de GER,0.67,0.35,540
+219,Mahmoud Dahoud,Dortmund,de GER,0.0,0.19,482
+220,Raphaël Guerreiro,Dortmund,de GER,0.0,0.19,487
+221,Marin Pongračić,Dortmund,de GER,0.0,0.0,371
+222,Thorgan Hazard,Dortmund,de GER,0.0,0.27,424
+223,Marius Wolf,Dortmund,de GER,0.0,0.15,291
+224,Nico Schulz,Dortmund,de GER,0.0,0.0,245
+225,Gio Reyna,Dortmund,de GER,0.0,0.51,218
+226,Felix Passlack,Dortmund,de GER,0.0,0.07,197
+227,Emre Can,Dortmund,de GER,0.0,0.0,195
+228,Youssoufa Moukoko,Dortmund,de GER,0.0,0.06,101
+229,Ansgar Knauff,Dortmund,de GER,0.0,0.0,83
+230,Steffen Tigges,Dortmund,de GER,0.0,0.35,62
+231,Reinier,Dortmund,de GER,0.0,0.0,58
+232,Marwin Hitz,Dortmund,de GER,0.0,0.0,45
+233,Thomas Delaney,Dortmund,de GER,0.0,0.0,18
+234,Antonios Papadopoulos,Dortmund,de GER,0.0,0.0,13
+235,Dan-Axel Zagadou,Dortmund,de GER,0.0,0.0,5
+236,Lennard Maloney,Dortmund,de GER,0.0,0.0,3
+237,Göktan Gürpüz,Dortmund,de GER,0.0,0.0,0
+238,Tobias Raschl,Dortmund,de GER,0.0,0.0,0
+239,Robin Le Normand,Real Sociedad,es ESP,0.0,0.01,1170
+240,Mikel Merino,Real Sociedad,es ESP,0.08,0.09,1159
+241,Aritz Elustondo,Real Sociedad,es ESP,0.08,0.01,1071
+242,Álex Remiro,Real Sociedad,es ESP,0.0,0.0,990
+243,Aihen Muñoz,Real Sociedad,es ESP,0.0,0.01,884
+244,Martín Zubimendi,Real Sociedad,es ESP,0.1,0.03,881
+245,Alexander Isak,Real Sociedad,es ESP,0.13,0.13,678
+246,Andoni Gorosabel,Real Sociedad,es ESP,0.12,0.07,759
+247,Mikel Oyarzabal,Real Sociedad,es ESP,0.14,0.17,643
+248,David Silva,Real Sociedad,es ESP,0.16,0.14,566
+249,Portu,Real Sociedad,es ESP,0.14,0.1,629
+250,Adnan Januzaj,Real Sociedad,es ESP,0.0,0.22,542
+251,Joseba Zaldúa,Real Sociedad,es ESP,0.0,0.04,496
+252,Alexander Sørloth,Real Sociedad,es ESP,0.0,0.19,395
+253,Ander Guevara,Real Sociedad,es ESP,0.0,0.03,350
+254,Ander Barrenetxea,Real Sociedad,es ESP,0.29,0.14,311
+255,Roberto Navarro,Real Sociedad,es ESP,0.0,0.03,172
+256,Julen Lobete,Real Sociedad,es ESP,0.0,0.0,267
+257,Igor Zubeldia,Real Sociedad,es ESP,0.37,0.0,243
+258,Mathew Ryan,Real Sociedad,es ESP,0.0,0.0,180
+259,Diego Rico,Real Sociedad,es ESP,0.0,0.0,130
+260,Beñat Turrientes,Real Sociedad,es ESP,0.0,0.07,144
+261,Germán Valera,Real Sociedad,es ESP,0.0,0.0,51
+262,Jon Bautista,Real Sociedad,es ESP,0.0,0.0,45
+263,Jon Pacheco,Real Sociedad,es ESP,0.0,0.0,41
+264,Cristo,Real Sociedad,es ESP,0.0,0.39,17
+265,Jon Guridi,Real Sociedad,es ESP,0.0,0.0,10
+266,Gaizka Ayesa,Real Sociedad,es ESP,0.0,0.0,0
+267,Naïs Djouahra,Real Sociedad,es ESP,0.0,0.0,0
+268,Urko González,Real Sociedad,es ESP,0.0,0.0,0
+269,Asier Illarramendi,Real Sociedad,es ESP,0.0,0.0,0
+270,Jon Karrikaburu,Real Sociedad,es ESP,0.0,0.0,0
+271,João Cancelo,Manchester City,eng ENG,0.18,0.13,977
+272,Rúben Dias,Manchester City,eng ENG,0.1,0.1,919
+273,Ederson,Manchester City,eng ENG,0.0,0.0,900
+274,Bernardo Silva,Manchester City,eng ENG,0.11,0.15,847
+275,Rodri,Manchester City,eng ENG,0.0,0.03,810
+276,Gabriel Jesus,Manchester City,eng ENG,0.59,0.25,766
+277,Kyle Walker,Manchester City,eng ENG,0.0,0.04,765
+278,Jack Grealish,Manchester City,eng ENG,0.24,0.35,738
+279,Aymeric Laporte,Manchester City,eng ENG,0.0,0.01,655
+280,İlkay Gündoğan,Manchester City,eng ENG,0.0,0.26,592
+281,Phil Foden,Manchester City,eng ENG,0.16,0.26,555
+282,Kevin De Bruyne,Manchester City,eng ENG,0.0,0.34,453
+283,Ferrán Torres,Manchester City,eng ENG,0.3,0.01,303
+284,Raheem Sterling,Manchester City,eng ENG,0.0,0.12,381
+285,Nathan Aké,Manchester City,eng ENG,0.0,0.0,270
+286,Riyad Mahrez,Manchester City,eng ENG,0.34,0.35,265
+287,John Stones,Manchester City,eng ENG,0.0,0.0,212
+288,Fernandinho,Manchester City,eng ENG,0.0,0.22,188
+289,Zack Steffen,Manchester City,eng ENG,0.0,0.0,90
+290,Benjamin Mendy,Manchester City,eng ENG,0.0,0.3,78
+291,Oleksandr Zinchenko,Manchester City,eng ENG,0.0,0.0,57
+292,Cole Palmer,Manchester City,eng ENG,0.0,0.0,23
+293,Scott Carson,Manchester City,eng ENG,0.0,0.0,0
+294,Thomas Doyle,Manchester City,eng ENG,0.0,0.0,0
+295,Samuel Edozie,Manchester City,eng ENG,0.0,0.0,0
+296,Roméo Lavia,Manchester City,eng ENG,0.0,0.0,0
+297,Luke Mbete-Tatu,Manchester City,eng ENG,0.0,0.0,0
+298,Cieran Slicker,Manchester City,eng ENG,0.0,0.0,0
+299,Josh Wilson-Esbrand,Manchester City,eng ENG,0.0,0.0,0
+300,Aaron Cresswell,West Ham,eng ENG,0.09,0.11,990
+301,Łukasz Fabiański,West Ham,eng ENG,0.0,0.0,990
+302,Declan Rice,West Ham,eng ENG,0.27,0.11,990
+303,Tomáš Souček,West Ham,eng ENG,0.09,0.02,978
+304,Pablo Fornals,West Ham,eng ENG,0.09,0.14,972
+305,Jarrod Bowen,West Ham,eng ENG,0.38,0.22,957
+306,Angelo Ogbonna,West Ham,eng ENG,0.0,0.0,921
+307,Saïd Benrahma,West Ham,eng ENG,0.3,0.14,911
+308,Michail Antonio,West Ham,eng ENG,0.3,0.28,895
+309,Vladimír Coufal,West Ham,eng ENG,0.14,0.18,638
+310,Kurt Zouma,West Ham,eng ENG,0.0,0.0,630
+311,Craig Dawson,West Ham,eng ENG,0.0,0.01,443
+312,Ben Johnson,West Ham,eng ENG,0.0,0.05,361
+313,Nikola Vlašić,West Ham,eng ENG,0.0,0.09,109
+314,Manuel Lanzini,West Ham,eng ENG,1.73,1.47,52
+315,Andriy Yarmolenko,West Ham,eng ENG,0.0,0.06,40
+316,Arthur Masuaku,West Ham,eng ENG,0.0,0.0,5
+317,Mark Noble,West Ham,eng ENG,0.0,0.0,4
+318,Ryan Fredericks,West Ham,eng ENG,0.0,0.0,3
+319,Alphonse Areola,West Ham,eng ENG,0.0,0.0,0
+320,Harrison Ashby,West Ham,eng ENG,0.0,0.0,0
+321,Jamal Baptiste,West Ham,eng ENG,0.0,0.0,0
+322,Conor Coventry,West Ham,eng ENG,0.0,0.0,0
+323,Issa Diop,West Ham,eng ENG,0.0,0.0,0
+324,Alex Král,West Ham,eng ENG,0.0,0.0,0
+325,Samir Handanović,Inter,it ITA,0.0,0.0,1080
+326,Nicolò Barella,Inter,it ITA,0.45,0.24,1003
+327,Marcelo Brozović,Inter,it ITA,0.09,0.03,981
+328,Milan Škriniar,Inter,it ITA,0.0,0.0,990
+329,Stefan de Vrij,Inter,it ITA,0.0,0.0,954
+330,Alessandro Bastoni,Inter,it ITA,0.0,0.05,867
+331,Ivan Perišić,Inter,it ITA,0.12,0.15,765
+332,Edin Džeko,Inter,it ITA,0.11,0.15,846
+333,Matteo Darmian,Inter,it ITA,0.12,0.06,770
+334,Lautaro Martínez,Inter,it ITA,0.13,0.1,713
+335,Hakan Çalhanoğlu,Inter,it ITA,0.28,0.24,646
+336,Federico Dimarco,Inter,it ITA,0.38,0.41,473
+337,Denzel Dumfries,Inter,it ITA,0.47,0.25,383
+338,Joaquín Correa,Inter,it ITA,0.0,0.1,257
+339,Roberto Gagliardini,Inter,it ITA,0.44,0.37,204
+340,Matías Vecino,Inter,it ITA,0.0,0.15,207
+341,Alexis Sánchez,Inter,it ITA,1.03,0.21,174
+342,Danilo D'Ambrosio,Inter,it ITA,0.0,0.0,131
+343,Andrea Ranocchia,Inter,it ITA,0.0,0.0,114
+344,Stefano Sensi,Inter,it ITA,0.0,0.16,113
+345,Arturo Vidal,Inter,it ITA,0.55,0.17,164
+346,Aleksandar Kolarov,Inter,it ITA,0.0,0.0,29
+347,Martin Satriano,Inter,it ITA,0.0,0.0,16
+348,Lucien Agoume,Inter,it ITA,0.0,0.0,0
+349,Alex Cordaz,Inter,it ITA,0.0,0.0,0
+350,Andrea Pinamonti,Inter,it ITA,0.0,0.0,0
+351,Ionuț Radu,Inter,it ITA,0.0,0.0,0
+352,Mattia Sangalli,Inter,it ITA,0.0,0.0,0
+353,Virgil van Dijk,Liverpool,eng ENG,0.09,0.01,990
+354,Mohamed Salah,Liverpool,eng ENG,0.64,0.42,990
+355,Sadio Mané,Liverpool,eng ENG,0.0,0.11,914
+356,Alisson,Liverpool,eng ENG,0.0,0.0,900
+357,Jordan Henderson,Liverpool,eng ENG,0.22,0.18,818
+358,Trent Alexander-Arnold,Liverpool,eng ENG,0.46,0.44,784
+359,Joël Matip,Liverpool,eng ENG,0.0,0.02,720
+360,Andrew Robertson,Liverpool,eng ENG,0.13,0.27,688
+361,Diogo Jota,Liverpool,eng ENG,0.13,0.32,679
+362,Fabinho,Liverpool,eng ENG,0.16,0.05,559
+363,James Milner,Liverpool,eng ENG,0.25,0.1,365
+364,Naby Keïta,Liverpool,eng ENG,0.25,0.21,362
+365,Roberto Firmino,Liverpool,eng ENG,0.24,0.19,371
+366,Curtis Jones,Liverpool,eng ENG,0.28,0.04,322
+367,Kostas Tsimikas,Liverpool,eng ENG,0.3,0.27,301
+368,Ibrahima Konaté,Liverpool,eng ENG,0.0,0.04,270
+369,Harvey Elliott,Liverpool,eng ENG,0.0,0.11,250
+370,Alex Oxlade-Chamberlain,Liverpool,eng ENG,0.34,0.12,262
+371,Thiago Alcántara,Liverpool,eng ENG,0.45,0.18,200
+372,Caoimhín Kelleher,Liverpool,eng ENG,0.0,0.0,90
+373,Divock Origi,Liverpool,eng ENG,0.0,0.0,18
+374,Takumi Minamino,Liverpool,eng ENG,0.0,0.0,15
+375,Joe Gomez,Liverpool,eng ENG,0.0,0.0,14
+376,Neco Williams,Liverpool,eng ENG,11.25,6.5,8
+377,Adrián,Liverpool,eng ENG,0.0,0.0,0
+378,Tyler Morton,Liverpool,eng ENG,0.0,0.0,0
+379,Nathaniel Phillips,Liverpool,eng ENG,0.0,0.0,0
+380,Ben Woodburn,Liverpool,eng ENG,0.0,0.0,0
+381,Mark Flekken,Freiburg,de GER,0.0,0.01,990
+382,Christian Günter,Freiburg,de GER,0.27,0.28,990
+383,Philipp Lienhart,Freiburg,de GER,0.0,0.0,990
+384,Nico Schlotterbeck,Freiburg,de GER,0.0,0.07,990
+385,Lucas Höler,Freiburg,de GER,0.1,0.08,881
+386,Vincenzo Grifo,Freiburg,de GER,0.22,0.23,832
+387,Jeong Woo-yeong,Freiburg,de GER,0.0,0.02,738
+388,Nicolas Höfler,Freiburg,de GER,0.0,0.04,719
+389,Lukas Kübler,Freiburg,de GER,0.0,0.01,700
+390,Maximilian Eggestein,Freiburg,de GER,0.15,0.09,599
+391,Manuel Gulde,Freiburg,de GER,0.0,0.02,547
+392,Yannik Keitel,Freiburg,de GER,0.0,0.01,447
+393,Roland Sallai,Freiburg,de GER,0.23,0.11,391
+394,Kevin Schade,Freiburg,de GER,0.0,0.08,276
+395,Jonathan Schmid,Freiburg,de GER,0.0,0.02,180
+396,Janik Haberer,Freiburg,de GER,0.0,0.02,231
+397,Kiliann Sildillia,Freiburg,de GER,0.0,0.15,105
+398,Ermedin Demirović,Freiburg,de GER,0.0,0.06,113
+399,Nils Petersen,Freiburg,de GER,0.0,0.0,107
+400,Dominique Heintz,Freiburg,de GER,0.0,0.0,29
+401,Baptiste Santamaria,Freiburg,de GER,0.0,0.0,21
+402,Noah Weißhaupt,Freiburg,de GER,0.0,0.0,12
+403,Keven Schlotterbeck,Freiburg,de GER,0.0,0.0,2
+404,Nishan Burkart,Freiburg,de GER,0.0,0.0,0
+405,Benjamin Uphoff,Freiburg,de GER,0.0,0.0,0
+406,Jan Oblak,Atlético Madrid,es ESP,0.0,0.0,1080
+407,Yannick Carrasco,Atlético Madrid,es ESP,0.2,0.14,914
+408,Stefan Savić,Atlético Madrid,es ESP,0.0,0.01,900
+409,Mario Hermoso,Atlético Madrid,es ESP,0.11,0.06,790
+410,José María Giménez,Atlético Madrid,es ESP,0.0,0.0,807
+411,Koke,Atlético Madrid,es ESP,0.0,0.02,785
+412,Luis Suárez,Atlético Madrid,es ESP,0.11,0.1,785
+413,Kieran Trippier,Atlético Madrid,es ESP,0.0,0.02,706
+414,Ángel Correa,Atlético Madrid,es ESP,0.38,0.26,703
+415,Marcos Llorente,Atlético Madrid,es ESP,0.0,0.1,694
+416,Antoine Griezmann,Atlético Madrid,es ESP,0.0,0.12,609
+417,Rodrigo De Paul,Atlético Madrid,es ESP,0.15,0.28,619
+418,Thomas Lemar,Atlético Madrid,es ESP,0.47,0.21,384
+419,Geoffrey Kondogbia,Atlético Madrid,es ESP,0.0,0.02,399
+420,Felipe,Atlético Madrid,es ESP,0.24,0.07,370
+421,João Félix,Atlético Madrid,es ESP,0.28,0.21,326
+422,Renan Lodi,Atlético Madrid,es ESP,0.0,0.11,305
+423,Héctor Herrera,Atlético Madrid,es ESP,0.0,0.04,236
+424,Saúl Ñíguez,Atlético Madrid,es ESP,0.45,0.05,201
+425,Matheus Cunha,Atlético Madrid,es ESP,0.0,0.0,145
+426,Šime Vrsaljko,Atlético Madrid,es ESP,0.83,0.18,108
+427,Sergio Camello,Atlético Madrid,es ESP,0.0,0.0,0
+428,Ivo Grbić,Atlético Madrid,es ESP,0.0,0.0,0
+429,Benjamin Lecomte,Atlético Madrid,es ESP,0.0,0.0,0
+430,Carlos Martín,Atlético Madrid,es ESP,0.0,0.0,0
+431,Nehuén Pérez,Atlético Madrid,es ESP,0.0,0.0,0
+432,Ivan Šaponjić,Atlético Madrid,es ESP,0.0,0.0,0
+433,Javier Serrano,Atlético Madrid,es ESP,0.0,0.0,0
+434,Giuliano Simeone,Atlético Madrid,es ESP,0.0,0.0,0
+435,Walter Benítez,Nice,fr FRA,0.0,0.0,1170
+436,Dante,Nice,fr FRA,0.0,0.01,1170
+437,Amine Gouiri,Nice,fr FRA,0.34,0.27,1059
+438,Jean-Clair Todibo,Nice,fr FRA,0.0,0.04,1055
+439,Melvin Bard,Nice,fr FRA,0.09,0.11,998
+440,Pablo Rosario,Nice,fr FRA,0.0,0.03,928
+441,Mario Lemina,Nice,fr FRA,0.0,0.01,840
+442,Youcef Atal,Nice,fr FRA,0.0,0.16,707
+443,Andy Delort,Nice,fr FRA,0.13,0.32,719
+444,Hassane Kamara,Nice,fr FRA,0.0,0.18,543
+445,Hicham Boudaoui,Nice,fr FRA,0.17,0.18,532
+446,Khéphren Thuram-Ulie,Nice,fr FRA,0.3,0.21,607
+447,Calvin Stengs,Nice,fr FRA,0.0,0.16,513
+448,Kasper Dolberg,Nice,fr FRA,0.0,0.03,386
+449,Lucas Da Cunha,Nice,fr FRA,0.28,0.43,321
+450,Justin Kluivert,Nice,fr FRA,0.43,0.19,208
+451,Jordan Lotomba,Nice,fr FRA,0.0,0.09,302
+452,Flavius Daniliuc,Nice,fr FRA,0.0,0.0,290
+453,Dan Ndoye,Nice,fr FRA,0.44,0.25,205
+454,Evann Guessand,Nice,fr FRA,0.66,0.31,136
+455,Alexis Claude-Maurice,Nice,fr FRA,0.7,0.3,128
+456,Myziane Maolida,Nice,fr FRA,0.0,0.0,34
+457,Morgan Schneiderlin,Nice,fr FRA,0.0,0.0,19
+458,Robson Bambu,Nice,fr FRA,0.0,0.0,0
+459,Teddy Boulhendi,Nice,fr FRA,0.0,0.0,0
+460,Marcin Bułka,Nice,fr FRA,0.0,0.0,0
+461,Justin Smith,Nice,fr FRA,0.0,0.0,0
+462,Alexis Trouillet,Nice,fr FRA,0.0,0.0,0
+463,Seko Fofana,Lens,fr FRA,0.0,0.13,1156
+464,Jean-Louis Leca,Lens,fr FRA,0.0,0.0,1080
+465,Jonathan Clauss,Lens,fr FRA,0.5,0.32,1073
+466,Jonathan Gradit,Lens,fr FRA,0.0,0.04,1066
+467,Facundo Medina,Lens,fr FRA,0.0,0.0,971
+468,Cheick Doucouré,Lens,fr FRA,0.19,0.12,954
+469,Przemysław Frankowski,Lens,fr FRA,0.29,0.19,944
+470,Florian Sotoca,Lens,fr FRA,0.3,0.16,906
+471,Kevin Danso,Lens,fr FRA,0.0,0.01,864
+472,Gaël Kakuta,Lens,fr FRA,0.13,0.32,715
+473,Arnaud Kalimuendo,Lens,fr FRA,0.0,0.11,571
+474,Ignatius Ganago,Lens,fr FRA,0.0,0.09,407
+475,Christopher Wooh,Lens,fr FRA,0.0,0.09,385
+476,Wesley Saïd,Lens,fr FRA,0.0,0.15,347
+477,Deiver Machado,Lens,fr FRA,0.0,0.07,305
+478,Yannick Cahuzac,Lens,fr FRA,0.0,0.0,320
+479,David Pereira da Costa,Lens,fr FRA,0.0,0.28,204
+480,Simon Banza,Lens,fr FRA,0.73,0.47,124
+481,Ismaëlben Boura,Lens,fr FRA,0.0,0.0,95
+482,Wuilker Faríñez,Lens,fr FRA,0.0,0.0,90
+483,Steven Fortes,Lens,fr FRA,0.0,0.0,90
+484,Corentin Jean,Lens,fr FRA,0.0,0.0,64
+485,Massadio Haïdara,Lens,fr FRA,0.0,0.0,55
+486,Charles Boli,Lens,fr FRA,0.0,0.31,13
+487,Mamadou Camara,Lens,fr FRA,0.0,0.0,0
+488,Mohamed Cissé,Lens,fr FRA,0.0,0.0,0
+489,Malcom Musquet,Lens,fr FRA,0.0,0.0,0
+490,Yannick Pandor,Lens,fr FRA,0.0,0.0,0
+491,Samba Sow,Lens,fr FRA,0.0,0.0,0
+492,Jonathan Varane,Lens,fr FRA,0.0,0.0,0
+493,Juan Musso,Atalanta,it ITA,0.0,0.0,990
+494,José Luis Palomino,Atalanta,it ITA,0.0,0.02,834
+495,Remo Freuler,Atalanta,it ITA,0.0,0.1,857
+496,Davide Zappacosta,Atalanta,it ITA,0.23,0.24,789
+497,Duván Zapata,Atalanta,it ITA,0.23,0.14,779
+498,Joakim Mæhle,Atalanta,it ITA,0.0,0.04,773
+499,Ruslan Malinovskyi,Atalanta,it ITA,0.13,0.34,694
+500,Mario Pašalić,Atalanta,it ITA,0.53,0.37,682
+501,Marten de Roon,Atalanta,it ITA,0.0,0.05,720
+502,Merih Demiral,Atalanta,it ITA,0.14,0.0,622
+503,Rafael Tolói,Atalanta,it ITA,0.0,0.01,488
+504,Josip Iličić,Atalanta,it ITA,0.17,0.33,544
+505,Berat Djimsiti,Atalanta,it ITA,0.0,0.02,523
+506,Teun Koopmeiners,Atalanta,it ITA,0.18,0.25,512
+507,Robin Gosens,Atalanta,it ITA,0.0,0.08,460
+508,Matteo Pessina,Atalanta,it ITA,0.0,0.02,369
+509,Matteo Lovato,Atalanta,it ITA,0.0,0.03,305
+510,Luis Muriel,Atalanta,it ITA,0.35,0.12,260
+511,Aleksei Miranchuk,Atalanta,it ITA,0.49,0.24,185
+512,Giuseppe Pezzella,Atalanta,it ITA,0.0,0.03,210
+513,Marco Sportiello,Atalanta,it ITA,0.0,0.0,90
+514,Roberto Piccoli,Atalanta,it ITA,0.0,0.07,82
+515,Giorgio Scalvini,Atalanta,it ITA,0.0,0.11,74
+516,Sam Lammers,Atalanta,it ITA,0.0,0.0,38
+517,Jacopo Da Riva,Atalanta,it ITA,0.0,0.0,0
+518,Enrico Del Prato,Atalanta,it ITA,0.0,0.0,0
+519,Andrea Oliveri,Atalanta,it ITA,0.0,0.0,0
+520,Francesco Rossi,Atalanta,it ITA,0.0,0.0,0
+521,Bosko Sutalo,Atalanta,it ITA,0.0,0.0,0
+522,Federico Zuccon,Atalanta,it ITA,0.0,0.0,0
+523,Emile Smith-Rowe,Arsenal,eng ENG,0.2,0.12,890
+524,Bukayo Saka,Arsenal,eng ENG,0.23,0.16,800
+525,Ben White,Arsenal,eng ENG,0.0,0.01,810
+526,Pierre-Emerick Aubameyang,Arsenal,eng ENG,0.11,0.09,788
+527,Gabriel Dos Santos,Arsenal,eng ENG,0.0,0.01,720
+528,Aaron Ramsdale,Arsenal,eng ENG,0.0,0.0,720
+529,Takehiro Tomiyasu,Arsenal,eng ENG,0.0,0.02,691
+530,Kieran Tierney,Arsenal,eng ENG,0.0,0.11,682
+531,Albert Sambi Lokonga,Arsenal,eng ENG,0.0,0.03,667
+532,Martin Ødegaard,Arsenal,eng ENG,0.0,0.08,546
+533,Thomas Partey,Arsenal,eng ENG,0.0,0.06,543
+534,Nicolas Pépé,Arsenal,eng ENG,0.19,0.14,484
+535,Granit Xhaka,Arsenal,eng ENG,0.0,0.03,295
+536,Nuno Tavares,Arsenal,eng ENG,0.0,0.14,321
+537,Bernd Leno,Arsenal,eng ENG,0.0,0.0,270
+538,Alexandre Lacazette,Arsenal,eng ENG,0.0,0.11,267
+539,Ainsley Maitland-Niles,Arsenal,eng ENG,0.0,0.15,230
+540,Cédric Soares,Arsenal,eng ENG,0.0,0.06,189
+541,Rob Holding,Arsenal,eng ENG,0.0,0.0,180
+542,Pablo Marí,Arsenal,eng ENG,0.0,0.05,180
+543,Calum Chambers,Arsenal,eng ENG,0.0,0.03,170
+544,Martinelli,Arsenal,eng ENG,0.0,0.04,160
+545,Sead Kolašinac,Arsenal,eng ENG,0.0,0.0,91
+546,Folarin Balogun,Arsenal,eng ENG,0.0,0.0,70
+547,Mohamed Elneny,Arsenal,eng ENG,0.0,0.24,50
+548,Reiss Nelson,Arsenal,eng ENG,0.0,0.18,20
+549,Héctor Bellerín,Arsenal,eng ENG,0.0,0.0,0
+550,Karl Jakob Hein,Arsenal,eng ENG,0.0,0.0,0
+551,Eddie Nketiah,Arsenal,eng ENG,0.0,0.0,0
+552,Arthur Okonkwo,Arsenal,eng ENG,0.0,0.0,0
+553,William Saliba,Marseille,fr FRA,0.0,0.05,1080
+554,Mattéo Guendouzi,Marseille,fr FRA,0.26,0.14,1041
+555,Luan Peres Petroni,Marseille,fr FRA,0.09,0.09,1029
+556,Cengiz Ünder,Marseille,fr FRA,0.0,0.19,849
+557,Dimitri Payet,Marseille,fr FRA,0.32,0.44,844
+558,Pau López,Marseille,fr FRA,0.0,0.0,810
+559,Gerson,Marseille,fr FRA,0.24,0.09,744
+560,Boubacar Kamara,Marseille,fr FRA,0.0,0.06,765
+561,Leonardo Balerdi,Marseille,fr FRA,0.0,0.0,764
+562,Pol Lirola,Marseille,fr FRA,0.14,0.16,632
+563,Valentin Rongier,Marseille,fr FRA,0.15,0.08,585
+564,Konrad De La Fuente,Marseille,fr FRA,0.32,0.24,555
+565,Duje Ćaleta-Car,Marseille,fr FRA,0.0,0.0,494
+566,Bamba Dieng,Marseille,fr FRA,0.0,0.0,435
+567,Pape Gueye,Marseille,fr FRA,0.18,0.04,495
+568,Arkadiusz Milik,Marseille,fr FRA,0.0,0.07,418
+569,Steve Mandanda,Marseille,fr FRA,0.0,0.0,360
+570,Luis Henrique,Marseille,fr FRA,0.0,0.06,303
+571,Amine Harit,Marseille,fr FRA,0.33,0.36,269
+572,Álvaro González,Marseille,fr FRA,0.0,0.0,181
+573,Jordan Amavi,Marseille,fr FRA,0.0,0.07,128
+574,Darío Benedetto,Marseille,fr FRA,0.0,0.06,54
+575,Nemanja Radonjić,Marseille,fr FRA,0.0,0.89,18
+576,Salim Ben Seghir,Marseille,fr FRA,0.0,0.0,0
+577,Amay Caprice,Marseille,fr FRA,0.0,0.0,0
+578,Bilal Nadir,Marseille,fr FRA,0.0,0.0,0
+579,Simon Ngapandouetnbu,Marseille,fr FRA,0.0,0.0,0
+580,Paolo Sciortino,Marseille,fr FRA,0.0,0.0,0
+581,Oussama Targhalline,Marseille,fr FRA,0.0,0.0,0
+582,Pepe Reina,Lazio,it ITA,0.08,0.02,1080
+583,Felipe Anderson,Lazio,it ITA,0.27,0.25,1015
+584,Ciro Immobile,Lazio,it ITA,0.19,0.1,956
+585,Sergej Milinković-Savić,Lazio,it ITA,0.39,0.24,919
+586,Pedro,Lazio,it ITA,0.2,0.15,900
+587,Elseid Hysaj,Lazio,it ITA,0.0,0.01,897
+588,Francesco Acerbi,Lazio,it ITA,0.0,0.02,885
+589,Luiz Felipe,Lazio,it ITA,0.0,0.01,867
+590,Adam Marušić,Lazio,it ITA,0.0,0.01,837
+591,Luis Alberto,Lazio,it ITA,0.45,0.22,799
+592,Lucas Leiva,Lazio,it ITA,0.0,0.02,655
+593,Danilo Cataldi,Lazio,it ITA,0.0,0.03,436
+594,Manuel Lazzari,Lazio,it ITA,0.0,0.05,426
+595,Patric,Lazio,it ITA,0.0,0.01,313
+596,Jean-Daniel Akpa-Akpro,Lazio,it ITA,0.0,0.01,232
+597,Toma Bašić,Lazio,it ITA,0.55,0.27,163
+598,Raúl Moro,Lazio,it ITA,0.58,0.1,155
+599,Vedat Muriqi,Lazio,it ITA,0.0,0.0,125
+600,Ștefan Radu,Lazio,it ITA,0.0,0.0,90
+601,Mattia Zaccagni,Lazio,it ITA,0.0,0.12,74
+602,Anderson Lima,Lazio,it ITA,0.0,0.0,21
+603,Luka Romero,Lazio,it ITA,0.0,0.0,10
+604,Gonzalo Escalante,Lazio,it ITA,0.0,0.0,9
+605,Marius Adamonis,Lazio,it ITA,0.0,0.0,0
+606,Felipe Caicedo,Lazio,it ITA,0.0,0.0,0
+607,Romano Floriani,Lazio,it ITA,0.0,0.0,0
+608,Thomas Strakosha,Lazio,it ITA,0.0,0.0,0
+609,Denis Vavro,Lazio,it ITA,0.0,0.0,0
+610,Maximilian Arnold,Wolfsburg,de GER,0.0,0.13,990
+611,Koen Casteels,Wolfsburg,de GER,0.0,0.0,990
+612,Ridle Baku,Wolfsburg,de GER,0.0,0.06,789
+613,Maxence Lacroix,Wolfsburg,de GER,0.0,0.01,776
+614,John Brooks,Wolfsburg,de GER,0.12,0.01,780
+615,Kevin Mbabu,Wolfsburg,de GER,0.0,0.2,775
+616,Wout Weghorst,Wolfsburg,de GER,0.12,0.13,743
+617,Josuha Guilavogui,Wolfsburg,de GER,0.0,0.0,674
+618,Maximilian Philipp,Wolfsburg,de GER,0.17,0.09,526
+619,Renato Steffen,Wolfsburg,de GER,0.0,0.11,460
+620,Lukas Nmecha,Wolfsburg,de GER,0.0,0.22,558
+621,Jérôme Roussillon,Wolfsburg,de GER,0.0,0.04,508
+622,Sebastiaan Bornauw,Wolfsburg,de GER,0.0,0.0,382
+623,Yannick Gerhardt,Wolfsburg,de GER,0.0,0.08,380
+624,Dodi Lukebakio,Wolfsburg,de GER,0.0,0.06,466
+625,Luca Waldschmidt,Wolfsburg,de GER,0.0,0.12,325
+626,Xaver Schlager,Wolfsburg,de GER,0.38,0.05,238
+627,Aster Vranckx,Wolfsburg,de GER,0.0,0.11,211
+628,Paulo Otávio,Wolfsburg,de GER,0.54,0.35,168
+629,Felix Kalu Nmecha,Wolfsburg,de GER,0.0,0.0,39
+630,Mickey van de Ven,Wolfsburg,de GER,0.0,0.0,34
+631,Omar Marmoush,Wolfsburg,de GER,0.0,1.01,24
+632,Josip Brekalo,Wolfsburg,de GER,4.29,1.82,21
+633,Daniel Ginczek,Wolfsburg,de GER,0.0,0.0,13
+634,Admir Mehmedi,Wolfsburg,de GER,0.0,0.0,4
+635,Jannis Lang,Wolfsburg,de GER,0.0,0.0,0
+636,Pavao Pervan,Wolfsburg,de GER,0.0,0.0,0
+637,Marin Pongračić,Wolfsburg,de GER,0.0,0.0,0
+638,Gil-Linnart Walther,Wolfsburg,de GER,0.0,0.0,0
+639,Nayef Aguerd,Rennes,fr FRA,0.0,0.0,1170
+640,Flavien Tait,Rennes,fr FRA,0.24,0.18,1128
+641,Benjamin Bourigeaud,Rennes,fr FRA,0.33,0.36,1081
+642,Alfred Gomis,Rennes,fr FRA,0.0,0.0,1080
+643,Hamari Traoré,Rennes,fr FRA,0.25,0.18,1063
+644,Birger Meling,Rennes,fr FRA,0.18,0.06,1023
+645,Martin Terrier,Rennes,fr FRA,0.0,0.1,847
+646,Gaëtan Laborde,Rennes,fr FRA,0.12,0.13,765
+647,Kamaldeen Sulemana,Rennes,fr FRA,0.24,0.14,763
+648,Warmed Omari,Rennes,fr FRA,0.0,0.02,735
+649,Baptiste Santamaria,Rennes,fr FRA,0.16,0.04,566
+650,Loïc Bade,Rennes,fr FRA,0.0,0.02,433
+651,Jonas Martin,Rennes,fr FRA,0.0,0.03,403
+652,Sehrou Guirassy,Rennes,fr FRA,0.0,0.04,416
+653,Chimuanya Ugochukwu,Rennes,fr FRA,0.0,0.01,334
+654,Jeremy Doku,Rennes,fr FRA,0.0,0.04,150
+655,Lovro Majer,Rennes,fr FRA,0.56,1.02,162
+656,Lorenz Assignon,Rennes,fr FRA,0.0,0.0,145
+657,Eduardo Camavinga,Rennes,fr FRA,0.0,0.01,143
+658,Adrien Truffert,Rennes,fr FRA,0.0,0.09,143
+659,Matthis Abline,Rennes,fr FRA,0.0,0.03,103
+660,Romain Salin,Rennes,fr FRA,0.0,0.0,90
+661,Mathys Tel,Rennes,fr FRA,0.0,0.21,36
+662,Romain Del Castillo,Rennes,fr FRA,0.0,0.16,28
+663,Loum Tchaouna,Rennes,fr FRA,0.0,0.0,10
+664,Andy Diouf,Rennes,fr FRA,0.0,0.0,5
+665,Pépé Bonet,Rennes,fr FRA,0.0,0.0,0
+666,Faitout Maouassa,Rennes,fr FRA,0.0,0.0,0
+667,Péter Gulácsi,RB Leipzig,de GER,0.0,0.0,990
+668,Christopher Nkunku,RB Leipzig,de GER,0.29,0.32,922
+669,Amadou Haidara,RB Leipzig,de GER,0.0,0.02,839
+670,Mohamed Simakan,RB Leipzig,de GER,0.0,0.01,874
+671,Joško Gvardiol,RB Leipzig,de GER,0.23,0.15,789
+672,Willi Orban,RB Leipzig,de GER,0.11,0.09,784
+673,Kevin Kampl,RB Leipzig,de GER,0.15,0.14,616
+674,Dominik Szoboszlai,RB Leipzig,de GER,0.42,0.43,639
+675,Emil Forsberg,RB Leipzig,de GER,0.0,0.18,638
+676,Angeliño,RB Leipzig,de GER,0.16,0.21,580
+677,Nordi Mukiele,RB Leipzig,de GER,0.0,0.08,594
+678,André Silva,RB Leipzig,de GER,0.32,0.14,557
+679,Lukas Klostermann,RB Leipzig,de GER,0.16,0.04,551
+680,Yussuf Poulsen,RB Leipzig,de GER,0.0,0.28,485
+681,Tyler Adams,RB Leipzig,de GER,0.0,0.1,451
+682,Dani Olmo,RB Leipzig,de GER,0.0,0.03,122
+683,Benjamin Henrichs,RB Leipzig,de GER,0.0,0.0,120
+684,Konrad Laimer,RB Leipzig,de GER,0.0,0.03,183
+685,Hwang Hee-chan,RB Leipzig,de GER,0.0,0.0,49
+686,Marcel Sabitzer,RB Leipzig,de GER,0.0,0.0,49
+687,Brian Brobbey,RB Leipzig,de GER,2.25,0.55,40
+688,Ilaix,RB Leipzig,de GER,0.0,0.0,12
+689,Hugo Novoa,RB Leipzig,de GER,0.0,0.0,6
+690,Josep Martinez,RB Leipzig,de GER,0.0,0.0,0
+691,Sidney Raebiger,RB Leipzig,de GER,0.0,0.0,0
+692,Philipp Tschauner,RB Leipzig,de GER,0.0,0.0,0
+693,Joscha Wosz,RB Leipzig,de GER,0.0,0.0,0
+694,Lukáš Hrádecký,Leverkusen,de GER,0.0,0.0,990
+695,Jonathan Tah,Leverkusen,de GER,0.0,0.01,990
+696,Jeremie Frimpong,Leverkusen,de GER,0.28,0.12,958
+697,Kerem Demirbay,Leverkusen,de GER,0.1,0.11,921
+698,Moussa Diaby,Leverkusen,de GER,0.22,0.26,811
+699,Odilon Kossonou,Leverkusen,de GER,0.11,0.07,790
+700,Patrik Schick,Leverkusen,de GER,0.0,0.02,702
+701,Mitchel Bakker,Leverkusen,de GER,0.24,0.02,750
+702,Florian Wirtz,Leverkusen,de GER,0.89,0.49,610
+703,Charles Aránguiz,Leverkusen,de GER,0.0,0.02,517
+704,Paulinho,Leverkusen,de GER,0.22,0.07,403
+705,Exequiel Palacios,Leverkusen,de GER,0.0,0.01,361
+706,Robert Andrich,Leverkusen,de GER,0.0,0.01,371
+707,Piero Hincapié,Leverkusen,de GER,0.0,0.01,288
+708,Amine Adli,Leverkusen,de GER,0.0,0.1,394
+709,Karim Bellarabi,Leverkusen,de GER,0.0,0.0,189
+710,Nadiem Amiri,Leverkusen,de GER,0.0,0.04,279
+711,Edmond Tapsoba,Leverkusen,de GER,0.0,0.0,239
+712,Lucas Alario,Leverkusen,de GER,0.0,0.04,145
+713,Daley Sinkgraven,Leverkusen,de GER,0.0,0.3,72
+714,Iker Bravo,Leverkusen,de GER,0.0,0.0,12
+715,Joel Pohjanpalo,Leverkusen,de GER,0.0,0.0,12
+716,Panagiotis Retsos,Leverkusen,de GER,0.0,0.0,12
+717,Julian Baumgartlinger,Leverkusen,de GER,0.0,0.0,9
+718,Zidan Sertdemir,Leverkusen,de GER,0.0,0.0,5
+719,Niklas Lomb,Leverkusen,de GER,0.0,0.0,0
+720,Andrey Lunyov,Leverkusen,de GER,0.0,0.0,0
+721,Mitchell Weiser,Leverkusen,de GER,0.0,0.0,0
+722,Wendell,Leverkusen,de GER,0.0,0.0,0
+723,Nabil Fekir,Betis,es ESP,0.18,0.25,1021
+724,Sergio Canales,Betis,es ESP,0.2,0.18,897
+725,Édgar González,Betis,es ESP,0.1,0.0,894
+726,Álex Moreno,Betis,es ESP,0.0,0.07,778
+727,Guido Rodríguez,Betis,es ESP,0.24,0.03,762
+728,Rodrigo,Betis,es ESP,0.16,0.12,576
+729,Germán Pezzella,Betis,es ESP,0.0,0.0,694
+730,Héctor Bellerín,Betis,es ESP,0.14,0.09,630
+731,Claudio Bravo,Betis,es ESP,0.0,0.02,630
+732,William Carvalho,Betis,es ESP,0.15,0.12,609
+733,Juanmi,Betis,es ESP,0.16,0.05,570
+734,Willian José,Betis,es ESP,0.0,0.1,555
+735,Andrés Guardado,Betis,es ESP,0.0,0.04,549
+736,Rui Silva,Betis,es ESP,0.0,0.0,540
+737,Martín Montoya,Betis,es ESP,0.17,0.19,518
+738,Víctor Ruiz,Betis,es ESP,0.0,0.0,456
+739,Borja Iglesias,Betis,es ESP,0.0,0.16,472
+740,Aitor Ruibal,Betis,es ESP,0.0,0.01,338
+741,Juan Miranda,Betis,es ESP,0.0,0.01,327
+742,Marc Bartra,Betis,es ESP,0.0,0.0,193
+743,Cristian Tello,Betis,es ESP,0.0,0.16,283
+744,Kike Hermoso,Betis,es ESP,0.0,0.0,90
+745,Paul Akouokou,Betis,es ESP,0.0,0.0,81
+746,Joaquín,Betis,es ESP,0.83,0.56,109
+747,Víctor Camarasa,Betis,es ESP,0.0,0.0,93
+748,Calderón,Betis,es ESP,0.0,0.19,65
+749,Roberto González,Betis,es ESP,0.0,0.0,56
+750,Diego Lainez,Betis,es ESP,0.0,0.0,21
+751,Loren Morón,Betis,es ESP,0.0,0.0,4
+752,Fran Delgado,Betis,es ESP,0.0,0.0,0
+753,Yassin Fekir,Betis,es ESP,0.0,0.0,0
+754,Sidnei,Betis,es ESP,0.0,0.0,0
+755,Gianluca Mancini,Roma,it ITA,0.0,0.0,1080
+756,Rui Patrício,Roma,it ITA,0.0,0.0,1080
+757,Rick Karsdorp,Roma,it ITA,0.09,0.13,1038
+758,Jordan Veretout,Roma,it ITA,0.18,0.13,1015
+759,Tammy Abraham,Roma,it ITA,0.18,0.18,1010
+760,Bryan Cristante,Roma,it ITA,0.0,0.06,1017
+761,Roger Ibanez,Roma,it ITA,0.0,0.02,991
+762,Lorenzo Pellegrini,Roma,it ITA,0.18,0.32,982
+763,Henrikh Mkhitaryan,Roma,it ITA,0.24,0.17,761
+764,Nicolò Zaniolo,Roma,it ITA,0.0,0.07,719
+765,Matías Viña,Roma,it ITA,0.12,0.05,728
+766,Stephan El Shaarawy,Roma,it ITA,0.0,0.19,400
+767,Eldor Shomurodov,Roma,it ITA,1.04,0.4,260
+768,Riccardo Calafiori,Roma,it ITA,0.53,0.41,171
+769,Carles Pérez,Roma,it ITA,0.48,0.23,187
+770,Chris Smalling,Roma,it ITA,0.0,0.0,134
+771,Marash Kumbulla,Roma,it ITA,0.0,0.0,66
+772,Ebrima Darboe,Roma,it ITA,0.0,0.0,63
+773,Felix Afena-Gyan,Roma,it ITA,0.0,0.08,79
+774,Borja Mayoral,Roma,it ITA,0.0,0.0,29
+775,Nicola Zalewski,Roma,it ITA,0.0,0.08,16
+776,Amadou Diawara,Roma,it ITA,0.0,0.0,8
+777,Edoardo Bove,Roma,it ITA,0.0,0.0,4
+778,Bryan Reynolds,Roma,it ITA,0.0,0.0,2
+779,Pietro Boer,Roma,it ITA,0.0,0.0,0
+780,Daniel Fuzato,Roma,it ITA,0.0,0.0,0
+781,Filippo Missori,Roma,it ITA,0.0,0.0,0
+782,Filippo Tripi,Roma,it ITA,0.0,0.0,0
+783,Gonzalo Villar,Roma,it ITA,0.0,0.0,0
+784,Cristian Volpato,Roma,it ITA,0.0,0.0,0
+785,Robin Zentner,Mainz 05,de GER,0.0,0.0,990
+786,Silvan Widmer,Mainz 05,de GER,0.18,0.09,981
+787,Stefan Bell,Mainz 05,de GER,0.0,0.08,944
+788,Jonathan Burkardt,Mainz 05,de GER,0.11,0.13,804
+789,Jean-Paul Boëtius,Mainz 05,de GER,0.0,0.12,732
+790,Dominik Kohr,Mainz 05,de GER,0.12,0.1,730
+791,Leandro Barreiro Martins,Mainz 05,de GER,0.13,0.05,674
+792,Karim Onisiwo,Mainz 05,de GER,0.58,0.38,622
+793,Moussa Niakhate,Mainz 05,de GER,0.0,0.01,587
+794,Alexander Hack,Mainz 05,de GER,0.0,0.07,575
+795,Anderson Lucoqui,Mainz 05,de GER,0.0,0.04,499
+796,Aarón Martín,Mainz 05,de GER,0.0,0.19,491
+797,Jerry St. Juste,Mainz 05,de GER,0.0,0.02,424
+798,Lee Jae-sung,Mainz 05,de GER,0.21,0.07,419
+799,Niklas Tauer,Mainz 05,de GER,0.0,0.0,220
+800,Marcus Ingvartsen,Mainz 05,de GER,0.0,0.08,230
+801,Ádám Szalai,Mainz 05,de GER,0.0,0.22,213
+802,Daniel Brosinski,Mainz 05,de GER,0.0,0.07,174
+803,Paul Nebel,Mainz 05,de GER,0.0,0.04,135
+804,Anton Stach,Mainz 05,de GER,0.46,0.22,195
+805,David Nemeth,Mainz 05,de GER,0.0,0.0,161
+806,Kevin Stöger,Mainz 05,de GER,0.0,0.16,74
+807,Matondo-Merveille Papela,Mainz 05,de GER,0.0,0.0,8
+808,Stephan Fürstner,Mainz 05,de GER,0.0,0.0,5
+809,Luca Kilian,Mainz 05,de GER,0.0,0.0,1
+810,Romario Rösch,Mainz 05,de GER,0.0,0.0,1
+811,Ben Bobzien,Mainz 05,de GER,0.0,0.0,0
+812,Finn Dahmen,Mainz 05,de GER,0.0,0.0,0
+813,Kaito Mizuta,Mainz 05,de GER,0.0,0.0,0
+814,Timothé Rupil,Mainz 05,de GER,0.0,0.0,0
+815,David de Gea,Manchester Utd,eng ENG,0.0,0.0,990
+816,Aaron Wan-Bissaka,Manchester Utd,eng ENG,0.0,0.05,990
+817,Bruno Fernandes,Manchester Utd,eng ENG,0.29,0.32,940
+818,Luke Shaw,Manchester Utd,eng ENG,0.1,0.14,915
+819,Harry Maguire,Manchester Utd,eng ENG,0.0,0.0,876
+820,Mason Greenwood,Manchester Utd,eng ENG,0.0,0.14,795
+821,Fred,Manchester Utd,eng ENG,0.0,0.04,760
+822,Victor Lindelöf,Manchester Utd,eng ENG,0.28,0.06,654
+823,Cristiano Ronaldo,Manchester Utd,eng ENG,0.14,0.09,644
+824,Paul Pogba,Manchester Utd,eng ENG,1.0,0.2,631
+825,Scott McTominay,Manchester Utd,eng ENG,0.0,0.12,625
+826,Raphaël Varane,Manchester Utd,eng ENG,0.17,0.02,540
+827,Jadon Sancho,Manchester Utd,eng ENG,0.0,0.14,345
+828,Nemanja Matić,Manchester Utd,eng ENG,0.61,0.16,294
+829,Edinson Cavani,Manchester Utd,eng ENG,0.0,0.01,213
+830,Anthony Martial,Manchester Utd,eng ENG,0.0,0.07,155
+831,Daniel James,Manchester Utd,eng ENG,0.0,0.01,126
+832,Marcus Rashford,Manchester Utd,eng ENG,0.0,0.0,131
+833,Eric Bailly,Manchester Utd,eng ENG,0.0,0.0,45
+834,Diogo Dalot,Manchester Utd,eng ENG,0.0,0.04,87
+835,Jesse Lingard,Manchester Utd,eng ENG,0.0,0.13,68
+836,Alex Telles,Manchester Utd,eng ENG,0.0,0.0,18
+837,Donny van de Beek,Manchester Utd,eng ENG,0.0,0.0,17
+838,Tom Heaton,Manchester Utd,eng ENG,0.0,0.0,0
+839,Dean Henderson,Manchester Utd,eng ENG,0.0,0.0,0
+840,Juan Mata,Manchester Utd,eng ENG,0.0,0.0,0
+841,Andreas Pereira,Manchester Utd,eng ENG,0.0,0.0,0
+842,Brandon Williams,Manchester Utd,eng ENG,0.0,0.0,0
+843,Lewis Dunk,Brighton,eng ENG,0.0,0.02,990
+844,Robert Sánchez,Brighton,eng ENG,0.0,0.04,989
+845,Leandro Trossard,Brighton,eng ENG,0.09,0.11,956
+846,Shane Duffy,Brighton,eng ENG,0.0,0.01,900
+847,Adam Lallana,Brighton,eng ENG,0.1,0.04,888
+848,Neal Maupay,Brighton,eng ENG,0.0,0.05,758
+849,Joël Veltman,Brighton,eng ENG,0.12,0.09,733
+850,Marc Cucurella,Brighton,eng ENG,0.0,0.11,686
+851,Pascal Groß,Brighton,eng ENG,0.29,0.21,618
+852,Yves Bissouma,Brighton,eng ENG,0.15,0.05,587
+853,Solly March,Brighton,eng ENG,0.17,0.15,526
+854,Jakub Moder,Brighton,eng ENG,0.18,0.13,509
+855,Adam Webster,Brighton,eng ENG,0.0,0.0,322
+856,Dan Burn,Brighton,eng ENG,0.0,0.02,302
+857,Enock Mwepu,Brighton,eng ENG,0.0,0.01,261
+858,Danny Welbeck,Brighton,eng ENG,0.0,0.0,239
+859,Alexis Mac Allister,Brighton,eng ENG,0.31,0.02,292
+860,Tariq Lamptey,Brighton,eng ENG,0.0,0.11,165
+861,Steven Alzate,Brighton,eng ENG,0.0,0.14,90
+862,Aaron Connolly,Brighton,eng ENG,0.0,0.0,60
+863,Taylor Richards,Brighton,eng ENG,0.0,0.0,18
+864,Florin Andone,Brighton,eng ENG,0.0,0.0,0
+865,Moisés Caicedo,Brighton,eng ENG,0.0,0.0,0
+866,Michał Karbownik,Brighton,eng ENG,0.0,0.0,0
+867,Jürgen Locadia,Brighton,eng ENG,0.0,0.0,0
+868,Haydon Roberts,Brighton,eng ENG,0.0,0.0,0
+869,Jeremy Sarmiento,Brighton,eng ENG,0.0,0.0,0
+870,Kjell Scherpen,Brighton,eng ENG,0.0,0.0,0
+871,Jason Steele,Brighton,eng ENG,0.0,0.0,0
+872,Andi Zeqiri,Brighton,eng ENG,0.0,0.0,0
+873,Robin Knoche,Union Berlin,de GER,0.0,0.0,990
+874,Andreas Luthe,Union Berlin,de GER,0.0,0.0,990
+875,Niko Gießelmann,Union Berlin,de GER,0.19,0.05,967
+876,Rani Khedira,Union Berlin,de GER,0.0,0.0,934
+877,Taiwo Awoniyi,Union Berlin,de GER,0.0,0.06,789
+878,Marvin Friedrich,Union Berlin,de GER,0.0,0.08,719
+879,Genki Haraguchi,Union Berlin,de GER,0.51,0.2,703
+880,Timo Baumgartl,Union Berlin,de GER,0.0,0.0,651
+881,Max Kruse,Union Berlin,de GER,0.43,0.35,633
+882,Grischa Prömel,Union Berlin,de GER,0.0,0.01,611
+883,Paul Jaeckel,Union Berlin,de GER,0.0,0.01,595
+884,Christopher Trimmel,Union Berlin,de GER,0.0,0.18,511
+885,Julian Ryerson,Union Berlin,de GER,0.0,0.07,531
+886,Levin Öztunalı,Union Berlin,de GER,0.0,0.08,298
+887,Sheraldo Becker,Union Berlin,de GER,0.68,0.35,266
+888,Marcus Ingvartsen,Union Berlin,de GER,0.0,0.0,122
+889,Andreas Voglsammer,Union Berlin,de GER,0.38,0.12,236
+890,Kevin Möhwald,Union Berlin,de GER,0.0,0.31,47
+891,Kevin Behrens,Union Berlin,de GER,1.02,0.7,176
+892,Cedric Teuchert,Union Berlin,de GER,0.0,0.07,96
+893,Keita Endo,Union Berlin,de GER,0.0,0.0,14
+894,Sebastian Griesbeck,Union Berlin,de GER,0.0,0.0,9
+895,Bastian Oczipka,Union Berlin,de GER,0.0,0.0,1
+896,Rick van Drongelen,Union Berlin,de GER,0.0,0.0,0
+897,Tymoteusz Puchacz,Union Berlin,de GER,0.0,0.0,0
+898,Frederik Rønnow,Union Berlin,de GER,0.0,0.0,0
+899,Paweł Wszołek,Union Berlin,de GER,0.0,0.0,0
+900,Catena,Rayo Vallecano,es ESP,0.08,0.03,1170
+901,Francisco Garcia,Rayo Vallecano,es ESP,0.0,0.04,1170
+902,Stole Dimitrievski,Rayo Vallecano,es ESP,0.0,0.0,1152
+903,Iván Balliu,Rayo Vallecano,es ESP,0.08,0.06,1080
+904,Álvaro García,Rayo Vallecano,es ESP,0.08,0.07,1076
+905,Santi Comesaña,Rayo Vallecano,es ESP,0.09,0.07,988
+906,Óscar Trejo,Rayo Vallecano,es ESP,0.72,0.26,755
+907,Isaac Palazón Camacho,Rayo Vallecano,es ESP,0.0,0.12,886
+908,Esteban Saveljich,Rayo Vallecano,es ESP,0.0,0.03,760
+909,Óscar Valentín,Rayo Vallecano,es ESP,0.0,0.01,679
+910,Randy Ntekja,Rayo Vallecano,es ESP,0.0,0.16,614
+911,Pathé Ciss,Rayo Vallecano,es ESP,0.19,0.06,477
+912,Unai López,Rayo Vallecano,es ESP,0.0,0.13,415
+913,Radamel Falcao,Rayo Vallecano,es ESP,0.0,0.0,333
+914,Nikola Maraš,Rayo Vallecano,es ESP,0.0,0.0,282
+915,Martín Merquelanz,Rayo Vallecano,es ESP,0.0,0.35,173
+916,Sergi Guardiola,Rayo Vallecano,es ESP,0.9,0.19,201
+917,Mario Hernández,Rayo Vallecano,es ESP,0.0,0.0,118
+918,Bebé,Rayo Vallecano,es ESP,0.95,0.58,190
+919,Andrés Martín,Rayo Vallecano,es ESP,0.0,0.0,114
+920,Mario Suárez,Rayo Vallecano,es ESP,0.0,0.04,93
+921,Luca Zidane,Rayo Vallecano,es ESP,0.0,0.0,15
+922,Kévin Rodrigues,Rayo Vallecano,es ESP,0.0,0.0,37
+923,José Pozo,Rayo Vallecano,es ESP,0.0,0.0,13
+924,Yacine Qasmi,Rayo Vallecano,es ESP,0.0,0.0,4
+925,Iván Arboleda,Rayo Vallecano,es ESP,0.0,0.0,0
+926,Jorge Moreno,Rayo Vallecano,es ESP,0.0,0.0,0
+927,Sergio Moreno,Rayo Vallecano,es ESP,0.0,0.0,0
+928,Morro,Rayo Vallecano,es ESP,0.0,0.0,0
+929,Iker Recio,Rayo Vallecano,es ESP,0.0,0.0,0
+930,Dušan Vlahović,Fiorentina,it ITA,0.08,0.11,1070
+931,Cristiano Biraghi,Fiorentina,it ITA,0.0,0.14,1017
+932,Nikola Milenković,Fiorentina,it ITA,0.0,0.0,972
+933,Giacomo Bonaventura,Fiorentina,it ITA,0.1,0.12,917
+934,José Callejón,Fiorentina,it ITA,0.14,0.16,651
+935,Lucas Martínez Quarta,Fiorentina,it ITA,0.0,0.0,679
+936,Pietro Terracciano,Fiorentina,it ITA,0.0,0.0,702
+937,Lucas Torreira,Fiorentina,it ITA,0.0,0.03,580
+938,Alfred Duncan,Fiorentina,it ITA,0.0,0.07,579
+939,Nicolás González,Fiorentina,it ITA,0.17,0.19,519
+940,Lorenzo Venuti,Fiorentina,it ITA,0.0,0.02,415
+941,Álvaro Odriozola,Fiorentina,it ITA,0.17,0.12,524
+942,Riccardo Sottil,Fiorentina,it ITA,0.0,0.01,443
+943,Bartłomiej Drągowski,Fiorentina,it ITA,0.0,0.0,376
+944,Gaetano Castrovilli,Fiorentina,it ITA,0.24,0.03,370
+945,Riccardo Saponara,Fiorentina,it ITA,0.4,0.32,446
+946,Igor,Fiorentina,it ITA,0.0,0.0,400
+947,Erick Pulgar,Fiorentina,it ITA,0.27,0.2,330
+948,Youssef Maleh,Fiorentina,it ITA,0.0,0.03,195
+949,Sofyan Amrabat,Fiorentina,it ITA,0.0,0.03,197
+950,Marco Benassi,Fiorentina,it ITA,0.0,0.03,158
+951,Matija Nastasić,Fiorentina,it ITA,0.0,0.02,128
+952,Aleksa Terzić,Fiorentina,it ITA,0.0,0.04,63
+953,Aleksandr Kokorin,Fiorentina,it ITA,0.0,0.0,30
+954,Vittorio Agostinelli,Fiorentina,it ITA,0.0,0.0,0
+955,Alessandro Bianco,Fiorentina,it ITA,0.0,0.0,0
+956,Michele Cerofolini,Fiorentina,it ITA,0.0,0.0,0
+957,Destiny Egharevba,Fiorentina,it ITA,0.0,0.0,0
+958,Louis Munteanu,Fiorentina,it ITA,0.0,0.0,0
+959,Luca Ranieri,Fiorentina,it ITA,0.0,0.0,0
+960,Antonio Rosati,Fiorentina,it ITA,0.0,0.0,0
+961,Eljon Toci,Fiorentina,it ITA,0.0,0.0,0
+962,Leonardo Bonucci,Juventus,it ITA,0.0,0.03,900
+963,Danilo,Juventus,it ITA,0.1,0.03,889
+964,Wojciech Szczęsny,Juventus,it ITA,0.0,0.0,810
+965,Manuel Locatelli,Juventus,it ITA,0.11,0.05,806
+966,Alex Sandro,Juventus,it ITA,0.0,0.09,792
+967,Álvaro Morata,Juventus,it ITA,0.0,0.22,712
+968,Paulo Dybala,Juventus,it ITA,0.41,0.25,663
+969,Adrien Rabiot,Juventus,it ITA,0.16,0.03,569
+970,Matthijs de Ligt,Juventus,it ITA,0.0,0.0,663
+971,Juan Cuadrado,Juventus,it ITA,0.0,0.21,639
+972,Federico Chiesa,Juventus,it ITA,0.15,0.1,617
+973,Weston McKennie,Juventus,it ITA,0.0,0.04,601
+974,Rodrigo Bentancur,Juventus,it ITA,0.15,0.03,590
+975,Giorgio Chiellini,Juventus,it ITA,0.0,0.01,592
+976,Federico Bernardeschi,Juventus,it ITA,0.0,0.03,470
+977,Mattia De Sciglio,Juventus,it ITA,0.0,0.15,243
+978,Mattia Perin,Juventus,it ITA,0.0,0.0,270
+979,Moise Kean,Juventus,it ITA,0.0,0.01,216
+980,Dejan Kulusevski,Juventus,it ITA,0.25,0.22,363
+981,Luca Pellegrini,Juventus,it ITA,0.0,0.19,111
+982,Arthur Melo,Juventus,it ITA,0.0,0.02,103
+983,Aaron Ramsey,Juventus,it ITA,0.0,0.1,99
+984,Daniele Rugani,Juventus,it ITA,0.0,0.0,90
+985,Kaio Jorge,Juventus,it ITA,0.0,0.05,41
+986,Cristiano Ronaldo,Juventus,it ITA,0.0,0.12,31
+987,Koni De Winter,Juventus,it ITA,0.0,0.0,0
+988,Nicolò Fagioli,Juventus,it ITA,0.0,0.0,0
+989,Franco Israel,Juventus,it ITA,0.0,0.0,0
+990,Fabio Miretti,Juventus,it ITA,0.0,0.0,0
+991,Carlo Pinsoglio,Juventus,it ITA,0.0,0.0,0
+992,Filippo Ranocchia,Juventus,it ITA,0.0,0.0,0
+993,Matìas Soulé,Juventus,it ITA,0.0,0.0,0
+994,Łukasz Skorupski,Bologna,it ITA,0.0,0.0,1080
+995,Lorenzo De Silvestri,Bologna,it ITA,0.09,0.08,1018
+996,Nicolás Domínguez,Bologna,it ITA,0.09,0.04,988
+997,Aaron Hickey,Bologna,it ITA,0.0,0.02,902
+998,Gary Medel,Bologna,it ITA,0.09,0.0,1009
+999,Marko Arnautović,Bologna,it ITA,0.09,0.16,969
+1000,Mattias Svanberg,Bologna,it ITA,0.11,0.14,851
+1001,Roberto Soriano,Bologna,it ITA,0.22,0.15,813
+1002,Musa Barrow,Bologna,it ITA,0.35,0.14,776
+1003,Arthur Theate,Bologna,it ITA,0.16,0.02,579
+1004,Kevin Bonifazi,Bologna,it ITA,0.0,0.0,522
+1005,Riccardo Orsolini,Bologna,it ITA,0.22,0.15,401
+1006,Adama Soumaoro,Bologna,it ITA,0.0,0.02,389
+1007,Andreas Skov Olsen,Bologna,it ITA,0.29,0.07,311
+1008,Nicola Sansone,Bologna,it ITA,0.6,0.31,299
+1009,Emanuel Vignato,Bologna,it ITA,0.0,0.15,267
+1010,Luis Binks,Bologna,it ITA,0.0,0.01,150
+1011,Jerdy Schouten,Bologna,it ITA,0.78,0.13,116
+1012,Kingsley Michael,Bologna,it ITA,0.0,0.0,76
+1013,Ibrahima Mbaye,Bologna,it ITA,0.0,0.0,70
+1014,Mitchell Dijks,Bologna,it ITA,0.0,0.03,84
+1015,Sydney van Hooijdonk,Bologna,it ITA,0.0,0.12,38
+1016,Federico Santander,Bologna,it ITA,0.0,0.0,15
+1017,Takehiro Tomiyasu,Bologna,it ITA,0.0,0.3,10
+1018,Wisdom Amey,Bologna,it ITA,0.0,0.0,0
+1019,Ebenezer Annan,Bologna,it ITA,0.0,0.0,0
+1020,Nicola Bagnolini,Bologna,it ITA,0.0,0.0,0
+1021,Francesco Bardi,Bologna,it ITA,0.0,0.0,0
+1022,Gianmarco Cangiano,Bologna,it ITA,0.0,0.0,0
+1023,Gabriele Corbo,Bologna,it ITA,0.0,0.0,0
+1024,Davide Franzini,Bologna,it ITA,0.0,0.0,0
+1025,Omar Khailoti,Bologna,it ITA,0.0,0.0,0
+1026,Marco Molla,Bologna,it ITA,0.0,0.0,0
+1027,Niklas Pyyhtiä,Bologna,it ITA,0.0,0.0,0
+1028,Iker Muniain,Athletic Club,es ESP,0.28,0.29,980
+1029,Iñigo Lekue,Athletic Club,es ESP,0.16,0.16,1118
+1030,Iñaki Williams,Athletic Club,es ESP,0.09,0.21,1023
+1031,Unai Simón,Athletic Club,es ESP,0.0,0.0,990
+1032,Iñigo Martínez,Athletic Club,es ESP,0.0,0.03,983
+1033,Dani García,Athletic Club,es ESP,0.0,0.03,964
+1034,Unai Vencedor Paris,Athletic Club,es ESP,0.0,0.01,885
+1035,Álex Berenguer,Athletic Club,es ESP,0.1,0.15,872
+1036,Mikel Balenziaga,Athletic Club,es ESP,0.0,0.01,862
+1037,Daniel Vivian,Athletic Club,es ESP,0.0,0.0,777
+1038,Raúl García,Athletic Club,es ESP,0.0,0.16,624
+1039,Oihan Sancet,Athletic Club,es ESP,0.19,0.2,479
+1040,Yeray Álvarez,Athletic Club,es ESP,0.0,0.01,360
+1041,Óscar de Marcos,Athletic Club,es ESP,0.0,0.05,348
+1042,Mikel Vesga,Athletic Club,es ESP,0.0,0.07,312
+1043,Nico Williams,Athletic Club,es ESP,0.0,0.14,394
+1044,Unai Núñez,Athletic Club,es ESP,0.0,0.0,217
+1045,Julen Agirrezabala,Athletic Club,es ESP,0.0,0.0,180
+1046,Asier Villalibre,Athletic Club,es ESP,0.0,0.01,205
+1047,Oier Zarraga,Athletic Club,es ESP,0.0,0.01,195
+1048,Jon Morcillo,Athletic Club,es ESP,0.0,0.0,43
+1049,Nicolás Serrano,Athletic Club,es ESP,0.0,0.16,40
+1050,Alex Petxa,Athletic Club,es ESP,0.0,0.0,12
+1051,Juan Artola,Athletic Club,es ESP,0.0,0.0,0
+1052,Ander Capa,Athletic Club,es ESP,0.0,0.0,0
+1053,Jokin Ezkieta,Athletic Club,es ESP,0.0,0.0,0
+1054,Aitor Paredes,Athletic Club,es ESP,0.0,0.0,0
+1055,Jordan Ferri,Montpellier,fr FRA,0.09,0.08,1045
+1056,Téji Savanier,Montpellier,fr FRA,0.37,0.2,981
+1057,Joris Chotard,Montpellier,fr FRA,0.0,0.02,965
+1058,Stephy Mavididi,Montpellier,fr FRA,0.19,0.15,947
+1059,Florent Mollet,Montpellier,fr FRA,0.1,0.07,926
+1060,Nicolas Cozza,Montpellier,fr FRA,0.1,0.01,859
+1061,Maxime Estève,Montpellier,fr FRA,0.0,0.0,876
+1062,Mamadou Sakho,Montpellier,fr FRA,0.0,0.01,802
+1063,Valère Germain,Montpellier,fr FRA,0.12,0.03,728
+1064,Jonas Omlin,Montpellier,fr FRA,0.0,0.0,720
+1065,Junior Sambia,Montpellier,fr FRA,0.0,0.03,691
+1066,Thuler,Montpellier,fr FRA,0.0,0.0,539
+1067,Arnaud Souquet,Montpellier,fr FRA,0.0,0.05,474
+1068,Dimitry Bertaud,Montpellier,fr FRA,0.0,0.0,450
+1069,Mihailo Ristić,Montpellier,fr FRA,0.0,0.07,482
+1070,Sepe Elye Wahi,Montpellier,fr FRA,0.0,0.08,372
+1071,Gaëtan Laborde,Montpellier,fr FRA,0.0,0.12,341
+1072,Andy Delort,Montpellier,fr FRA,0.33,0.22,269
+1073,Léo Leroy,Montpellier,fr FRA,0.0,0.01,167
+1074,Nicholas Gioacchini,Montpellier,fr FRA,0.72,0.31,125
+1075,Béni Makouana,Montpellier,fr FRA,0.0,0.0,75
+1076,Yanis Guermouche,Montpellier,fr FRA,0.0,0.0,1
+1077,Matis Carvalho,Montpellier,fr FRA,0.0,0.0,0
+1078,Sacha Delaye,Montpellier,fr FRA,0.0,0.0,0
+1079,Redouane Halhal,Montpellier,fr FRA,0.0,0.0,0
+1080,Ambroise Oyongo,Montpellier,fr FRA,0.0,0.0,0
+1081,Petar Škuletić,Montpellier,fr FRA,0.0,0.0,0
+1082,Mathías Suárez,Montpellier,fr FRA,0.0,0.0,0
+1083,Thibaut Vargas,Montpellier,fr FRA,0.0,0.0,0
+1084,Anthony Lopes,Lyon,fr FRA,0.0,0.0,1063
+1085,Karl Toko Ekambi,Lyon,fr FRA,0.18,0.17,1012
+1086,Houssem Aouar,Lyon,fr FRA,0.18,0.21,1005
+1087,Bruno Guimarães,Lyon,fr FRA,0.18,0.15,977
+1088,Maxence Caqueret,Lyon,fr FRA,0.0,0.05,1020
+1089,Leo Dubois,Lyon,fr FRA,0.0,0.06,914
+1090,Lucas Paquetá,Lyon,fr FRA,0.2,0.19,904
+1091,Emerson Palmieri,Lyon,fr FRA,0.11,0.13,823
+1092,Jason Denayer,Lyon,fr FRA,0.0,0.0,689
+1093,Jérôme Boateng,Lyon,fr FRA,0.0,0.06,578
+1094,Xherdan Shaqiri,Lyon,fr FRA,0.18,0.3,488
+1095,Sinaly Diomande,Lyon,fr FRA,0.0,0.0,578
+1096,Moussa Dembélé,Lyon,fr FRA,0.19,0.2,466
+1097,Malo Gusto,Lyon,fr FRA,0.0,0.22,349
+1098,Islam Slimani,Lyon,fr FRA,0.26,0.16,348
+1099,Thiago Mendes,Lyon,fr FRA,0.0,0.01,340
+1100,Rayan Cherki,Lyon,fr FRA,0.0,0.14,192
+1101,Marcelo,Lyon,fr FRA,0.0,0.0,180
+1102,Damien Da Silva,Lyon,fr FRA,0.0,0.0,177
+1103,Castello Lukeba,Lyon,fr FRA,0.0,0.01,135
+1104,Henrique,Lyon,fr FRA,0.0,0.01,184
+1105,Tino Kadewere,Lyon,fr FRA,0.0,0.0,134
+1106,Julian Pollersbeck,Lyon,fr FRA,0.0,0.0,105
+1107,Maxwel Cornet,Lyon,fr FRA,0.0,0.09,63
+1108,Habib Keita,Lyon,fr FRA,0.0,0.0,6
+1109,Bradley Barcola,Lyon,fr FRA,0.0,0.0,0
+1110,Malcolm Barcola,Lyon,fr FRA,0.0,0.0,0
+1111,Kayne Bonnevie,Lyon,fr FRA,0.0,0.0,0
+1112,Gael Nsombi,Lyon,fr FRA,0.0,0.0,0
+1113,Florent da Silva,Lyon,fr FRA,0.0,0.0,0
+1114,David García,Osasuna,es ESP,0.0,0.01,1170
+1115,Darko Brašanac,Osasuna,es ESP,0.08,0.07,1081
+1116,Sergio Herrera,Osasuna,es ESP,0.0,0.0,1080
+1117,Nacho Vidal,Osasuna,es ESP,0.0,0.04,998
+1118,Lucas Torró,Osasuna,es ESP,0.0,0.0,942
+1119,Rubén García,Osasuna,es ESP,0.1,0.06,891
+1120,Kike,Osasuna,es ESP,0.0,0.07,898
+1121,Jon Moncayola,Osasuna,es ESP,0.1,0.04,871
+1122,Manuel Sánchez,Osasuna,es ESP,0.22,0.08,803
+1123,Unai García,Osasuna,es ESP,0.0,0.0,651
+1124,Aridane Hernández,Osasuna,es ESP,0.0,0.0,519
+1125,Roberto Torres,Osasuna,es ESP,0.38,0.32,472
+1126,Ezequiel Ávila,Osasuna,es ESP,0.0,0.12,445
+1127,Oier Sanjurjo,Osasuna,es ESP,0.0,0.05,371
+1128,Javi Martínez,Osasuna,es ESP,0.0,0.18,318
+1129,José Ángel,Osasuna,es ESP,0.32,0.09,277
+1130,Kike Barja,Osasuna,es ESP,0.0,0.17,197
+1131,Juan Cruz Armada,Osasuna,es ESP,0.0,0.0,192
+1132,Jesús Areso,Osasuna,es ESP,0.0,0.03,172
+1133,Iñigo Pérez,Osasuna,es ESP,0.0,0.34,149
+1134,Ante Budimir,Osasuna,es ESP,0.0,0.0,119
+1135,Robert Ibáñez,Osasuna,es ESP,0.0,0.16,93
+1136,Juan Pérez,Osasuna,es ESP,0.0,0.0,90
+1137,Javier Ontiveros,Osasuna,es ESP,0.0,0.0,39
+1138,Barbero,Osasuna,es ESP,0.0,0.0,12
+1139,Jaume Grau,Osasuna,es ESP,0.0,0.0,3
+1140,Unai Dufur,Osasuna,es ESP,0.0,0.0,0
+1141,Jonás Ramalho,Osasuna,es ESP,0.0,0.0,0
+1142,Yoel Ramírez,Osasuna,es ESP,0.0,0.0,0
+1143,Dario Ramos,Osasuna,es ESP,0.0,0.0,0
+1144,José Sá,Wolves,eng ENG,0.09,0.08,990
+1145,Max Kilman,Wolves,eng ENG,0.0,0.0,989
+1146,Conor Coady,Wolves,eng ENG,0.0,0.0,986
+1147,Romain Saïss,Wolves,eng ENG,0.0,0.01,938
+1148,João Moutinho,Wolves,eng ENG,0.0,0.11,927
+1149,Raúl Jiménez,Wolves,eng ENG,0.2,0.15,902
+1150,Nélson Semedo,Wolves,eng ENG,0.0,0.05,864
+1151,Rúben Neves,Wolves,eng ENG,0.0,0.1,815
+1152,Fernando Marçal,Wolves,eng ENG,0.0,0.01,684
+1153,Francisco Trincão,Wolves,eng ENG,0.0,0.08,619
+1154,Adama Traoré,Wolves,eng ENG,0.0,0.15,645
+1155,Hwang Hee-chan,Wolves,eng ENG,0.0,0.13,604
+1156,Leander Dendoncker,Wolves,eng ENG,0.28,0.18,320
+1157,Rayan Aït Nouri,Wolves,eng ENG,0.33,0.02,269
+1158,Daniel Podence,Wolves,eng ENG,0.48,0.53,187
+1159,Ki-Jana Hoever,Wolves,eng ENG,0.0,0.04,102
+1160,Fábio Silva,Wolves,eng ENG,0.0,0.13,40
+1161,Morgan Gibbs-White,Wolves,eng ENG,0.0,0.0,9
+1162,Willy Boly,Wolves,eng ENG,0.0,0.0,0
+1163,Chem Campbell,Wolves,eng ENG,0.0,0.0,0
+1164,Luke Cundle,Wolves,eng ENG,0.0,0.0,0
+1165,Christian Marques,Wolves,eng ENG,0.0,0.0,0
+1166,Yerson Mosquera,Wolves,eng ENG,0.0,0.0,0
+1167,Louie Moulden,Wolves,eng ENG,0.0,0.0,0
+1168,John Ruddy,Wolves,eng ENG,0.0,0.0,0
+1169,James Storer,Wolves,eng ENG,0.0,0.0,0
+1170,Hugo Lloris,Tottenham,eng ENG,0.0,0.05,990
+1171,Pierre Højbjerg,Tottenham,eng ENG,0.09,0.04,989
+1172,Eric Dier,Tottenham,eng ENG,0.0,0.1,911
+1173,Sergio Reguilón,Tottenham,eng ENG,0.21,0.09,873
+1174,Son Heung-min,Tottenham,eng ENG,0.1,0.13,872
+1175,Oliver Skipp,Tottenham,eng ENG,0.0,0.01,859
+1176,Harry Kane,Tottenham,eng ENG,0.11,0.2,829
+1177,Lucas Moura,Tottenham,eng ENG,0.0,0.07,749
+1178,Emerson,Tottenham,eng ENG,0.0,0.03,675
+1179,Cristian Romero,Tottenham,eng ENG,0.0,0.0,533
+1180,Dele Alli,Tottenham,eng ENG,0.0,0.0,513
+1181,Tanguy Ndombele,Tottenham,eng ENG,0.0,0.05,409
+1182,Japhet Tanganga,Tottenham,eng ENG,0.0,0.09,364
+1183,Davinson Sánchez,Tottenham,eng ENG,0.0,0.0,368
+1184,Steven Bergwijn,Tottenham,eng ENG,0.33,0.14,270
+1185,Giovani Lo Celso,Tottenham,eng ENG,0.0,0.29,213
+1186,Ben Davies,Tottenham,eng ENG,0.0,0.02,211
+1187,Harry Winks,Tottenham,eng ENG,0.0,0.0,60
+1188,Joe Rodon,Tottenham,eng ENG,0.0,0.0,79
+1189,Bryan,Tottenham,eng ENG,0.0,0.0,62
+1190,Matt Doherty,Tottenham,eng ENG,0.0,0.0,28
+1191,Pierluigi Gollini,Tottenham,eng ENG,0.0,0.0,0
+1192,Dilan Markanday,Tottenham,eng ENG,0.0,0.0,0
+1193,Tobi Omole,Tottenham,eng ENG,0.0,0.0,0
+1194,Dane Scarlett,Tottenham,eng ENG,0.0,0.0,0
+1195,Ryan Sessegnon,Tottenham,eng ENG,0.0,0.0,0
+1196,Moussa Sissoko,Tottenham,eng ENG,0.0,0.0,0
+1197,Memphis Depay,Barcelona,es ESP,0.17,0.25,1079
+1198,Sergio Busquets,Barcelona,es ESP,0.0,0.05,1055
+1199,Marc-André ter Stegen,Barcelona,es ESP,0.0,0.0,900
+1200,Sergiño Dest,Barcelona,es ESP,0.31,0.27,877
+1201,Eric García,Barcelona,es ESP,0.0,0.0,756
+1202,Frenkie de Jong,Barcelona,es ESP,0.24,0.11,750
+1203,Gerard Piqué,Barcelona,es ESP,0.0,0.0,745
+1204,Jordi Alba,Barcelona,es ESP,0.5,0.19,720
+1205,Gavi Paez,Barcelona,es ESP,0.15,0.17,593
+1206,Óscar Mingueza,Barcelona,es ESP,0.0,0.11,534
+1207,Nicolás González,Barcelona,es ESP,0.22,0.21,418
+1208,Ronald Araújo,Barcelona,es ESP,0.0,0.0,483
+1209,Philippe Coutinho,Barcelona,es ESP,0.0,0.08,403
+1210,Sergi Roberto,Barcelona,es ESP,0.23,0.08,400
+1211,Antoine Griezmann,Barcelona,es ESP,0.0,0.0,263
+1212,Martin Braithwaite,Barcelona,es ESP,0.4,0.5,224
+1213,Ansu Fati,Barcelona,es ESP,0.0,0.3,213
+1214,Luuk de Jong,Barcelona,es ESP,0.0,0.06,221
+1215,Clément Lenglet,Barcelona,es ESP,0.0,0.12,209
+1216,Yusuf Demir,Barcelona,es ESP,0.0,0.01,189
+1217,Neto,Barcelona,es ESP,0.0,0.0,180
+1218,Sergio Agüero,Barcelona,es ESP,0.0,0.16,151
+1219,Pedri,Barcelona,es ESP,0.0,0.08,151
+1220,Alejandro Balde,Barcelona,es ESP,0.0,0.05,97
+1221,Emerson,Barcelona,es ESP,0.0,0.0,91
+1222,Riqui Puig,Barcelona,es ESP,0.0,0.08,129
+1223,Abdessamad Ezzalzouli,Barcelona,es ESP,0.0,0.0,22
+1224,Lazar Carević,Barcelona,es ESP,0.0,0.0,0
+1225,Rey Manaj,Barcelona,es ESP,0.0,0.0,0
+1226,Iñaki Peña ,Barcelona,es ESP,0.0,0.0,0
+1227,Miralem Pjanić,Barcelona,es ESP,0.0,0.0,0
+1228,Alvaro Sanz,Barcelona,es ESP,0.0,0.0,0
+1229,Arnau Tenas,Barcelona,es ESP,0.0,0.0,0
+1230,Samuel Umtiti,Barcelona,es ESP,0.0,0.0,0
+1231,Matz Sels,Strasbourg,fr FRA,0.0,0.0,1170
+1232,Ludovic Ajorque,Strasbourg,fr FRA,0.44,0.09,1015
+1233,Anthony Caci,Strasbourg,fr FRA,0.09,0.12,972
+1234,Alexander Djiku,Strasbourg,fr FRA,0.0,0.04,947
+1235,Jean-Ricner Bellegarde,Strasbourg,fr FRA,0.0,0.03,838
+1236,Sanjin Prcić,Strasbourg,fr FRA,0.0,0.11,733
+1237,Kévin Gameiro,Strasbourg,fr FRA,0.0,0.01,720
+1238,Adrien Thomasson,Strasbourg,fr FRA,0.12,0.17,751
+1239,Gerzino Nyamsi,Strasbourg,fr FRA,0.12,0.03,734
+1240,Frederic Guilbert,Strasbourg,fr FRA,0.25,0.12,711
+1241,Ibrahima Sissoko,Strasbourg,fr FRA,0.39,0.31,700
+1242,Dimitri Liénard,Strasbourg,fr FRA,0.13,0.05,702
+1243,Maxime Le Marchand,Strasbourg,fr FRA,0.0,0.01,650
+1244,Lucas Perrin,Strasbourg,fr FRA,0.0,0.0,625
+1245,Habib Diallo,Strasbourg,fr FRA,0.0,0.13,636
+1246,Jean-Eudes Aholou,Strasbourg,fr FRA,0.0,0.05,399
+1247,Karol Fila,Strasbourg,fr FRA,0.0,0.21,284
+1248,Abdul Majeed Waris,Strasbourg,fr FRA,0.0,0.06,169
+1249,Mahame Siby,Strasbourg,fr FRA,0.0,0.0,17
+1250,Mehdi Chahiri,Strasbourg,fr FRA,0.0,0.0,16
+1251,Nordine Kandil,Strasbourg,fr FRA,9.0,3.25,10
+1252,Dion Moise Sahi,Strasbourg,fr FRA,0.0,0.0,7
+1253,Mouhamadou Diarra,Strasbourg,fr FRA,0.0,0.0,2
+1254,Aymeric Ahmed,Strasbourg,fr FRA,0.0,0.0,0
+1255,Marvin Elimbi,Strasbourg,fr FRA,0.0,0.0,0
+1256,Eiji Kawashima,Strasbourg,fr FRA,0.0,0.0,0
+1257,Marvin Senaya,Strasbourg,fr FRA,0.0,0.0,0
+1258,Vincent Manceau,Angers,fr FRA,0.0,0.03,1170
+1259,Romain Thomas,Angers,fr FRA,0.0,0.01,1170
+1260,Jimmy Cabot,Angers,fr FRA,0.39,0.13,1153
+1261,Angelo Fulgini,Angers,fr FRA,0.09,0.05,1034
+1262,Paul Bernardoni,Angers,fr FRA,0.0,0.0,1080
+1263,Ismaël Traoré,Angers,fr FRA,0.0,0.01,1080
+1264,Thomas Mangani,Angers,fr FRA,0.18,0.06,1007
+1265,Batista Mendy,Angers,fr FRA,0.0,0.02,909
+1266,Sofiane Boufal,Angers,fr FRA,0.2,0.24,908
+1267,Mohamed Ali Cho,Angers,fr FRA,0.0,0.05,858
+1268,Souleyman Doumbia,Angers,fr FRA,0.0,0.05,615
+1269,Pierrick Capelle,Angers,fr FRA,0.19,0.07,462
+1270,Azzedine Ounahi,Angers,fr FRA,0.0,0.04,417
+1271,Stéphane Bahoken,Angers,fr FRA,0.0,0.01,336
+1272,Enzo Ebosse,Angers,fr FRA,0.0,0.0,272
+1273,Danijel Petković,Angers,fr FRA,0.0,0.0,90
+1274,Waniss Taibi,Angers,fr FRA,0.0,0.0,84
+1275,Bilal Brahimi,Angers,fr FRA,0.87,0.45,104
+1276,Mathias Pereira Lage,Angers,fr FRA,1.36,0.42,66
+1277,Casimir Ninga,Angers,fr FRA,0.0,0.0,25
+1278,Farid El Melali,Angers,fr FRA,0.0,0.0,14
+1279,Antonin Bobichon,Angers,fr FRA,0.0,0.0,13
+1280,Sada Thioub,Angers,fr FRA,0.0,0.0,3
+1281,Rachid Alioui,Angers,fr FRA,0.0,0.0,0
+1282,Abdoulaye Bamba,Angers,fr FRA,0.0,0.0,0
+1283,Noah Fatar,Angers,fr FRA,0.0,0.0,0
+1284,Anthony Mandrea,Angers,fr FRA,0.0,0.0,0
+1285,Alban Lafont,Nantes,fr FRA,0.0,0.0,1170
+1286,Andrei Girotto,Nantes,fr FRA,0.0,0.05,1112
+1287,Moses Simon,Nantes,fr FRA,0.5,0.37,1076
+1288,Nicolas Pallois,Nantes,fr FRA,0.0,0.0,1073
+1289,Ludovic Blas,Nantes,fr FRA,0.0,0.13,1045
+1290,Pedro Chirivella,Nantes,fr FRA,0.09,0.04,1031
+1291,Jean-Charles Castelletto,Nantes,fr FRA,0.0,0.0,985
+1292,Randal Kolo Muani,Nantes,fr FRA,0.19,0.15,966
+1293,Fábio,Nantes,fr FRA,0.0,0.03,588
+1294,Dennis Appiah,Nantes,fr FRA,0.0,0.04,638
+1295,Charles Traore,Nantes,fr FRA,0.0,0.0,584
+1296,Sébastien Corchia,Nantes,fr FRA,0.51,0.04,531
+1297,Osman Bukari,Nantes,fr FRA,0.0,0.13,367
+1298,Wylan Cyprien,Nantes,fr FRA,0.28,0.29,325
+1299,Marcus Coco,Nantes,fr FRA,0.0,0.12,295
+1300,Roli Pereira de Sa,Nantes,fr FRA,0.0,0.05,280
+1301,Kalifa Coulibaly,Nantes,fr FRA,0.0,0.1,217
+1302,Renaud Emond,Nantes,fr FRA,0.0,0.0,175
+1303,Samuel Moutoussamy,Nantes,fr FRA,0.0,0.0,240
+1304,Willem Geubbels,Nantes,fr FRA,0.0,0.0,97
+1305,Quentin Merlin,Nantes,fr FRA,0.0,0.3,23
+1306,Rémy Descamps,Nantes,fr FRA,0.0,0.0,0
+1307,Anthony Limbombe,Nantes,fr FRA,0.0,0.0,0
+1308,Yannis M'Bemba,Nantes,fr FRA,0.0,0.0,0
+1309,Gor Manvelyan,Nantes,fr FRA,0.0,0.0,0
+1310,Denis Petrić,Nantes,fr FRA,0.0,0.0,0
+1311,Abdoulaye Sylla,Nantes,fr FRA,0.0,0.0,0
+1312,Vicente Guaita,Crystal Palace,eng ENG,0.0,0.0,990
+1313,Marc Guéhi,Crystal Palace,eng ENG,0.0,0.0,990
+1314,Tyrick Mitchell,Crystal Palace,eng ENG,0.09,0.05,990
+1315,Joel Ward,Crystal Palace,eng ENG,0.0,0.01,990
+1316,James McArthur,Crystal Palace,eng ENG,0.09,0.08,950
+1317,Joachim Andersen,Crystal Palace,eng ENG,0.0,0.05,934
+1318,Conor Gallagher,Crystal Palace,eng ENG,0.21,0.22,875
+1319,Wilfried Zaha,Crystal Palace,eng ENG,0.11,0.17,834
+1320,Jordan Ayew,Crystal Palace,eng ENG,0.14,0.06,651
+1321,Christian Benteke,Crystal Palace,eng ENG,0.13,0.1,680
+1322,Cheikhou Kouyaté,Crystal Palace,eng ENG,0.0,0.0,634
+1323,Odsonne Édouard,Crystal Palace,eng ENG,0.0,0.19,510
+1324,Luka Milivojević,Crystal Palace,eng ENG,0.0,0.05,323
+1325,Jeffrey Schlupp,Crystal Palace,eng ENG,0.0,0.12,198
+1326,Michael Olise,Crystal Palace,eng ENG,1.16,0.58,155
+1327,Jaïro Riedewald,Crystal Palace,eng ENG,0.0,0.07,102
+1328,Jean-Philippe Mateta,Crystal Palace,eng ENG,0.0,0.0,61
+1329,Jesuran Rak Sakyi,Crystal Palace,eng ENG,0.0,0.0,14
+1330,James Tomkins,Crystal Palace,eng ENG,0.0,0.0,9
+1331,Reece Hannam,Crystal Palace,eng ENG,0.0,0.0,0
+1332,Scott Banks,Crystal Palace,eng ENG,0.0,0.0,0
+1333,Jack Butland,Crystal Palace,eng ENG,0.0,0.0,0
+1334,Nathaniel Clyne,Crystal Palace,eng ENG,0.0,0.0,0
+1335,Will Hughes,Crystal Palace,eng ENG,0.0,0.0,0
+1336,Martin Kelly,Crystal Palace,eng ENG,0.0,0.0,0
+1337,Remi Matthews,Crystal Palace,eng ENG,0.0,0.0,0
+1338,Robert Street,Crystal Palace,eng ENG,0.0,0.0,0
+1339,Alexander Nübel,Monaco,fr FRA,0.0,0.0,1260
+1340,Aurélien Tchouaméni,Monaco,fr FRA,0.0,0.08,1063
+1341,Caio Henrique Oliveira Silva,Monaco,fr FRA,0.38,0.27,952
+1342,Gelson Martins,Monaco,fr FRA,0.11,0.13,844
+1343,Wissam Ben Yedder,Monaco,fr FRA,0.2,0.15,898
+1344,Kevin Volland,Monaco,fr FRA,0.3,0.1,895
+1345,Sofiane Diop,Monaco,fr FRA,0.0,0.07,870
+1346,Ruben Aguilar,Monaco,fr FRA,0.0,0.02,896
+1347,Axel Disasi,Monaco,fr FRA,0.0,0.01,845
+1348,Benoît Badiashile,Monaco,fr FRA,0.0,0.0,726
+1349,Youssouf Fofana,Monaco,fr FRA,0.38,0.11,717
+1350,Guillermo Maripán,Monaco,fr FRA,0.0,0.0,554
+1351,Jean Lucas,Monaco,fr FRA,0.0,0.17,486
+1352,Aleksandr Golovin,Monaco,fr FRA,0.2,0.16,461
+1353,Strahinja Pavlović,Monaco,fr FRA,0.0,0.0,451
+1354,Myron Boadu,Monaco,fr FRA,0.2,0.04,451
+1355,Eliot Matazo,Monaco,fr FRA,0.0,0.02,363
+1356,Djibril Sidibé,Monaco,fr FRA,0.0,0.18,357
+1357,Ismail Jakobs,Monaco,fr FRA,0.0,0.04,317
+1358,Krepin Diatta,Monaco,fr FRA,0.0,0.04,285
+1359,Chrislain Matsima,Monaco,fr FRA,0.0,0.0,60
+1360,Wilson Isidor,Monaco,fr FRA,0.0,0.0,43
+1361,Cesc Fàbregas,Monaco,fr FRA,0.0,0.3,38
+1362,Félix Lemaréchal,Monaco,fr FRA,0.0,0.0,9
+1363,Maghnes Akliouche,Monaco,fr FRA,0.0,0.0,1
+1364,Radosław Majecki,Monaco,fr FRA,0.0,0.0,0
+1365,Vito Mannone,Monaco,fr FRA,0.0,0.0,0
+1366,Anthony Musaba,Monaco,fr FRA,0.0,0.0,0
+1367,Michael Keane,Everton,eng ENG,0.18,0.05,990
+1368,Allan,Everton,eng ENG,0.09,0.03,962
+1369,Demarai Gray,Everton,eng ENG,0.19,0.18,936
+1370,Lucas Digne,Everton,eng ENG,0.0,0.15,900
+1371,Jordan Pickford,Everton,eng ENG,0.0,0.0,900
+1372,Andros Townsend,Everton,eng ENG,0.2,0.17,880
+1373,Séamus Coleman,Everton,eng ENG,0.0,0.07,720
+1374,Abdoulaye Doucouré,Everton,eng ENG,0.5,0.15,720
+1375,Ben Godfrey,Everton,eng ENG,0.0,0.04,679
+1376,Richarlison,Everton,eng ENG,0.16,0.17,559
+1377,Yerry Mina,Everton,eng ENG,0.0,0.0,458
+1378,Alex Iwobi,Everton,eng ENG,0.2,0.2,456
+1379,Salomón Rondón,Everton,eng ENG,0.0,0.04,433
+1380,Anthony Gordon,Everton,eng ENG,0.0,0.12,281
+1381,Mason Holgate,Everton,eng ENG,0.0,0.0,278
+1382,Dominic Calvert-Lewin,Everton,eng ENG,0.0,0.05,248
+1383,Tom Davies,Everton,eng ENG,0.0,0.0,158
+1384,Fabian Delph,Everton,eng ENG,0.0,0.04,112
+1385,Asmir Begović,Everton,eng ENG,0.0,0.0,90
+1386,Jean-Philippe Gbamin,Everton,eng ENG,0.0,0.0,46
+1387,André Gomes,Everton,eng ENG,0.0,0.08,68
+1388,Jonjoe Kenny,Everton,eng ENG,0.0,0.0,11
+1389,Lewis Dobbin,Everton,eng ENG,0.0,0.0,3
+1390,Moise Kean,Everton,eng ENG,0.0,0.0,1
+1391,Jarrad Branthwaite,Everton,eng ENG,0.0,0.0,0
+1392,Nathan Broadhead,Everton,eng ENG,0.0,0.0,0
+1393,Andy Lonergan,Everton,eng ENG,0.0,0.0,0
+1394,Niels Nkounkou,Everton,eng ENG,0.0,0.0,0
+1395,Ellis Simms,Everton,eng ENG,0.0,0.0,0
+1396,Cenk Tosun,Everton,eng ENG,0.0,0.0,0
+1397,Harry Tyrer,Everton,eng ENG,0.0,0.0,0
+1398,Reece Welch,Everton,eng ENG,0.0,0.0,0
+1399,Charlie Whitaker,Everton,eng ENG,0.0,0.0,0
+1400,Yann Sommer,M'Gladbach,de GER,0.09,0.03,990
+1401,Joseph Scally,M'Gladbach,de GER,0.09,0.11,980
+1402,Nico Elvedi,M'Gladbach,de GER,0.0,0.0,927
+1403,Lars Stindl,M'Gladbach,de GER,0.11,0.17,797
+1404,Jonas Hofmann,M'Gladbach,de GER,0.0,0.34,784
+1405,Matthias Ginter,M'Gladbach,de GER,0.0,0.01,782
+1406,Denis Zakaria,M'Gladbach,de GER,0.12,0.03,765
+1407,Alassane Pléa,M'Gladbach,de GER,0.15,0.27,614
+1408,Luca Netz,M'Gladbach,de GER,0.2,0.08,444
+1409,Louis Beyer,M'Gladbach,de GER,0.0,0.01,540
+1410,Breel Embolo,M'Gladbach,de GER,0.18,0.26,504
+1411,Kouadio Koné,M'Gladbach,de GER,0.0,0.03,447
+1412,Florian Neuhaus,M'Gladbach,de GER,0.0,0.1,547
+1413,Ramy Bensebaini,M'Gladbach,de GER,0.0,0.04,406
+1414,Christoph Kramer,M'Gladbach,de GER,0.0,0.0,274
+1415,Patrick Herrmann,M'Gladbach,de GER,0.54,0.16,335
+1416,Hannes Wolf,M'Gladbach,de GER,0.0,0.01,307
+1417,Stefan Lainer,M'Gladbach,de GER,0.0,0.38,134
+1418,Marcus Thuram,M'Gladbach,de GER,0.0,0.01,129
+1419,Tony Jantschke,M'Gladbach,de GER,0.0,0.0,90
+1420,Keanan Bennetts,M'Gladbach,de GER,0.0,0.0,48
+1421,László Bénes,M'Gladbach,de GER,0.0,0.41,46
+1422,Torben Müsel,M'Gladbach,de GER,0.0,0.0,0
+1423,Connor Noß,M'Gladbach,de GER,0.0,0.0,0
+1424,Mika Schroers,M'Gladbach,de GER,0.0,0.0,0
+1425,Tobias Sippel,M'Gladbach,de GER,0.0,0.0,0
+1426,Kasper Schmeichel,Leicester City,eng ENG,0.0,0.0,990
+1427,Youri Tielemans,Leicester City,eng ENG,0.18,0.27,976
+1428,Çağlar Söyüncü,Leicester City,eng ENG,0.0,0.0,967
+1429,Jamie Vardy,Leicester City,eng ENG,0.1,0.09,935
+1430,Harvey Barnes,Leicester City,eng ENG,0.14,0.03,656
+1431,James Maddison,Leicester City,eng ENG,0.0,0.09,605
+1432,Ricardo Pereira,Leicester City,eng ENG,0.3,0.07,595
+1433,Wilfred Ndidi,Leicester City,eng ENG,0.0,0.0,630
+1434,Timothy Castagne,Leicester City,eng ENG,0.0,0.02,688
+1435,Boubakary Soumaré,Leicester City,eng ENG,0.16,0.02,565
+1436,Daniel Amartey,Leicester City,eng ENG,0.0,0.01,516
+1437,Kelechi Iheanacho,Leicester City,eng ENG,0.45,0.3,397
+1438,Jonny Evans,Leicester City,eng ENG,0.0,0.0,387
+1439,Jannik Vestergaard,Leicester City,eng ENG,0.0,0.01,385
+1440,Luke Thomas,Leicester City,eng ENG,0.0,0.01,360
+1441,Ryan Bertrand,Leicester City,eng ENG,0.0,0.08,337
+1442,Ademola Lookman,Leicester City,eng ENG,0.0,0.21,343
+1443,Marc Albrighton,Leicester City,eng ENG,0.0,0.1,191
+1444,Ayoze Pérez,Leicester City,eng ENG,1.37,0.29,131
+1445,Hamza Choudhury,Leicester City,eng ENG,0.0,0.0,59
+1446,Patson Daka,Leicester City,eng ENG,0.84,0.72,107
+1447,Kiernan Dewsbury Hall,Leicester City,eng ENG,0.0,0.41,19
+1448,Eldin Jakupović,Leicester City,eng ENG,0.0,0.0,0
+1449,Dennis Praet,Leicester City,eng ENG,0.0,0.0,0
+1450,Danny Ward,Leicester City,eng ENG,0.0,0.0,0
+1451,Antonín Barák,Hellas Verona,it ITA,0.17,0.1,1045
+1452,Lorenzo Montipò,Hellas Verona,it ITA,0.0,0.0,990
+1453,Koray Günter,Hellas Verona,it ITA,0.0,0.0,915
+1454,Davide Faraoni,Hellas Verona,it ITA,0.2,0.1,911
+1455,Darko Lazović,Hellas Verona,it ITA,0.21,0.13,843
+1456,Paweł Dawidowicz,Hellas Verona,it ITA,0.0,0.01,827
+1457,Ivan Ilić,Hellas Verona,it ITA,0.39,0.11,694
+1458,Nicolò Casale,Hellas Verona,it ITA,0.13,0.12,685
+1459,Gianluca Caprari,Hellas Verona,it ITA,0.55,0.28,651
+1460,Giovanni Simeone,Hellas Verona,it ITA,0.28,0.12,644
+1461,Federico Ceccherini,Hellas Verona,it ITA,0.0,0.02,462
+1462,Miguel Veloso,Hellas Verona,it ITA,0.41,0.11,440
+1463,Adrien Tameze,Hellas Verona,it ITA,0.0,0.01,587
+1464,Martin Hongla,Hellas Verona,it ITA,0.0,0.01,317
+1465,Nikola Kalinić,Hellas Verona,it ITA,0.0,0.1,312
+1466,Giangiacomo Magnani,Hellas Verona,it ITA,0.0,0.0,374
+1467,Daniel Bessa,Hellas Verona,it ITA,0.0,0.05,215
+1468,Kevin Lasagna,Hellas Verona,it ITA,0.0,0.1,206
+1469,Mattia Zaccagni,Hellas Verona,it ITA,0.0,0.4,180
+1470,Bosko Sutalo,Hellas Verona,it ITA,0.0,0.0,226
+1471,Matteo Cancellieri,Hellas Verona,it ITA,0.0,0.1,134
+1472,Ivor Pandur,Hellas Verona,it ITA,0.0,0.0,90
+1473,Yıldırım Mert Çetin,Hellas Verona,it ITA,0.0,0.0,46
+1474,Samuel Di Carmine,Hellas Verona,it ITA,0.0,0.0,36
+1475,Alessandro Berardi,Hellas Verona,it ITA,0.0,0.0,0
+1476,Gianluca Frabotta,Hellas Verona,it ITA,0.0,0.0,0
+1477,Antonino Ragusa,Hellas Verona,it ITA,0.0,0.0,0
+1478,Kevin Rüegg,Hellas Verona,it ITA,0.0,0.0,0
+1479,Guglielmo Vicario,Empoli,it ITA,0.0,0.0,1080
+1480,Riccardo Marchizza,Empoli,it ITA,0.0,0.1,926
+1481,Petar Stojanović,Empoli,it ITA,0.1,0.08,893
+1482,Samuele Ricci,Empoli,it ITA,0.0,0.01,747
+1483,Nicolas Haas,Empoli,it ITA,0.24,0.07,743
+1484,Andrea Pinamonti,Empoli,it ITA,0.0,0.04,712
+1485,Liam Henderson,Empoli,it ITA,0.13,0.17,689
+1486,Filippo Bandinelli,Empoli,it ITA,0.15,0.12,597
+1487,Patrick Cutrone,Empoli,it ITA,0.0,0.07,586
+1488,Nedim Bajrami,Empoli,it ITA,0.16,0.19,563
+1489,Mattia Viti,Empoli,it ITA,0.0,0.0,540
+1490,Ardian Ismajli,Empoli,it ITA,0.0,0.0,535
+1491,Federico Di Francesco,Empoli,it ITA,0.0,0.09,517
+1492,Szymon Żurkowski,Empoli,it ITA,0.19,0.07,467
+1493,Sebastiano Luperto,Empoli,it ITA,0.0,0.01,462
+1494,Simone Romagnoli,Empoli,it ITA,0.0,0.03,405
+1495,Leonardo Mancuso,Empoli,it ITA,0.0,0.11,366
+1496,Leo Štulac,Empoli,it ITA,0.49,0.11,364
+1497,Lorenzo Tonelli,Empoli,it ITA,0.0,0.02,319
+1498,Fabiano Parisi,Empoli,it ITA,0.63,0.02,142
+1499,Riccardo Fiamozzi,Empoli,it ITA,0.0,0.07,94
+1500,Kristjan Asllani,Empoli,it ITA,0.0,0.34,53
+1501,Andrea La Mantia,Empoli,it ITA,0.0,0.31,26
+1502,Giovanni Crociata,Empoli,it ITA,0.0,0.0,15
+1503,Tommaso Baldanzi,Empoli,it ITA,0.0,0.0,0
+1504,Alberto Brignoli,Empoli,it ITA,0.0,0.0,0
+1505,Simone Canestrelli,Empoli,it ITA,0.0,0.0,0
+1506,Emmanuel Ekong,Empoli,it ITA,0.0,0.0,0
+1507,Jacopo Furlan,Empoli,it ITA,0.0,0.0,0
+1508,Klemen Hvalič,Empoli,it ITA,0.0,0.0,0
+1509,Samir Ujkani,Empoli,it ITA,0.0,0.0,0
+1510,Daniel Wass,Valencia,es ESP,0.08,0.05,1069
+1511,Gonçalo Guedes,Valencia,es ESP,0.26,0.17,1049
+1512,Gabriel Paulista,Valencia,es ESP,0.09,0.01,1015
+1513,Omar Alderete,Valencia,es ESP,0.0,0.02,939
+1514,Hugo Guillamón,Valencia,es ESP,0.0,0.03,861
+1515,Dimitri Foulquier,Valencia,es ESP,0.11,0.02,824
+1516,José Luis Gayà,Valencia,es ESP,0.12,0.05,756
+1517,Maxi Gómez,Valencia,es ESP,0.12,0.13,740
+1518,Jasper Cillessen,Valencia,es ESP,0.0,0.0,630
+1519,Carlos Soler,Valencia,es ESP,0.29,0.18,621
+1520,Hugo Duro,Valencia,es ESP,0.0,0.07,556
+1521,Giorgi Mamardashvili,Valencia,es ESP,0.0,0.0,540
+1522,Thierry Correia,Valencia,es ESP,0.0,0.13,401
+1523,Uroš Račić,Valencia,es ESP,0.0,0.03,336
+1524,Denis Cheryshev,Valencia,es ESP,0.29,0.09,314
+1525,Maranhão,Valencia,es ESP,0.21,0.15,432
+1526,Mouctar Diakhaby,Valencia,es ESP,0.0,0.0,386
+1527,Hélder Costa,Valencia,es ESP,0.0,0.08,318
+1528,Toni Lato,Valencia,es ESP,0.0,0.01,317
+1529,Yunus Musah,Valencia,es ESP,0.0,0.19,370
+1530,Jesus Vazquez,Valencia,es ESP,0.0,0.05,81
+1531,Jason,Valencia,es ESP,0.0,0.17,75
+1532,Manu Vallejo,Valencia,es ESP,0.0,0.1,90
+1533,Koba Koindredi,Valencia,es ESP,0.0,0.0,30
+1534,Rubén Sobrino,Valencia,es ESP,0.0,0.0,14
+1535,Cristiano Piccini,Valencia,es ESP,0.0,0.0,9
+1536,Pedro Alemañ,Valencia,es ESP,0.0,0.0,0
+1537,Alejandro Blanco,Valencia,es ESP,0.0,0.0,0
+1538,Alessandro Burlamaqui,Valencia,es ESP,0.0,0.0,0
+1539,Cristian,Valencia,es ESP,0.0,0.0,0
+1540,Jaume Doménech,Valencia,es ESP,0.0,0.0,0
+1541,Hugo González,Valencia,es ESP,0.0,0.0,0
+1542,José Menargues ,Valencia,es ESP,0.0,0.0,0
+1543,Cristhian Mosquera,Valencia,es ESP,0.0,0.0,0
+1544,Diego Noguerol,Valencia,es ESP,0.0,0.0,0
+1545,César Tárrega,Valencia,es ESP,0.0,0.0,0
+1546,Leandro Cabrera,Espanyol,es ESP,0.0,0.0,1170
+1547,Diego López,Espanyol,es ESP,0.0,0.0,1170
+1548,Adri Embarba,Espanyol,es ESP,0.17,0.17,1087
+1549,Sergi Gómez,Espanyol,es ESP,0.0,0.0,1079
+1550,Raúl de Tomás,Espanyol,es ESP,0.17,0.05,1049
+1551,Pedrosa,Espanyol,es ESP,0.09,0.1,1035
+1552,Sergi Darder,Espanyol,es ESP,0.18,0.16,988
+1553,Óscar Gil,Espanyol,es ESP,0.0,0.02,751
+1554,Aleix Vidal,Espanyol,es ESP,0.0,0.06,608
+1555,Óscar Melendo,Espanyol,es ESP,0.0,0.11,395
+1556,Manu Morlanes,Espanyol,es ESP,0.0,0.01,477
+1557,David López,Espanyol,es ESP,0.0,0.08,390
+1558,Nico Ribaudo,Espanyol,es ESP,0.0,0.04,495
+1559,Keidi Bare,Espanyol,es ESP,0.19,0.15,466
+1560,Landry Dimata,Espanyol,es ESP,0.0,0.06,360
+1561,Javi Puado,Espanyol,es ESP,0.0,0.02,296
+1562,Wu Lei,Espanyol,es ESP,0.0,0.08,274
+1563,Fran Mérida,Espanyol,es ESP,0.0,0.02,140
+1564,Loren Morón,Espanyol,es ESP,0.0,0.01,209
+1565,Yangel Herrera,Espanyol,es ESP,0.0,0.07,173
+1566,Dídac Vilà,Espanyol,es ESP,0.0,0.04,145
+1567,Fernando Calero,Espanyol,es ESP,0.0,0.0,45
+1568,Lluís Recasens,Espanyol,es ESP,0.0,0.0,45
+1569,Gori,Espanyol,es ESP,0.0,0.0,9
+1570,Álvaro Vadillo,Espanyol,es ESP,0.0,0.0,7
+1571,Victor Perea,Espanyol,es ESP,0.0,0.0,4
+1572,Rubén,Espanyol,es ESP,0.0,0.0,1
+1573,Álvaro García,Espanyol,es ESP,0.0,0.0,0
+1574,Joan García,Espanyol,es ESP,0.0,0.0,0
+1575,Miguel Juan Llambrich,Espanyol,es ESP,0.0,0.0,0
+1576,Oier Olazábal,Espanyol,es ESP,0.0,0.0,0
+1577,Oliver Baumann,Hoffenheim,de GER,0.0,0.0,990
+1578,Andrej Kramarić,Hoffenheim,de GER,0.55,0.36,983
+1579,Kevin Vogt,Hoffenheim,de GER,0.11,0.02,804
+1580,David Raum,Hoffenheim,de GER,0.11,0.25,792
+1581,Stefan Posch,Hoffenheim,de GER,0.0,0.02,654
+1582,Florian Grillitsch,Hoffenheim,de GER,0.0,0.01,657
+1583,Kevin Akpoguma,Hoffenheim,de GER,0.15,0.12,582
+1584,Christoph Baumgartner,Hoffenheim,de GER,0.0,0.11,558
+1585,Ihlas Bebou,Hoffenheim,de GER,0.0,0.03,501
+1586,Sebastian Rudy,Hoffenheim,de GER,0.0,0.07,529
+1587,Dennis Geiger,Hoffenheim,de GER,0.19,0.14,474
+1588,Jacob Bruun Larsen,Hoffenheim,de GER,0.0,0.13,432
+1589,Chris Richards,Hoffenheim,de GER,0.17,0.0,538
+1590,Diadie Samassékou,Hoffenheim,de GER,0.0,0.01,438
+1591,Angelo Stiller,Hoffenheim,de GER,0.23,0.05,399
+1592,Pavel Kadeřábek,Hoffenheim,de GER,0.0,0.27,316
+1593,Sargis Adamyan,Hoffenheim,de GER,0.0,0.13,276
+1594,Robert Skov,Hoffenheim,de GER,0.0,0.07,245
+1595,Moanes Dabbur,Hoffenheim,de GER,0.0,0.11,179
+1596,Georginio Rutter,Hoffenheim,de GER,0.23,0.25,394
+1597,Mijat Gaćinović,Hoffenheim,de GER,0.0,0.0,110
+1598,Marco John,Hoffenheim,de GER,0.0,0.0,39
+1599,Melayro Bogarde,Hoffenheim,de GER,0.0,0.0,0
+1600,Håvard Nordtveit,Hoffenheim,de GER,0.0,0.0,0
+1601,Kasim Nuhu,Hoffenheim,de GER,0.0,0.0,0
+1602,Philipp Pentke,Hoffenheim,de GER,0.0,0.0,0
+1603,Luca Philipp,Hoffenheim,de GER,0.0,0.0,0
+1604,Fabian Rüth,Hoffenheim,de GER,0.0,0.0,0
+1605,Alex McCarthy,Southampton,eng ENG,0.0,0.0,990
+1606,Valentino Livramento,Southampton,eng ENG,0.0,0.11,985
+1607,Oriol Romeu,Southampton,eng ENG,0.0,0.04,937
+1608,Mohammed Salisu,Southampton,eng ENG,0.0,0.02,954
+1609,Adam Armstrong,Southampton,eng ENG,0.11,0.15,785
+1610,James Ward-Prowse,Southampton,eng ENG,0.0,0.14,785
+1611,Mohamed Elyounoussi,Southampton,eng ENG,0.0,0.06,687
+1612,Jan Bednarek,Southampton,eng ENG,0.0,0.0,675
+1613,Nathan Redmond,Southampton,eng ENG,0.28,0.28,638
+1614,Che Adams,Southampton,eng ENG,0.16,0.2,572
+1615,Kyle Walker-Peters,Southampton,eng ENG,0.0,0.2,535
+1616,Romain Perraud,Southampton,eng ENG,0.0,0.03,435
+1617,Moussa Djenepo,Southampton,eng ENG,0.0,0.04,409
+1618,Jack Stephens,Southampton,eng ENG,0.0,0.04,396
+1619,Theo Walcott,Southampton,eng ENG,0.0,0.01,252
+1620,Ibrahima Diallo,Southampton,eng ENG,0.28,0.06,324
+1621,Armando Broja,Southampton,eng ENG,0.0,0.29,255
+1622,Stuart Armstrong,Southampton,eng ENG,0.0,0.17,125
+1623,Nathan Tella,Southampton,eng ENG,0.0,0.0,84
+1624,Lyanco,Southampton,eng ENG,0.0,0.0,36
+1625,Shane Long,Southampton,eng ENG,0.0,0.0,17
+1626,Fraser Forster,Southampton,eng ENG,0.0,0.0,0
+1627,Yan Valery,Southampton,eng ENG,0.0,0.0,0
+1628,Timo Horn,Köln,de GER,0.0,0.0,990
+1629,Anthony Modeste,Köln,de GER,0.1,0.02,902
+1630,Jonas Hector,Köln,de GER,0.4,0.2,900
+1631,Rafael Czichos,Köln,de GER,0.0,0.01,866
+1632,Benno Schmitz,Köln,de GER,0.33,0.27,811
+1633,Dejan Ljubicic,Köln,de GER,0.0,0.1,727
+1634,Florian Kainz,Köln,de GER,0.25,0.24,706
+1635,Mark Uth,Köln,de GER,0.0,0.22,701
+1636,Ondrej Duda,Köln,de GER,0.0,0.02,630
+1637,Ellyes Skhiri,Köln,de GER,0.0,0.02,569
+1638,Sebastian Andersson,Köln,de GER,0.18,0.05,494
+1639,Jorge Meré,Köln,de GER,0.0,0.01,486
+1640,Jan Thielmann,Köln,de GER,0.19,0.11,486
+1641,Salih Özcan,Köln,de GER,0.0,0.07,461
+1642,Luca Kilian,Köln,de GER,0.0,0.02,410
+1643,Timo Hübers,Köln,de GER,0.0,0.0,218
+1644,Kingsley Ehizibue,Köln,de GER,0.34,0.19,262
+1645,Louis Schaub,Köln,de GER,0.73,0.26,123
+1646,Tim Lemperle,Köln,de GER,0.0,0.08,69
+1647,Kingsley Schindler,Köln,de GER,0.0,0.0,34
+1648,Noah Katterbach,Köln,de GER,0.0,0.0,16
+1649,Tomáš Ostrák,Köln,de GER,7.5,3.18,12
+1650,Marvin Obuz,Köln,de GER,0.0,0.0,0
+1651,Marvin Schwäbe,Köln,de GER,0.0,0.0,0
+1652,Jonas Urbig,Köln,de GER,0.0,0.0,0
+1653,Étienne Capoue,Villarreal,es ESP,0.0,0.0,891
+1654,Gerónimo Rulli,Villarreal,es ESP,0.0,0.0,900
+1655,Pau Torres,Villarreal,es ESP,0.0,0.01,810
+1656,Yeremi Pino,Villarreal,es ESP,0.38,0.18,709
+1657,Arnaut Groeneveld,Villarreal,es ESP,0.13,0.03,704
+1658,Manu Trigueros,Villarreal,es ESP,0.0,0.09,657
+1659,Raúl Albiol,Villarreal,es ESP,0.0,0.0,720
+1660,Daniel Parejo,Villarreal,es ESP,0.13,0.13,710
+1661,Juan Foyth,Villarreal,es ESP,0.0,0.05,680
+1662,Aïssa Mandi,Villarreal,es ESP,0.0,0.0,630
+1663,Pervis Estupiñán,Villarreal,es ESP,0.0,0.05,580
+1664,Francis Coquelin,Villarreal,es ESP,0.16,0.08,559
+1665,Alberto Moreno,Villarreal,es ESP,0.0,0.04,474
+1666,Gerard Moreno,Villarreal,es ESP,0.0,0.12,380
+1667,Boulaye Dia,Villarreal,es ESP,0.4,0.13,454
+1668,Paco Alcácer,Villarreal,es ESP,0.53,0.4,341
+1669,Alfonso Pedraza,Villarreal,es ESP,0.27,0.05,328
+1670,Moi Gómez,Villarreal,es ESP,0.22,0.23,402
+1671,Serge Aurier,Villarreal,es ESP,0.38,0.3,236
+1672,Sergio Asenjo,Villarreal,es ESP,0.0,0.0,180
+1673,Mario Gaspar,Villarreal,es ESP,0.0,0.19,166
+1674,Vicente Iborra,Villarreal,es ESP,0.0,0.0,61
+1675,Samuel Chukwueze,Villarreal,es ESP,0.0,0.15,178
+1676,Dani Raba,Villarreal,es ESP,0.0,0.23,64
+1677,Rubén Peña,Villarreal,es ESP,0.0,1.45,56
+1678,Nicolas Jackson,Villarreal,es ESP,0.0,0.0,1
+1679,Jorge Cuenca,Villarreal,es ESP,0.0,0.0,0
+1680,Nikita Iosifov,Villarreal,es ESP,0.0,0.0,0
+1681,Filip Jörgensen,Villarreal,es ESP,0.0,0.0,0
+1682,José Fonte,Lille,fr FRA,0.14,0.05,1260
+1683,Benjamin André,Lille,fr FRA,0.0,0.04,1133
+1684,Ivo Grbić,Lille,fr FRA,0.0,0.0,1080
+1685,Jonathan David,Lille,fr FRA,0.0,0.2,981
+1686,Zeki Çelik,Lille,fr FRA,0.0,0.02,962
+1687,Burak Yılmaz,Lille,fr FRA,0.28,0.28,957
+1688,Reinildo Mandava,Lille,fr FRA,0.0,0.01,902
+1689,Jonathan Ikone,Lille,fr FRA,0.0,0.15,831
+1690,Sven Botman,Lille,fr FRA,0.0,0.0,810
+1691,Xeka,Lille,fr FRA,0.0,0.12,787
+1692,Tiago Djaló,Lille,fr FRA,0.12,0.0,749
+1693,Timothy Weah,Lille,fr FRA,0.28,0.29,643
+1694,Jonathan Bamba,Lille,fr FRA,0.0,0.1,606
+1695,Yusuf Yazıcı,Lille,fr FRA,0.19,0.28,471
+1696,Angel Gomes,Lille,fr FRA,0.0,0.1,370
+1697,Renato Sanches,Lille,fr FRA,0.26,0.2,342
+1698,Gabriel Gudmundsson,Lille,fr FRA,0.0,0.04,293
+1699,Amadou Onana,Lille,fr FRA,0.0,0.06,279
+1700,Leonardo César Jardim,Lille,fr FRA,0.0,0.0,180
+1701,Domagoj Bradarić,Lille,fr FRA,0.0,0.27,139
+1702,Isaac Lihadji,Lille,fr FRA,1.58,0.61,57
+1703,Cheikh Niasse,Lille,fr FRA,0.0,0.0,27
+1704,Exauce Mpembele Boula,Lille,fr FRA,0.0,0.0,0
+1705,Rocco Ascone,Lille,fr FRA,0.0,0.0,0
+1706,Capita,Lille,fr FRA,0.0,0.0,0
+1707,Kouadio-Yves Dabila,Lille,fr FRA,0.0,0.0,0
+1708,Adam Jakubech,Lille,fr FRA,0.0,0.0,0
+1709,Jean Onana,Lille,fr FRA,0.0,0.0,0
+1710,Jérémy Pied,Lille,fr FRA,0.0,0.0,0
+1711,Manuel Riemann,Bochum,de GER,0.0,0.02,990
+1712,Danilo Soares,Bochum,de GER,0.0,0.06,990
+1713,Anthony Losilla,Bochum,de GER,0.0,0.03,955
+1714,Elvis Rexhbeçaj,Bochum,de GER,0.0,0.15,896
+1715,Vassilis Lambropoulos,Bochum,de GER,0.0,0.0,808
+1716,Sebastian Polter,Bochum,de GER,0.0,0.07,758
+1717,Gerrit Holtmann,Bochum,de GER,0.14,0.17,658
+1718,Eduard Löwen,Bochum,de GER,0.16,0.31,561
+1719,Erhan Mašović,Bochum,de GER,0.0,0.0,560
+1720,Armel Bella Kotchap,Bochum,de GER,0.0,0.01,533
+1721,Takuma Asano,Bochum,de GER,0.21,0.16,426
+1722,Cristian Gamboa,Bochum,de GER,0.0,0.11,374
+1723,Miloš Pantović,Bochum,de GER,0.24,0.19,381
+1724,Simon Zoller,Bochum,de GER,0.5,0.18,360
+1725,Herbert Bockhorn,Bochum,de GER,0.0,0.01,350
+1726,Christopher Antwi-Adjei,Bochum,de GER,0.29,0.11,307
+1727,Kostas Stafylidis,Bochum,de GER,0.0,0.0,297
+1728,Robert Tesche,Bochum,de GER,0.0,0.0,215
+1729,Danny Blum,Bochum,de GER,0.0,0.25,198
+1730,Maxim Leitsch,Bochum,de GER,0.0,0.0,90
+1731,Silvère Ganvoula M'Boussy,Bochum,de GER,0.0,0.0,42
+1732,Soma Novothny,Bochum,de GER,0.0,0.0,36
+1733,Saulo Decarli,Bochum,de GER,0.0,0.0,9
+1734,Patrick Osterhage,Bochum,de GER,0.0,0.0,9
+1735,Raman Chibsah,Bochum,de GER,0.0,0.0,0
+1736,Michael Esser,Bochum,de GER,0.0,0.0,0
+1737,Alexander Schwolow,Hertha BSC,de GER,0.0,0.0,990
+1738,Suat Serdar,Hertha BSC,de GER,0.0,0.05,953
+1739,Niklas Stark,Hertha BSC,de GER,0.0,0.02,900
+1740,Santiago Ascacíbar,Hertha BSC,de GER,0.0,0.02,709
+1741,Marvin Plattenhardt,Hertha BSC,de GER,0.0,0.1,675
+1742,Dedryck Boyata,Hertha BSC,de GER,0.0,0.07,634
+1743,Lucas Tousart,Hertha BSC,de GER,0.0,0.04,581
+1744,Peter Pekarík,Hertha BSC,de GER,0.0,0.01,553
+1745,Marco Richter,Hertha BSC,de GER,0.0,0.12,523
+1746,Márton Dárdai,Hertha BSC,de GER,0.19,0.02,484
+1747,Vladimír Darida,Hertha BSC,de GER,0.65,0.24,413
+1748,Maximilian Mittelstädt,Hertha BSC,de GER,0.54,0.15,501
+1749,Deyovaisio Zeefuik,Hertha BSC,de GER,0.0,0.09,382
+1750,Davie Selke,Hertha BSC,de GER,0.0,0.01,313
+1751,Stevan Jovetić,Hertha BSC,de GER,0.0,0.09,311
+1752,Kevin-Prince Boateng,Hertha BSC,de GER,0.0,0.02,254
+1753,Krzysztof Piątek,Hertha BSC,de GER,0.0,0.0,246
+1754,Ishak Belfodil,Hertha BSC,de GER,0.0,0.03,252
+1755,Dodi Lukebakio,Hertha BSC,de GER,0.0,0.0,176
+1756,Jurgen Ekkelenkamp,Hertha BSC,de GER,0.0,0.01,206
+1757,Dennis Jastrzembski,Hertha BSC,de GER,0.0,0.04,188
+1758,Myziane Maolida,Hertha BSC,de GER,0.0,0.03,163
+1759,Javairô Dilrosun,Hertha BSC,de GER,0.0,0.0,138
+1760,Lukas Klünter,Hertha BSC,de GER,0.0,0.26,94
+1761,Matheus Cunha,Hertha BSC,de GER,1.41,0.0,64
+1762,Jordan Torunarigha,Hertha BSC,de GER,0.0,0.0,52
+1763,Linus Gechter,Hertha BSC,de GER,0.0,0.0,120
+1764,Oliver Christensen,Hertha BSC,de GER,0.0,0.0,0
+1765,Nils-Jonathan Körber,Hertha BSC,de GER,0.0,0.0,0
+1766,Marlon Morgenstern,Hertha BSC,de GER,0.0,0.0,0
+1767,Cimo Röcker,Hertha BSC,de GER,0.0,0.0,0
+1768,Vanja Milinković-Savić,Torino,it ITA,0.0,0.0,1080
+1769,Wilfried Singo,Torino,it ITA,0.19,0.07,943
+1770,Gleison Bremer,Torino,it ITA,0.09,0.01,973
+1771,Saša Lukić,Torino,it ITA,0.09,0.14,948
+1772,Koffi Djidji,Torino,it ITA,0.0,0.0,834
+1773,Antonio Sanabria,Torino,it ITA,0.11,0.13,807
+1774,Karol Linetty,Torino,it ITA,0.0,0.16,728
+1775,Ricardo Rodríguez,Torino,it ITA,0.0,0.06,807
+1776,Ola Aina,Torino,it ITA,0.0,0.14,726
+1777,Tommaso Pobega,Torino,it ITA,0.14,0.05,637
+1778,Josip Brekalo,Torino,it ITA,0.0,0.21,579
+1779,Rolando Mandragora,Torino,it ITA,0.19,0.1,462
+1780,Cristian Ansaldi,Torino,it ITA,0.8,0.23,338
+1781,Alessandro Buongiorno,Torino,it ITA,0.28,0.13,323
+1782,Andrea Belotti,Torino,it ITA,0.0,0.09,319
+1783,Dennis Praet,Torino,it ITA,0.29,0.46,315
+1784,Marko Pjaca,Torino,it ITA,0.0,0.07,236
+1785,David Zima,Torino,it ITA,0.0,0.0,191
+1786,Tomás Rincón,Torino,it ITA,0.0,0.03,146
+1787,Armando Izzo,Torino,it ITA,0.0,0.0,99
+1788,Mërgim Vojvoda,Torino,it ITA,0.0,0.0,135
+1789,Daniele Baselli,Torino,it ITA,0.0,0.01,83
+1790,Ben Lhassine Kone,Torino,it ITA,0.0,0.1,81
+1791,Simone Verdi,Torino,it ITA,0.0,0.07,46
+1792,Simone Zaza,Torino,it ITA,0.0,0.0,28
+1793,Magnus Warming,Torino,it ITA,0.0,0.0,2
+1794,Etrit Berisha,Torino,it ITA,0.0,0.0,0
+1795,Luca Gemello,Torino,it ITA,0.0,0.0,0
+1796,Nicola Rauti,Torino,it ITA,0.0,0.0,0
+1797,Jacopo Segre,Torino,it ITA,0.0,0.0,0
+1798,Andrea Consigli,Sassuolo,it ITA,0.0,0.0,1080
+1799,Gian Marco Ferrari,Sassuolo,it ITA,0.0,0.0,1080
+1800,Davide Frattesi,Sassuolo,it ITA,0.0,0.07,981
+1801,Maxime Lopez,Sassuolo,it ITA,0.0,0.07,908
+1802,Vlad Chiricheș,Sassuolo,it ITA,0.0,0.0,882
+1803,Rogério,Sassuolo,it ITA,0.1,0.1,874
+1804,Domenico Berardi,Sassuolo,it ITA,0.21,0.26,867
+1805,Giacomo Raspadori,Sassuolo,it ITA,0.12,0.12,749
+1806,Filip Đuričić,Sassuolo,it ITA,0.14,0.18,626
+1807,Jeremy Toljan,Sassuolo,it ITA,0.14,0.1,644
+1808,Jeremie Boga,Sassuolo,it ITA,0.32,0.11,566
+1809,Mert Müldür,Sassuolo,it ITA,0.0,0.01,460
+1810,Hamed Junior Traorè,Sassuolo,it ITA,0.2,0.26,453
+1811,Grégoire Defrel,Sassuolo,it ITA,0.21,0.17,432
+1812,Gianluca Scamacca,Sassuolo,it ITA,0.0,0.16,370
+1813,Giorgos Kyriakopoulos,Sassuolo,it ITA,0.0,0.07,227
+1814,Kaan Ayhan,Sassuolo,it ITA,0.0,0.0,211
+1815,Francesco Caputo,Sassuolo,it ITA,0.58,0.21,156
+1816,Francesco Magnanelli,Sassuolo,it ITA,0.0,0.0,143
+1817,Abdou Harroui,Sassuolo,it ITA,0.0,0.02,101
+1818,Matheus Henrique,Sassuolo,it ITA,0.0,0.0,69
+1819,Edoardo Goldaniga,Sassuolo,it ITA,0.0,0.0,1
+1820,Lukáš Haraslín,Sassuolo,it ITA,0.0,0.0,0
+1821,Brain Oddei,Sassuolo,it ITA,0.0,0.0,0
+1822,Gianluca Pegolo,Sassuolo,it ITA,0.0,0.0,0
+1823,Federico Peluso,Sassuolo,it ITA,0.0,0.0,0
+1824,Luigi Samele,Sassuolo,it ITA,0.0,0.0,0
+1825,Giacomo Satalino,Sassuolo,it ITA,0.0,0.0,0
+1826,Samuele Vitale,Sassuolo,it ITA,0.0,0.0,0
+1827,Rodrigo Becão,Udinese,it ITA,0.08,0.04,1080
+1828,Marco Silvestri,Udinese,it ITA,0.0,0.01,1080
+1829,Bram Nuytinck,Udinese,it ITA,0.0,0.01,1039
+1830,Samir Santos,Udinese,it ITA,0.0,0.01,1012
+1831,Walace,Udinese,it ITA,0.0,0.07,984
+1832,Roberto Pereyra,Udinese,it ITA,0.1,0.17,910
+1833,Nahuel Molina,Udinese,it ITA,0.11,0.14,811
+1834,Jens Stryger Larsen,Udinese,it ITA,0.13,0.12,684
+1835,Beto,Udinese,it ITA,0.0,0.06,711
+1836,Jean-Victor Makengo,Udinese,it ITA,0.13,0.09,696
+1837,Gerard Deulofeu,Udinese,it ITA,0.14,0.17,644
+1838,Tolgay Arslan,Udinese,it ITA,0.0,0.07,537
+1839,Iyenoma Udogie,Udinese,it ITA,0.0,0.02,529
+1840,Ignacio Pussetto,Udinese,it ITA,0.18,0.07,514
+1841,Isaac Success,Udinese,it ITA,0.0,0.0,149
+1842,Brandon Soppy,Udinese,it ITA,0.0,0.01,124
+1843,Nehuén Pérez,Udinese,it ITA,0.0,0.0,90
+1844,Mato Jajalo,Udinese,it ITA,0.0,0.0,83
+1845,Lazar Samardzic,Udinese,it ITA,1.06,0.34,85
+1846,Stefano Okaka,Udinese,it ITA,4.09,0.0,22
+1847,Fernando Forestieri,Udinese,it ITA,0.0,0.0,21
+1848,Marvin Zeegelaar,Udinese,it ITA,0.0,0.0,20
+1849,Matteo Carnelos,Udinese,it ITA,0.0,0.0,0
+1850,Sebastien De Maio,Udinese,it ITA,0.0,0.0,0
+1851,Jacopo Fedrizzi,Udinese,it ITA,0.0,0.0,0
+1852,Cristo González,Udinese,it ITA,0.0,0.0,0
+1853,Simone Ianesi,Udinese,it ITA,0.0,0.0,0
+1854,Ilija Nestorovski,Udinese,it ITA,0.0,0.0,0
+1855,Daniele Padelli,Udinese,it ITA,0.0,0.0,0
+1856,Martin Palumbo,Udinese,it ITA,0.0,0.0,0
+1857,Edoardo Piana,Udinese,it ITA,0.0,0.0,0
+1858,Simone Scuffet,Udinese,it ITA,0.0,0.0,0
+1859,Martin Valjent,Mallorca,es ESP,0.0,0.04,1111
+1860,Manolo Reina,Mallorca,es ESP,0.0,0.03,1080
+1861,Dani Rodríguez,Mallorca,es ESP,0.17,0.1,1062
+1862,Iddrisu Baba,Mallorca,es ESP,0.0,0.01,995
+1863,Brian Oliván,Mallorca,es ESP,0.0,0.06,992
+1864,Pablo Maffeo,Mallorca,es ESP,0.1,0.06,927
+1865,Franco Russo,Mallorca,es ESP,0.0,0.0,675
+1866,Iñigo Ruiz de Galarreta,Mallorca,es ESP,0.0,0.03,580
+1867,Lee Kangin,Mallorca,es ESP,0.16,0.13,551
+1868,Amath,Mallorca,es ESP,0.17,0.04,545
+1869,Salva Sevilla,Mallorca,es ESP,0.35,0.22,510
+1870,Ángel Rodríguez,Mallorca,es ESP,0.0,0.04,455
+1871,Fernando Niño,Mallorca,es ESP,0.0,0.02,485
+1872,Takefusa Kubo,Mallorca,es ESP,0.0,0.12,412
+1873,Jaume Costa,Mallorca,es ESP,0.0,0.11,408
+1874,Jordi Mboula,Mallorca,es ESP,0.0,0.02,310
+1875,Antonio Sánchez,Mallorca,es ESP,0.0,0.02,278
+1876,Joan Sastre Vanrell,Mallorca,es ESP,0.0,0.0,258
+1877,Rodrigo Battaglia,Mallorca,es ESP,0.0,0.02,229
+1878,Aleksandar Sedlar,Mallorca,es ESP,0.0,0.01,196
+1879,Lago Junior,Mallorca,es ESP,0.0,0.0,177
+1880,Abdón Prats,Mallorca,es ESP,0.0,0.04,170
+1881,Aleix Febas,Mallorca,es ESP,0.0,0.06,96
+1882,Dominik Greif,Mallorca,es ESP,0.0,0.0,90
+1883,Antonio Raillo,Mallorca,es ESP,0.0,0.0,90
+1884,Matthew Hoppe,Mallorca,es ESP,1.01,0.12,89
+1885,Josep Antoni Gayá,Mallorca,es ESP,0.0,0.0,58
+1886,Marc Carmona Tormo,Mallorca,es ESP,0.0,0.0,0
+1887,Pablo Gálvez,Mallorca,es ESP,0.0,0.0,0
+1888,Pere Joan,Mallorca,es ESP,0.0,0.0,0
+1889,Victor Mollejo,Mallorca,es ESP,0.0,0.0,0
+1890,Leonardo Román,Mallorca,es ESP,0.0,0.0,0
+1891,Vincent Le Goff,Lorient,fr FRA,0.0,0.07,1170
+1892,Paul Nardi,Lorient,fr FRA,0.0,0.0,1170
+1893,Laurent Abergel,Lorient,fr FRA,0.08,0.12,1080
+1894,Houboulang Mendes,Lorient,fr FRA,0.0,0.02,1075
+1895,Julien Laporte,Lorient,fr FRA,0.0,0.01,1035
+1896,Terem Moffi,Lorient,fr FRA,0.27,0.17,989
+1897,Igor Carioca,Lorient,fr FRA,0.0,0.08,919
+1898,Fabien Lemoine,Lorient,fr FRA,0.11,0.09,805
+1899,Armand Lauriente,Lorient,fr FRA,0.0,0.12,757
+1900,Thomas Monconduit,Lorient,fr FRA,0.13,0.1,674
+1901,Enzo Le Fée,Lorient,fr FRA,0.15,0.11,602
+1902,Moritz Jenz,Lorient,fr FRA,0.0,0.01,594
+1903,Jérémy Morel,Lorient,fr FRA,0.0,0.04,315
+1904,Stéphane Diarra,Lorient,fr FRA,0.0,0.32,277
+1905,Léo Pétrot,Lorient,fr FRA,0.0,0.0,261
+1906,Jérôme Hergault,Lorient,fr FRA,0.0,0.0,213
+1907,Adrian Grbić,Lorient,fr FRA,0.0,0.12,312
+1908,Quentin Boisgard,Lorient,fr FRA,0.0,0.46,192
+1909,Thomas Fontaine,Lorient,fr FRA,0.0,0.0,167
+1910,Théo Le Bris,Lorient,fr FRA,0.0,0.0,52
+1911,Aboubacar Ouattara,Lorient,fr FRA,0.0,0.0,42
+1912,Pierre-Yves Hamel,Lorient,fr FRA,0.0,0.39,30
+1913,Sambou Soumano,Lorient,fr FRA,0.0,0.12,24
+1914,Baptiste Mouazan,Lorient,fr FRA,0.0,0.0,14
+1915,Redwan Bourles,Lorient,fr FRA,0.0,0.0,10
+1916,Teddy Bartouche,Lorient,fr FRA,0.0,0.0,0
+1917,Matthieu Dreyer,Lorient,fr FRA,0.0,0.0,0
+1918,Samuel Loric,Lorient,fr FRA,0.0,0.0,0
+1919,Bamo Meïté,Lorient,fr FRA,0.0,0.0,0
+1920,Loris Mouyokolo,Lorient,fr FRA,0.0,0.0,0
+1921,Ivan Toney,Brentford,eng ENG,0.18,0.24,990
+1922,Pontus Jansson,Brentford,eng ENG,0.09,0.03,981
+1923,Christian Nørgaard,Brentford,eng ENG,0.09,0.07,977
+1924,Rico Henry,Brentford,eng ENG,0.0,0.02,952
+1925,Sergi Canós,Brentford,eng ENG,0.0,0.09,904
+1926,Ethan Pinnock,Brentford,eng ENG,0.1,0.1,897
+1927,Bryan Mbeumo,Brentford,eng ENG,0.0,0.1,827
+1928,David Raya,Brentford,eng ENG,0.0,0.0,810
+1929,Vitaly Janelt,Brentford,eng ENG,0.0,0.09,579
+1930,Frank Onyeka,Brentford,eng ENG,0.0,0.03,532
+1931,Kristoffer Ajer,Brentford,eng ENG,0.0,0.05,565
+1932,Mathias Jørgensen,Brentford,eng ENG,0.0,0.02,428
+1933,Mathias Jensen,Brentford,eng ENG,0.21,0.22,433
+1934,Shandon Baptiste,Brentford,eng ENG,0.0,0.0,190
+1935,Álvaro Fernández,Brentford,eng ENG,0.0,0.0,180
+1936,Saman Ghoddos,Brentford,eng ENG,0.45,0.33,198
+1937,Marcus Forss,Brentford,eng ENG,0.0,0.0,175
+1938,Charlie Goode,Brentford,eng ENG,0.0,0.09,79
+1939,Yoane Wissa,Brentford,eng ENG,0.0,0.0,61
+1940,Mads Roerslev,Brentford,eng ENG,0.0,0.0,60
+1941,Mads Bidstrup,Brentford,eng ENG,0.0,0.0,25
+1942,Mads Bech Sørensen,Brentford,eng ENG,0.0,0.0,20
+1943,Matthew Cox,Brentford,eng ENG,0.0,0.0,0
+1944,Halil Dervişoğlu,Brentford,eng ENG,0.0,0.0,0
+1945,Tariqe Fosu,Brentford,eng ENG,0.0,0.0,0
+1946,Patrik Gunnarsson,Brentford,eng ENG,0.0,0.0,0
+1947,Edmond-Paris Maghoma,Brentford,eng ENG,0.0,0.0,0
+1948,Finley Stevens,Brentford,eng ENG,0.0,0.0,0
+1949,Dominic Thompson,Brentford,eng ENG,0.0,0.0,0
+1950,Martin Hinteregger,Eint Frankfurt,de GER,0.0,0.02,990
+1951,Kevin Trapp,Eint Frankfurt,de GER,0.0,0.0,990
+1952,Djibril Sow,Eint Frankfurt,de GER,0.19,0.09,941
+1953,Rafael Borré,Eint Frankfurt,de GER,0.0,0.02,838
+1954,Filip Kostić,Eint Frankfurt,de GER,0.44,0.36,818
+1955,Obite N'Dicka,Eint Frankfurt,de GER,0.11,0.01,810
+1956,Daichi Kamada,Eint Frankfurt,de GER,0.14,0.13,653
+1957,Erik Durm,Eint Frankfurt,de GER,0.19,0.12,474
+1958,Kristijan Jakić,Eint Frankfurt,de GER,0.0,0.03,504
+1959,Jesper Lindstrøm,Eint Frankfurt,de GER,0.0,0.28,485
+1960,Jens Petter Hauge,Eint Frankfurt,de GER,0.0,0.03,531
+1961,Sam Lammers,Eint Frankfurt,de GER,0.0,0.04,355
+1962,Tuta,Eint Frankfurt,de GER,0.0,0.01,353
+1963,Ajdin Hrustic,Eint Frankfurt,de GER,0.0,0.1,338
+1964,Christopher Lenz,Eint Frankfurt,de GER,0.0,0.05,315
+1965,Almamy Touré,Eint Frankfurt,de GER,0.0,0.0,281
+1966,Makoto Hasebe,Eint Frankfurt,de GER,0.0,0.03,259
+1967,Timothy Chandler,Eint Frankfurt,de GER,0.0,0.05,226
+1968,Danny da Costa,Eint Frankfurt,de GER,0.0,0.02,301
+1969,Stefan Ilsanker,Eint Frankfurt,de GER,0.0,0.0,151
+1970,Aymen Barkok,Eint Frankfurt,de GER,0.0,0.0,95
+1971,Gonçalo Paciência,Eint Frankfurt,de GER,0.0,0.06,62
+1972,Sebastian Rode,Eint Frankfurt,de GER,0.0,0.06,65
+1973,Ragnar Ache,Eint Frankfurt,de GER,1.64,0.0,55
+1974,Diant Ramaj,Eint Frankfurt,de GER,0.0,0.0,0
+1975,Amin Younes,Eint Frankfurt,de GER,0.0,0.0,0
+1976,Luis Rioja,Alavés,es ESP,0.0,0.06,993
+1977,Víctor Laguardia,Alavés,es ESP,0.09,0.0,990
+1978,Rubén Duarte,Alavés,es ESP,0.1,0.05,939
+1979,Joselu,Alavés,es ESP,0.09,0.12,949
+1980,Fernando Pacheco,Alavés,es ESP,0.0,0.0,893
+1981,Ximo Navarro,Alavés,es ESP,0.0,0.02,708
+1982,Loum Ndiaye,Alavés,es ESP,0.0,0.01,780
+1983,Toni Moya,Alavés,es ESP,0.0,0.14,586
+1984,Tomás Pina Isla,Alavés,es ESP,0.0,0.0,561
+1985,Matt Miazga,Alavés,es ESP,0.0,0.01,545
+1986,Florian Lejeune,Alavés,es ESP,0.0,0.0,540
+1987,Martin Agirregabiria,Alavés,es ESP,0.17,0.04,530
+1988,Facundo Pellistri,Alavés,es ESP,0.0,0.07,491
+1989,Manu García,Alavés,es ESP,0.0,0.12,423
+1990,Pere Pons,Alavés,es ESP,0.0,0.04,405
+1991,Édgar Méndez,Alavés,es ESP,0.0,0.09,310
+1992,Mamadou Sylla,Alavés,es ESP,0.0,0.02,261
+1993,Miguel,Alavés,es ESP,0.41,0.07,221
+1994,John Guidetti,Alavés,es ESP,0.0,0.1,261
+1995,Antonio Sivera,Alavés,es ESP,0.0,0.0,187
+1996,Javi López,Alavés,es ESP,0.0,0.03,105
+1997,Tachi,Alavés,es ESP,0.0,0.0,97
+1998,Iván Martín,Alavés,es ESP,0.0,0.0,76
+1999,Saúl García,Alavés,es ESP,0.0,0.0,4
+2000,Abdelkabir Abqar,Alavés,es ESP,0.0,0.0,0
+2001,Alan Godoy,Alavés,es ESP,0.0,0.0,0
+2002,Taichi Hara,Alavés,es ESP,0.0,0.0,0
+2003,Jesús Owono,Alavés,es ESP,0.0,0.0,0
+2004,Lucas Pérez,Alavés,es ESP,0.0,0.0,0
+2005,Liam Cooper,Leeds United,eng ENG,0.09,0.0,990
+2006,Illan Meslier,Leeds United,eng ENG,0.0,0.0,990
+2007,Stuart Dallas,Leeds United,eng ENG,0.09,0.09,977
+2008,Raphael Dias Belloli,Leeds United,eng ENG,0.0,0.22,817
+2009,Rodrigo,Leeds United,eng ENG,0.0,0.32,762
+2010,Kalvin Phillips,Leeds United,eng ENG,0.12,0.02,720
+2011,Jack Harrison,Leeds United,eng ENG,0.0,0.1,667
+2012,Pascal Struijk,Leeds United,eng ENG,0.0,0.0,658
+2013,Daniel James,Leeds United,eng ENG,0.16,0.05,564
+2014,Mateusz Klich,Leeds United,eng ENG,0.16,0.2,555
+2015,Diego Llorente,Leeds United,eng ENG,0.0,0.01,546
+2016,Jamie Shackleton,Leeds United,eng ENG,0.0,0.01,488
+2017,Junior Firpo,Leeds United,eng ENG,0.0,0.09,464
+2018,Luke Ayling,Leeds United,eng ENG,0.0,0.0,448
+2019,Patrick Bamford,Leeds United,eng ENG,0.41,0.12,436
+2020,Tyler Roberts,Leeds United,eng ENG,0.0,0.24,309
+2021,Adam Forshaw,Leeds United,eng ENG,0.0,0.07,130
+2022,Charlie Cresswell,Leeds United,eng ENG,0.0,0.0,91
+2023,Robin Koch,Leeds United,eng ENG,0.0,0.0,90
+2024,Crysencio Summerville,Leeds United,eng ENG,0.0,0.0,72
+2025,Joe Gelhardt,Leeds United,eng ENG,0.0,0.08,43
+2026,Hélder Costa,Leeds United,eng ENG,0.0,0.0,22
+2027,Cody Drameh,Leeds United,eng ENG,0.0,0.0,20
+2028,Lewis Bate,Leeds United,eng ENG,0.0,0.0,0
+2029,Leo Fuhr Hjelde,Leeds United,eng ENG,0.0,0.0,0
+2030,Sam Greenwood,Leeds United,eng ENG,0.0,0.0,0
+2031,Nohan Kenneh,Leeds United,eng ENG,0.0,0.0,0
+2032,Kristoffer Klaesson,Leeds United,eng ENG,0.0,0.0,0
+2033,Liam McCarron,Leeds United,eng ENG,0.0,0.0,0
+2034,Stuart McKinstry,Leeds United,eng ENG,0.0,0.0,0
+2035,Gauthier Gallon,Troyes,fr FRA,0.0,0.0,1170
+2036,Rominigue Kouamé,Troyes,fr FRA,0.08,0.07,1170
+2037,Jimmy Giraudon,Troyes,fr FRA,0.0,0.02,1079
+2038,Giulian Biancone,Troyes,fr FRA,0.2,0.07,896
+2039,Yoann Salmier,Troyes,fr FRA,0.0,0.01,885
+2040,Renaud Ripart,Troyes,fr FRA,0.11,0.11,840
+2041,Issa Kaboré,Troyes,fr FRA,0.11,0.15,799
+2042,Xavier Chavalerin,Troyes,fr FRA,0.11,0.1,794
+2043,Mama Samba Baldé,Troyes,fr FRA,0.12,0.12,722
+2044,Yoann Touzghar,Troyes,fr FRA,0.0,0.04,683
+2045,Oualid El Hajjam,Troyes,fr FRA,0.0,0.09,617
+2046,Florian Tardieu,Troyes,fr FRA,0.0,0.11,540
+2047,Gerson Rodrigues,Troyes,fr FRA,0.0,0.02,465
+2048,Youssouf Koné,Troyes,fr FRA,0.0,0.05,411
+2049,Karim Azamoum,Troyes,fr FRA,0.0,0.0,388
+2050,Dylan Chambost,Troyes,fr FRA,0.32,0.13,280
+2051,Adil Rami,Troyes,fr FRA,0.0,0.0,320
+2052,Tristan Dingomé,Troyes,fr FRA,0.89,0.26,203
+2053,Erik Palmer-Brown,Troyes,fr FRA,0.0,0.0,89
+2054,Philippe Sandler,Troyes,fr FRA,0.0,0.0,70
+2055,Brandon Domingues,Troyes,fr FRA,0.0,0.22,96
+2056,Suk Hyun-jun,Troyes,fr FRA,0.0,0.55,78
+2057,Banhie Zoukrou,Troyes,fr FRA,0.0,0.0,77
+2058,Levi Lumeka,Troyes,fr FRA,0.0,0.0,67
+2059,Nassim Chadli,Troyes,fr FRA,0.0,0.0,28
+2060,Mykola Kukharevych,Troyes,fr FRA,0.0,0.0,15
+2061,Yasser Larouci,Troyes,fr FRA,0.0,0.0,15
+2062,Patrick Roberts,Troyes,fr FRA,0.0,0.0,14
+2063,Calvin Bombo,Troyes,fr FRA,0.0,0.0,0
+2064,Rudy Kohon,Troyes,fr FRA,0.0,0.0,0
+2065,Filip Krastev,Troyes,fr FRA,0.0,0.0,0
+2066,Derek Mazou-Sacko,Troyes,fr FRA,0.0,0.0,0
+2067,Jessy Moulin,Troyes,fr FRA,0.0,0.0,0
+2068,Gabriel Mutombo,Troyes,fr FRA,0.0,0.0,0
+2069,Sebastien Renot,Troyes,fr FRA,0.0,0.0,0
+2070,Pietro Ceccaroni,Venezia,it ITA,0.0,0.0,1080
+2071,Gianluca Busio,Venezia,it ITA,0.1,0.11,925
+2072,Mattia Caldara,Venezia,it ITA,0.0,0.0,724
+2073,David Okereke,Venezia,it ITA,0.0,0.04,709
+2074,Pasquale Mazzocchi,Venezia,it ITA,0.0,0.08,700
+2075,Dennis Johnsen,Venezia,it ITA,0.0,0.18,626
+2076,Domen Črnigoj,Venezia,it ITA,0.0,0.11,594
+2077,Mattia Aramu,Venezia,it ITA,0.34,0.18,535
+2078,Thomas Henry,Venezia,it ITA,0.16,0.33,569
+2079,Niki Mäenpää,Venezia,it ITA,0.0,0.0,495
+2080,Michael Svoboda,Venezia,it ITA,0.0,0.0,494
+2081,Tyronne Ebuehi,Venezia,it ITA,0.0,0.05,456
+2082,Sergio Romero,Venezia,it ITA,0.0,0.0,450
+2083,Sofian Kiyine,Venezia,it ITA,0.0,0.09,386
+2084,Antonio Vacca,Venezia,it ITA,0.0,0.0,380
+2085,Cristian Molinaro,Venezia,it ITA,0.23,0.05,387
+2086,Ridgeciano Haps,Venezia,it ITA,0.0,0.03,378
+2087,Ethan Ampadu,Venezia,it ITA,0.48,0.13,374
+2088,Francesco Forte,Venezia,it ITA,0.0,0.03,300
+2089,Daan Heymans,Venezia,it ITA,0.35,0.12,256
+2090,Dor Peretz,Venezia,it ITA,0.0,0.04,255
+2091,Luca Lezzerini,Venezia,it ITA,0.0,0.01,135
+2092,David Schnegg,Venezia,it ITA,0.0,0.02,122
+2093,Luca Fiordilino,Venezia,it ITA,0.0,0.01,120
+2094,Tanner Tessmann,Venezia,it ITA,0.0,0.01,165
+2095,Francesco Di Mariano,Venezia,it ITA,0.0,0.08,62
+2096,Arnór Sigurðsson,Venezia,it ITA,0.0,0.0,126
+2097,Marco Modolo,Venezia,it ITA,0.0,0.0,21
+2098,Jacopo Dezi,Venezia,it ITA,0.0,0.15,16
+2099,Nicolas Galazzi,Venezia,it ITA,0.0,0.0,16
+2100,Bjarki Bjarkason,Venezia,it ITA,0.0,0.0,0
+2101,Bruno,Venezia,it ITA,0.0,0.0,0
+2102,Óttar Magnús Karlsson,Venezia,it ITA,0.0,0.0,0
+2103,Filippo Neri,Venezia,it ITA,0.0,0.0,0
+2104,Arthur Desmas,Clermont Foot,fr FRA,0.0,0.0,1170
+2105,Akim Zedadka,Clermont Foot,fr FRA,0.0,0.04,1170
+2106,Cédric Hountondji,Clermont Foot,fr FRA,0.0,0.01,1134
+2107,Florent Ogier,Clermont Foot,fr FRA,0.0,0.02,1052
+2108,Salis Abdul Samed,Clermont Foot,fr FRA,0.0,0.06,996
+2109,Vital N'Simba,Clermont Foot,fr FRA,0.19,0.14,966
+2110,Jason Berthomier,Clermont Foot,fr FRA,0.22,0.24,831
+2111,Mohamed Bayo,Clermont Foot,fr FRA,0.2,0.19,906
+2112,Jodel Dossou,Clermont Foot,fr FRA,0.0,0.12,836
+2113,Johan Gastien,Clermont Foot,fr FRA,0.11,0.04,793
+2114,Elba Rashani,Clermont Foot,fr FRA,0.24,0.26,748
+2115,Jim Allevinah,Clermont Foot,fr FRA,0.14,0.05,640
+2116,Jonathan Iglesias,Clermont Foot,fr FRA,0.0,0.02,456
+2117,Pierre-Yves Hamel,Clermont Foot,fr FRA,0.0,0.04,260
+2118,Saîf-Eddine Khaoui,Clermont Foot,fr FRA,0.0,0.04,273
+2119,Arial Mendy,Clermont Foot,fr FRA,0.0,0.32,204
+2120,Jean-Claude Billong,Clermont Foot,fr FRA,0.0,0.0,154
+2121,Oriol Busquets,Clermont Foot,fr FRA,0.0,0.0,65
+2122,Jordan Tell,Clermont Foot,fr FRA,0.97,0.95,93
+2123,Alidu Seidu,Clermont Foot,fr FRA,0.0,0.0,21
+2124,Josué Albert,Clermont Foot,fr FRA,0.0,0.0,0
+2125,Julien Boyer,Clermont Foot,fr FRA,0.0,0.0,0
+2126,Ouparine Djoco,Clermont Foot,fr FRA,0.0,0.0,0
+2127,Aïman Maurer,Clermont Foot,fr FRA,0.0,0.0,0
+2128,Karim Mohamed,Clermont Foot,fr FRA,0.0,0.0,0
+2129,Bryan Silva Teixeira,Clermont Foot,fr FRA,0.0,0.0,0
+2130,Rafał Gikiewicz,Augsburg,de GER,0.0,0.0,1080
+2131,Robert Gumny,Augsburg,de GER,0.0,0.02,1028
+2132,Reece Oxford,Augsburg,de GER,0.0,0.0,990
+2133,Jeffrey Gouweleeuw,Augsburg,de GER,0.0,0.0,900
+2134,Daniel Caligiuri,Augsburg,de GER,0.11,0.13,801
+2135,Ruben Vargas,Augsburg,de GER,0.23,0.08,773
+2136,André Hahn,Augsburg,de GER,0.12,0.13,724
+2137,Niklas Dorsch,Augsburg,de GER,0.0,0.0,648
+2138,Iago,Augsburg,de GER,0.15,0.07,586
+2139,Mads Pedersen,Augsburg,de GER,0.0,0.08,620
+2140,Andi Zeqiri,Augsburg,de GER,0.16,0.1,571
+2141,Arne Maier,Augsburg,de GER,0.16,0.08,563
+2142,Florian Niederlechner,Augsburg,de GER,0.0,0.11,418
+2143,Raphael Framberger,Augsburg,de GER,0.0,0.01,323
+2144,Tobias Strobl,Augsburg,de GER,0.0,0.0,323
+2145,Carlos Gruezo,Augsburg,de GER,0.0,0.01,377
+2146,Ohis Felix Uduokhai,Augsburg,de GER,0.0,0.01,270
+2147,Sergio Córdova,Augsburg,de GER,0.0,0.05,224
+2148,Jan Morávek,Augsburg,de GER,0.0,0.0,146
+2149,Alfreð Finnbogason,Augsburg,de GER,0.64,0.11,141
+2150,Fredrik Jensen,Augsburg,de GER,0.0,0.13,236
+2151,Michael Gregoritsch,Augsburg,de GER,0.0,0.0,91
+2152,Noah Joel Sarenren Bazee,Augsburg,de GER,0.0,0.0,42
+2153,Lasse Günther,Augsburg,de GER,0.0,0.0,5
+2154,Tim Civeja,Augsburg,de GER,0.0,0.0,0
+2155,Tomáš Koubek,Augsburg,de GER,0.0,0.0,0
+2156,Dominic Schmidt,Augsburg,de GER,0.0,0.0,0
+2157,Frederik Winther,Augsburg,de GER,0.0,0.0,0
+2158,Yunis Abdelhamid,Reims,fr FRA,0.0,0.01,1170
+2159,Wout Faes,Reims,fr FRA,0.0,0.01,1170
+2160,Predrag Rajković,Reims,fr FRA,0.0,0.0,1170
+2161,Ghislain Konan,Reims,fr FRA,0.09,0.06,990
+2162,Andrew Gravillon,Reims,fr FRA,0.0,0.05,977
+2163,Azor Matusiwa,Reims,fr FRA,0.0,0.01,762
+2164,Thomas Foket,Reims,fr FRA,0.0,0.13,744
+2165,Ilan Kebbal,Reims,fr FRA,0.47,0.18,759
+2166,Marshall Munetsi,Reims,fr FRA,0.0,0.0,725
+2167,Nathanael Mbuku,Reims,fr FRA,0.0,0.1,547
+2168,Hugo Ekitike,Reims,fr FRA,0.19,0.18,486
+2169,Moreto Cassamã,Reims,fr FRA,0.0,0.03,430
+2170,El Bilal Touré,Reims,fr FRA,0.39,0.08,466
+2171,Mitchell van Bergen,Reims,fr FRA,0.0,0.04,458
+2172,Alexis Flips,Reims,fr FRA,0.68,0.18,395
+2173,Mathieu Cafaro,Reims,fr FRA,0.0,0.14,192
+2174,Xavier Chavalerin,Reims,fr FRA,0.0,0.06,220
+2175,Anastasios Donis,Reims,fr FRA,0.0,0.02,149
+2176,Dion Lopy,Reims,fr FRA,0.0,0.02,128
+2177,Valon Berisha,Reims,fr FRA,0.0,0.12,225
+2178,Philippe Koffi,Reims,fr FRA,0.0,0.08,218
+2179,Fodé Doucouré,Reims,fr FRA,0.0,0.02,154
+2180,Banzouzi Locko,Reims,fr FRA,0.0,0.06,131
+2181,Kaj Sierhuis,Reims,fr FRA,0.0,0.11,80
+2182,Sambou Sissoko,Reims,fr FRA,0.0,0.0,77
+2183,Bilal Brahimi,Reims,fr FRA,0.0,0.0,0
+2184,Yehvann Diouf,Reims,fr FRA,0.0,0.0,0
+2185,Kamory Doumbia,Reims,fr FRA,0.0,0.0,0
+2186,Moustapha Mbow,Reims,fr FRA,0.0,0.0,0
+2187,Nicolas Penneteau,Reims,fr FRA,0.0,0.0,0
+2188,Matías Dituro,Celta Vigo,es ESP,0.0,0.0,1170
+2189,Javi Galán,Celta Vigo,es ESP,0.08,0.03,1138
+2190,Iago Aspas,Celta Vigo,es ESP,0.09,0.23,1058
+2191,Santi Mina,Celta Vigo,es ESP,0.28,0.14,973
+2192,Hugo Mallo,Celta Vigo,es ESP,0.0,0.11,931
+2193,Brais Méndez,Celta Vigo,es ESP,0.2,0.1,921
+2194,Denis Suárez,Celta Vigo,es ESP,0.0,0.19,892
+2195,Jeison Murillo,Celta Vigo,es ESP,0.0,0.0,857
+2196,Renato Tapia,Celta Vigo,es ESP,0.0,0.01,763
+2197,Nolito,Celta Vigo,es ESP,0.0,0.06,752
+2198,Néstor Araujo,Celta Vigo,es ESP,0.0,0.0,763
+2199,Fran Beltrán,Celta Vigo,es ESP,0.0,0.06,673
+2200,Joseph Aidoo,Celta Vigo,es ESP,0.0,0.01,426
+2201,Franco Cervi,Celta Vigo,es ESP,0.23,0.08,383
+2202,Thiago Galhardo,Celta Vigo,es ESP,0.27,0.22,330
+2203,Augusto Solari,Celta Vigo,es ESP,0.0,0.04,312
+2204,Kevin Vázquez,Celta Vigo,es ESP,0.0,0.0,225
+2205,José Fontán,Celta Vigo,es ESP,0.0,0.0,165
+2206,Carlos Dominguez,Celta Vigo,es ESP,0.0,0.0,92
+2207,Okay Yokuşlu,Celta Vigo,es ESP,0.0,0.0,32
+2208,Hugo Álvarez,Celta Vigo,es ESP,0.0,0.0,11
+2209,Miguel Baeza,Celta Vigo,es ESP,0.0,0.0,2
+2210,Alfon,Celta Vigo,es ESP,0.0,0.0,0
+2211,Rubén Blanco,Celta Vigo,es ESP,0.0,0.0,0
+2212,Gaizka Campos Bahillo,Celta Vigo,es ESP,0.0,0.0,0
+2213,Coke Carrillo,Celta Vigo,es ESP,0.0,0.0,0
+2214,Fernando Medrano,Celta Vigo,es ESP,0.0,0.0,0
+2215,Hugo Sotelo,Celta Vigo,es ESP,0.0,0.0,0
+2216,Luis Javier Suárez,Granada,es ESP,0.0,0.05,903
+2217,Carlos Neva,Granada,es ESP,0.0,0.03,912
+2218,Luís Maximiano,Granada,es ESP,0.0,0.0,796
+2219,Luis Milla,Granada,es ESP,0.23,0.08,777
+2220,Ángel Montoro,Granada,es ESP,0.0,0.14,765
+2221,Germán Sánchez,Granada,es ESP,0.0,0.0,711
+2222,Maxime Gonalons,Granada,es ESP,0.0,0.01,614
+2223,Domingos Duarte,Granada,es ESP,0.0,0.0,616
+2224,Quini,Granada,es ESP,0.0,0.06,572
+2225,Monchu,Granada,es ESP,0.0,0.04,579
+2226,Rubén Rochina,Granada,es ESP,0.49,0.09,555
+2227,Víctor Díaz,Granada,es ESP,0.0,0.0,516
+2228,Darwin Machís,Granada,es ESP,0.0,0.15,466
+2229,Luis Abram,Granada,es ESP,0.0,0.0,424
+2230,Alberto Soro,Granada,es ESP,0.0,0.11,357
+2231,Antonio Puertas,Granada,es ESP,0.0,0.0,490
+2232,Carlos Bacca,Granada,es ESP,0.21,0.08,439
+2233,Jorge Molina,Granada,es ESP,0.0,0.04,391
+2234,Aarón Escandell,Granada,es ESP,0.0,0.0,284
+2235,Santiago Arias,Granada,es ESP,0.0,0.07,232
+2236,Sergio Escudero,Granada,es ESP,0.39,0.27,228
+2237,Dimitri Foulquier,Granada,es ESP,0.0,0.01,180
+2238,Yan Brice Eteki,Granada,es ESP,0.0,0.0,64
+2239,Isma Ruiz,Granada,es ESP,0.0,0.0,5
+2240,Raúl Torrente,Granada,es ESP,0.0,0.0,4
+2241,Ángel,Granada,es ESP,0.0,0.0,0
+2242,Adrián Butzke,Granada,es ESP,0.0,0.0,0
+2243,Cheikh Kané Sarr,Granada,es ESP,0.0,0.0,0
+2244,Marco Bizot,Brest,fr FRA,0.0,0.0,1170
+2245,Franck Honorat,Brest,fr FRA,0.08,0.21,1096
+2246,Romain Faivre,Brest,fr FRA,0.34,0.15,1053
+2247,Ronaël Pierre-Gabriel,Brest,fr FRA,0.09,0.04,1025
+2248,Brendan Chardonnet,Brest,fr FRA,0.0,0.02,990
+2249,Lilian Brassier,Brest,fr FRA,0.0,0.02,965
+2250,Steve Mounié,Brest,fr FRA,0.1,0.08,906
+2251,Jean-Kevin Duverne,Brest,fr FRA,0.0,0.04,877
+2252,Haris Belkebla,Brest,fr FRA,0.0,0.01,737
+2253,Hianga Mananga Mbock,Brest,fr FRA,0.0,0.0,702
+2254,Irvin Cardona,Brest,fr FRA,0.13,0.11,684
+2255,Hugo Magnetti,Brest,fr FRA,0.0,0.01,580
+2256,Jere Uronen,Brest,fr FRA,0.0,0.01,442
+2257,Lucien Agoume,Brest,fr FRA,0.0,0.03,449
+2258,Jérémy Le Douaron,Brest,fr FRA,0.2,0.24,454
+2259,Romain Del Castillo,Brest,fr FRA,0.0,0.26,160
+2260,Christophe Hérelle,Brest,fr FRA,0.0,0.0,115
+2261,Julien Faussurier,Brest,fr FRA,0.0,0.15,202
+2262,Youssouph Badji,Brest,fr FRA,0.0,0.1,126
+2263,Dénys Bain,Brest,fr FRA,0.0,0.0,90
+2264,Romain Philippoteaux,Brest,fr FRA,0.0,0.0,24
+2265,Rafiki Said Ahamada,Brest,fr FRA,0.0,0.0,23
+2266,Gautier Larsonneur,Brest,fr FRA,0.0,0.0,0
+2267,Axel Camblan,Brest,fr FRA,0.0,0.0,0
+2268,Grégoire Coudert,Brest,fr FRA,0.0,0.0,0
+2269,Noé Sow,Brest,fr FRA,0.0,0.0,0
+2270,Alfonso Espino,Cádiz,es ESP,0.0,0.13,1170
+2271,Jeremías Ledesma,Cádiz,es ESP,0.0,0.0,1170
+2272,Varazdat Haroyan,Cádiz,es ESP,0.0,0.01,935
+2273,Fali,Cádiz,es ESP,0.11,0.05,832
+2274,Isaac Carcelen,Cádiz,es ESP,0.0,0.02,890
+2275,Salvi,Cádiz,es ESP,0.11,0.13,853
+2276,Tomás Alarcón,Cádiz,es ESP,0.11,0.08,822
+2277,Jens Jønsson,Cádiz,es ESP,0.13,0.1,667
+2278,Rubén Sobrino,Cádiz,es ESP,0.13,0.08,709
+2279,Anthony Lozano,Cádiz,es ESP,0.14,0.05,624
+2280,Álex Fernández,Cádiz,es ESP,0.13,0.04,697
+2281,Álvaro Negredo,Cádiz,es ESP,0.0,0.02,546
+2282,Víctor Chust,Cádiz,es ESP,0.0,0.0,460
+2283,Alberto Perea,Cádiz,es ESP,0.0,0.08,443
+2284,Carlos Akapo,Cádiz,es ESP,0.0,0.01,416
+2285,Cala,Cádiz,es ESP,0.0,0.0,409
+2286,Santiago Arzamendia,Cádiz,es ESP,0.0,0.0,186
+2287,Chapela,Cádiz,es ESP,0.0,0.07,185
+2288,Álvaro Bastida,Cádiz,es ESP,0.0,0.0,137
+2289,Álvaro Jiménez,Cádiz,es ESP,0.0,0.01,184
+2290,Milutin Osmajić,Cádiz,es ESP,0.0,0.0,177
+2291,Florin Andone,Cádiz,es ESP,0.0,0.0,109
+2292,Marcos Mauro López Gutiérrez,Cádiz,es ESP,0.0,0.0,90
+2293,Iván Alejo,Cádiz,es ESP,0.0,0.0,69
+2294,Martín,Cádiz,es ESP,0.0,0.03,51
+2295,Pedro Benito,Cádiz,es ESP,0.0,0.0,31
+2296,Juan Flere,Cádiz,es ESP,0.0,0.0,0
+2297,David Gil,Cádiz,es ESP,0.0,0.0,0
+2298,Raúl Parra,Cádiz,es ESP,0.0,0.0,0
+2299,Benoît Costil,Bordeaux,fr FRA,0.0,0.0,1170
+2300,Ricardo Mangas,Bordeaux,fr FRA,0.09,0.01,1035
+2301,Enock Kwateng,Bordeaux,fr FRA,0.0,0.03,991
+2302,Otávio,Bordeaux,fr FRA,0.0,0.01,933
+2303,Yacine Adli,Bordeaux,fr FRA,0.32,0.33,834
+2304,Hwang Ui-jo,Bordeaux,fr FRA,0.12,0.02,756
+2305,Laurent Koscielny,Bordeaux,fr FRA,0.12,0.01,754
+2306,Timothee Pembele,Bordeaux,fr FRA,0.0,0.14,676
+2307,Stian Rode Gregersen,Bordeaux,fr FRA,0.0,0.0,636
+2308,Mexer,Bordeaux,fr FRA,0.0,0.0,596
+2309,Javairô Dilrosun,Bordeaux,fr FRA,0.16,0.09,548
+2310,Jean Onana,Bordeaux,fr FRA,0.19,0.13,485
+2311,Remi Oudin,Bordeaux,fr FRA,0.17,0.12,538
+2312,Fransérgio,Bordeaux,fr FRA,0.0,0.01,449
+2313,Sekou Mara,Bordeaux,fr FRA,0.0,0.01,404
+2314,Issouf Sissokho,Bordeaux,fr FRA,0.0,0.1,309
+2315,Alberth Elis,Bordeaux,fr FRA,0.0,0.09,326
+2316,Samuel Kalu,Bordeaux,fr FRA,0.28,0.05,316
+2317,Gideon Mensah,Bordeaux,fr FRA,0.0,0.14,293
+2318,Toma Bašić,Bordeaux,fr FRA,0.43,0.24,209
+2319,Abdel Jalil Medioub,Bordeaux,fr FRA,0.0,0.0,177
+2320,Jimmy Briand,Bordeaux,fr FRA,0.69,0.19,131
+2321,Tom Lacoux,Bordeaux,fr FRA,0.0,0.0,90
+2322,Loris Benito,Bordeaux,fr FRA,0.0,0.0,61
+2323,Mehdi Zerkane,Bordeaux,fr FRA,0.0,0.02,83
+2324,M'Baye Niang,Bordeaux,fr FRA,0.0,0.0,40
+2325,Amadou Traore,Bordeaux,fr FRA,0.0,0.0,19
+2326,Rubén Pardo,Bordeaux,fr FRA,0.0,0.0,6
+2327,Dilane Bakwa,Bordeaux,fr FRA,0.0,0.0,0
+2328,Raoul Bellanova,Bordeaux,fr FRA,0.0,0.0,0
+2329,Loïc Bessile,Bordeaux,fr FRA,0.0,0.0,0
+2330,Gaëtan Poussin,Bordeaux,fr FRA,0.0,0.0,0
+2331,Dimitris Nikolaou,Spezia,it ITA,0.0,0.01,1080
+2332,Emmanuel Gyasi,Spezia,it ITA,0.0,0.04,1031
+2333,Simone Bastoni,Spezia,it ITA,0.0,0.16,931
+2334,Giulio Maggiore,Spezia,it ITA,0.2,0.11,898
+2335,Salvador Ferrer,Spezia,it ITA,0.0,0.03,876
+2336,Petko Hristov,Spezia,it ITA,0.0,0.01,820
+2337,Jeroen Zoet,Spezia,it ITA,0.0,0.0,630
+2338,Kelvin Amian,Spezia,it ITA,0.15,0.07,593
+2339,Janis Antiste,Spezia,it ITA,0.0,0.03,537
+2340,Daniele Verde,Spezia,it ITA,0.15,0.19,585
+2341,Viktor Kovalenko,Spezia,it ITA,0.35,0.03,510
+2342,M'Bala Nzola,Spezia,it ITA,0.0,0.04,518
+2343,Ivan Provedel,Spezia,it ITA,0.0,0.0,450
+2344,Martin Erlic,Spezia,it ITA,0.0,0.0,382
+2345,Jacopo Sala,Spezia,it ITA,0.0,0.06,351
+2346,Dávid Strelec,Spezia,it ITA,0.0,0.18,322
+2347,Eddie Salcedo,Spezia,it ITA,0.0,0.05,301
+2348,Ebrima Colley,Spezia,it ITA,0.0,0.48,286
+2349,Mehdi Bourabia,Spezia,it ITA,0.0,0.02,200
+2350,Rey Manaj,Spezia,it ITA,0.0,0.14,212
+2351,Suf Podgoreanu,Spezia,it ITA,0.87,0.03,103
+2352,Luca Vignali,Spezia,it ITA,0.0,0.0,85
+2353,Samuel Mráz,Spezia,it ITA,0.0,0.0,54
+2354,Aimar Sher,Spezia,it ITA,0.0,0.0,45
+2355,Kevin Agudelo,Spezia,it ITA,0.0,0.71,29
+2356,Arkadiusz Reca,Spezia,it ITA,0.0,0.0,5
+2357,Nicolò Bertola,Spezia,it ITA,0.0,0.0,0
+2358,Dennis Deloriè,Spezia,it ITA,0.0,0.0,0
+2359,Jakub Kiwior,Spezia,it ITA,0.0,0.0,0
+2360,Petar Zovko,Spezia,it ITA,0.0,0.0,0
+2361,Wataru Endo,Stuttgart,de GER,0.19,0.03,971
+2362,Borna Sosa,Stuttgart,de GER,0.28,0.18,968
+2363,Konstantinos Mavropanos,Stuttgart,de GER,0.0,0.0,767
+2364,Marc-Oliver Kempf,Stuttgart,de GER,0.0,0.05,733
+2365,Waldemar Anton,Stuttgart,de GER,0.0,0.03,711
+2366,Atakan Karazor,Stuttgart,de GER,0.0,0.07,582
+2367,Florian Müller,Stuttgart,de GER,0.0,0.0,630
+2368,Roberto Massimo,Stuttgart,de GER,0.0,0.2,505
+2369,Mateo Klimowicz,Stuttgart,de GER,0.19,0.05,473
+2370,Hamadi Al Ghaddioui,Stuttgart,de GER,0.21,0.2,431
+2371,Tanguy Coulibaly,Stuttgart,de GER,0.17,0.05,524
+2372,Hiroki Ito,Stuttgart,de GER,0.0,0.01,446
+2373,Orel Mangala,Stuttgart,de GER,0.0,0.05,424
+2374,Omar Marmoush,Stuttgart,de GER,0.43,0.09,418
+2375,Fabian Bredlow,Stuttgart,de GER,0.0,0.0,360
+2376,Chris Führich,Stuttgart,de GER,0.0,0.03,302
+2377,Philipp Klement,Stuttgart,de GER,0.0,0.26,338
+2378,Philipp Förster,Stuttgart,de GER,0.29,0.18,309
+2379,Nikolas Nartey,Stuttgart,de GER,0.0,0.06,244
+2380,Daniel Didavi,Stuttgart,de GER,0.35,0.26,257
+2381,Clinton Mola,Stuttgart,de GER,0.0,0.0,113
+2382,Wahidullah Faghir,Stuttgart,de GER,0.0,0.0,106
+2383,Erik Thommy,Stuttgart,de GER,0.0,0.17,77
+2384,Pascal Stenzel,Stuttgart,de GER,0.0,0.11,62
+2385,Ömer Faruk Beyaz,Stuttgart,de GER,0.0,0.0,36
+2386,Enzo Millot,Stuttgart,de GER,0.0,0.0,32
+2387,Sasa Kalajdzic,Stuttgart,de GER,0.0,0.0,18
+2388,Matej Maglica,Stuttgart,de GER,0.0,0.0,6
+2389,Mohamed Sankoh,Stuttgart,de GER,0.0,0.0,4
+2390,Naouirou Ahamada,Stuttgart,de GER,0.0,0.0,0
+2391,Darko Churlinov,Stuttgart,de GER,0.0,0.0,0
+2392,Florian Schock,Stuttgart,de GER,0.0,0.0,0
+2393,Matty Cash,Aston Villa,eng ENG,0.0,0.04,973
+2394,Emiliano Martínez,Aston Villa,eng ENG,0.0,0.0,900
+2395,Ezri Konsa,Aston Villa,eng ENG,0.0,0.02,857
+2396,John McGinn,Aston Villa,eng ENG,0.11,0.13,849
+2397,Matt Targett,Aston Villa,eng ENG,0.11,0.19,825
+2398,Tyrone Mings,Aston Villa,eng ENG,0.11,0.01,849
+2399,Danny Ings,Aston Villa,eng ENG,0.24,0.05,758
+2400,Ollie Watkins,Aston Villa,eng ENG,0.0,0.05,732
+2401,Douglas Luiz,Aston Villa,eng ENG,0.26,0.12,682
+2402,Emi Buendía,Aston Villa,eng ENG,0.17,0.21,542
+2403,Jacob Ramsey,Aston Villa,eng ENG,0.0,0.06,515
+2404,Axel Tuanzebe,Aston Villa,eng ENG,0.0,0.0,498
+2405,Anwar El Ghazi,Aston Villa,eng ENG,0.0,0.08,350
+2406,Marvelous Nakamba,Aston Villa,eng ENG,0.0,0.01,356
+2407,Ashley Young,Aston Villa,eng ENG,0.0,0.03,355
+2408,Kortney Hause,Aston Villa,eng ENG,0.0,0.0,261
+2409,Leon Bailey,Aston Villa,eng ENG,0.61,0.06,293
+2410,Jed Steer,Aston Villa,eng ENG,0.0,0.0,90
+2411,Carney Chukwuemeka,Aston Villa,eng ENG,0.0,0.0,62
+2412,Bertrand Traoré,Aston Villa,eng ENG,0.0,0.0,57
+2413,Cameron Archer,Aston Villa,eng ENG,0.0,0.0,27
+2414,Keinan Davis,Aston Villa,eng ENG,0.0,0.0,12
+2415,Jaden Philogene Bidace,Aston Villa,eng ENG,0.0,0.0,5
+2416,Wesley Moraes,Aston Villa,eng ENG,0.0,0.0,1
+2417,Lamare Bogarde,Aston Villa,eng ENG,0.0,0.0,0
+2418,Frederic Guilbert,Aston Villa,eng ENG,0.0,0.0,0
+2419,Conor Hourihane,Aston Villa,eng ENG,0.0,0.0,0
+2420,Aaron Ramsey,Aston Villa,eng ENG,0.0,0.0,0
+2421,Morgan Sanson,Aston Villa,eng ENG,0.0,0.0,0
+2422,Viljami Sinisalo,Aston Villa,eng ENG,0.0,0.0,0
+2423,Ismaila Sarr,Watford,eng ENG,0.0,0.11,963
+2424,William Troost-Ekong,Watford,eng ENG,0.0,0.01,900
+2425,Juraj Kucka,Watford,eng ENG,0.0,0.02,849
+2426,Moussa Sissoko,Watford,eng ENG,0.0,0.06,790
+2427,Craig Cathcart,Watford,eng ENG,0.12,0.0,743
+2428,Emmanuel Dennis,Watford,eng ENG,0.37,0.09,739
+2429,Joshua King,Watford,eng ENG,0.28,0.25,636
+2430,Ben Foster,Watford,eng ENG,0.0,0.0,630
+2431,Danny Rose,Watford,eng ENG,0.0,0.13,540
+2432,Adam Masina,Watford,eng ENG,0.0,0.04,495
+2433,Kiko Femenía,Watford,eng ENG,0.25,0.08,359
+2434,Tom Cleverley,Watford,eng ENG,0.22,0.15,404
+2435,Oghenekaro Etebo,Watford,eng ENG,0.0,0.01,371
+2436,Daniel Bachmann,Watford,eng ENG,0.0,0.0,360
+2437,Jeremy Ngakia,Watford,eng ENG,0.0,0.05,377
+2438,Cucho,Watford,eng ENG,0.24,0.09,376
+2439,Francisco Sierralta,Watford,eng ENG,0.0,0.0,247
+2440,Ozan Tufan,Watford,eng ENG,0.0,0.1,227
+2441,Ken Sema,Watford,eng ENG,0.0,0.18,290
+2442,Christian Kabasele,Watford,eng ENG,0.0,0.0,203
+2443,João Pedro,Watford,eng ENG,0.49,0.57,182
+2444,Nicolas Nkoulou,Watford,eng ENG,0.0,0.02,105
+2445,Imran Louza,Watford,eng ENG,0.0,0.0,45
+2446,Troy Deeney,Watford,eng ENG,0.0,0.32,25
+2447,Dan Gosling,Watford,eng ENG,0.0,0.0,22
+2448,Ashley Fletcher,Watford,eng ENG,0.0,0.0,10
+2449,Kwadwo Baah,Watford,eng ENG,0.0,0.0,0
+2450,Rob Elliot,Watford,eng ENG,0.0,0.0,0
+2451,Johan Mojica,Elche,es ESP,0.17,0.18,1084
+2452,Kiko Casilla,Elche,es ESP,0.0,0.01,1080
+2453,Fidel,Elche,es ESP,0.19,0.15,970
+2454,Raúl Guti,Elche,es ESP,0.0,0.02,884
+2455,Enzo Roco,Elche,es ESP,0.0,0.01,864
+2456,Omar Mascarell,Elche,es ESP,0.0,0.01,760
+2457,Lucas Boyé,Elche,es ESP,0.0,0.09,711
+2458,Pedro Bigas,Elche,es ESP,0.0,0.01,682
+2459,Gonzalo Verdú,Elche,es ESP,0.0,0.0,643
+2460,Lucas Pérez,Elche,es ESP,0.0,0.03,598
+2461,Helibelton Palacios,Elche,es ESP,0.0,0.02,684
+2462,Darío Benedetto,Elche,es ESP,0.16,0.15,555
+2463,Diego González,Elche,es ESP,0.0,0.01,494
+2464,Josan,Elche,es ESP,0.24,0.15,376
+2465,Antonio Barragán,Elche,es ESP,0.0,0.0,356
+2466,Iván Marcone,Elche,es ESP,0.0,0.0,349
+2467,Gerard Gumbau,Elche,es ESP,0.0,0.02,318
+2468,Javier Pastore,Elche,es ESP,0.0,0.15,288
+2469,Pere Milla,Elche,es ESP,0.0,0.01,288
+2470,Tete Morente,Elche,es ESP,0.0,0.06,203
+2471,Pablo Piatti,Elche,es ESP,0.0,0.22,174
+2472,Guido Carrillo,Elche,es ESP,0.0,0.0,230
+2473,Josema,Elche,es ESP,0.0,0.06,161
+2474,Édgar Badía,Elche,es ESP,0.0,0.0,90
+2475,Jony Álamo,Elche,es ESP,0.0,0.0,0
+2476,Lluis Andreu,Elche,es ESP,0.0,0.0,0
+2477,Diego Bri,Elche,es ESP,0.0,0.0,0
+2478,César,Elche,es ESP,0.0,0.0,0
+2479,John Donald,Elche,es ESP,0.0,0.0,0
+2480,Axel Werner,Elche,es ESP,0.0,0.0,0
+2481,Salvatore Sirigu,Genoa,it ITA,0.0,0.0,1080
+2482,Domenico Criscito,Genoa,it ITA,0.09,0.04,1051
+2483,Nicolò Rovella,Genoa,it ITA,0.27,0.13,1013
+2484,Andrea Cambiaso,Genoa,it ITA,0.21,0.1,840
+2485,Milan Badelj,Genoa,it ITA,0.0,0.13,839
+2486,Mattia Destro,Genoa,it ITA,0.0,0.01,627
+2487,Davide Biraschi,Genoa,it ITA,0.0,0.01,532
+2488,Stefano Sturaro,Genoa,it ITA,0.0,0.0,425
+2489,Yayah Kallon,Genoa,it ITA,0.15,0.16,596
+2490,Mohamed Fares,Genoa,it ITA,0.19,0.09,470
+2491,Johan Vásquez,Genoa,it ITA,0.0,0.0,450
+2492,Nikola Maksimović,Genoa,it ITA,0.0,0.0,413
+2493,Abdoulaye Touré,Genoa,it ITA,0.0,0.0,371
+2494,Goran Pandev,Genoa,it ITA,0.19,0.17,473
+2495,Caleb Ekuban,Genoa,it ITA,0.0,0.14,335
+2496,Zinho Vanheusden,Genoa,it ITA,0.0,0.0,302
+2497,Hernani,Genoa,it ITA,0.0,0.16,195
+2498,Stefano Sabelli,Genoa,it ITA,0.0,0.03,176
+2499,Paolo Ghiglione,Genoa,it ITA,0.43,0.04,211
+2500,Mattia Bani,Genoa,it ITA,0.0,0.0,206
+2501,Andrea Masiello,Genoa,it ITA,0.0,0.01,204
+2502,Pablo Galdames Millán,Genoa,it ITA,0.0,0.05,197
+2503,Filippo Melegoni,Genoa,it ITA,0.0,0.04,130
+2504,Valon Behrami,Genoa,it ITA,0.0,0.04,253
+2505,Felipe Caicedo,Genoa,it ITA,0.86,0.37,210
+2506,Flavio Junior Bianchi,Genoa,it ITA,0.0,0.06,117
+2507,Aleksander Buksa,Genoa,it ITA,0.0,0.0,51
+2508,Laurens Serpe,Genoa,it ITA,0.0,0.0,45
+2509,Andrea Favilli,Genoa,it ITA,0.0,0.0,36
+2510,Manolo Portanova,Genoa,it ITA,0.0,0.0,32
+2511,Kevin Agudelo,Genoa,it ITA,0.0,0.0,0
+2512,Lorenzo Andrenacci,Genoa,it ITA,0.0,0.0,0
+2513,Steeve-Mike Ebongue,Genoa,it ITA,0.0,0.0,0
+2514,Federico Marchetti,Genoa,it ITA,0.0,0.0,0
+2515,Adrian Šemper,Genoa,it ITA,0.0,0.0,0
+2516,Emil Audero,Sampdoria,it ITA,0.0,0.0,1080
+2517,Maya Yoshida,Sampdoria,it ITA,0.08,0.04,1080
+2518,Antonio Candreva,Sampdoria,it ITA,0.17,0.25,1076
+2519,Omar Colley,Sampdoria,it ITA,0.0,0.0,947
+2520,Bartosz Bereszyński,Sampdoria,it ITA,0.19,0.05,938
+2521,Morten Thorsby,Sampdoria,it ITA,0.1,0.06,938
+2522,Tommaso Augello,Sampdoria,it ITA,0.0,0.07,865
+2523,Fabio Quagliarella,Sampdoria,it ITA,0.12,0.1,739
+2524,Francesco Caputo,Sampdoria,it ITA,0.12,0.1,753
+2525,Adrien Silva,Sampdoria,it ITA,0.14,0.03,653
+2526,Mikkel Damsgaard,Sampdoria,it ITA,0.0,0.08,512
+2527,Albin Ekdal,Sampdoria,it ITA,0.0,0.01,453
+2528,Manolo Gabbiadini,Sampdoria,it ITA,0.25,0.25,360
+2529,Kristoffer Askildsen,Sampdoria,it ITA,0.0,0.05,436
+2530,Radu Drăgușin,Sampdoria,it ITA,0.0,0.01,247
+2531,Nicola Murru,Sampdoria,it ITA,0.0,0.05,181
+2532,Valerio Verre,Sampdoria,it ITA,0.0,0.03,144
+2533,Julian Chabot,Sampdoria,it ITA,0.0,0.0,172
+2534,Fabio Depaoli,Sampdoria,it ITA,0.0,0.0,110
+2535,Ernesto Torregrossa,Sampdoria,it ITA,0.0,0.07,102
+2536,Riccardo Ciervo,Sampdoria,it ITA,0.0,0.0,66
+2537,Alex Ferrari,Sampdoria,it ITA,0.0,0.0,4
+2538,Wladimiro Falcone,Sampdoria,it ITA,0.0,0.0,0
+2539,Mohammed Ihattaren,Sampdoria,it ITA,0.0,0.0,0
+2540,Francesco Migliardi,Sampdoria,it ITA,0.0,0.0,0
+2541,Nicola Ravaglia,Sampdoria,it ITA,0.0,0.0,0
+2542,Lorenzo Tonelli,Sampdoria,it ITA,0.0,0.0,0
+2543,Simone Trimboli,Sampdoria,it ITA,0.0,0.0,0
+2544,Gerard Yepes,Sampdoria,it ITA,0.0,0.0,0
+2545,Matthew Lowton,Burnley,eng ENG,0.18,0.07,990
+2546,Nick Pope,Burnley,eng ENG,0.0,0.02,990
+2547,James Tarkowski,Burnley,eng ENG,0.0,0.0,990
+2548,Dwight McNeil,Burnley,eng ENG,0.09,0.16,974
+2549,Chris Wood,Burnley,eng ENG,0.0,0.02,909
+2550,Josh Brownhill,Burnley,eng ENG,0.0,0.05,912
+2551,Charlie Taylor,Burnley,eng ENG,0.1,0.09,900
+2552,Ashley Westwood,Burnley,eng ENG,0.2,0.18,900
+2553,Ben Mee,Burnley,eng ENG,0.0,0.01,720
+2554,Jóhann Berg Guðmundsson,Burnley,eng ENG,0.14,0.04,629
+2555,Maxwel Cornet,Burnley,eng ENG,0.0,0.12,364
+2556,Ashley Barnes,Burnley,eng ENG,0.0,0.19,382
+2557,Jack Cork,Burnley,eng ENG,0.0,0.0,314
+2558,Nathan Collins,Burnley,eng ENG,0.0,0.13,270
+2559,Matěj Vydra,Burnley,eng ENG,0.41,0.07,219
+2560,Jay Rodriguez,Burnley,eng ENG,0.42,0.44,216
+2561,Aaron Lennon,Burnley,eng ENG,0.0,0.0,106
+2562,Erik Pieters,Burnley,eng ENG,0.0,0.0,105
+2563,Phil Bardsley,Burnley,eng ENG,0.0,0.0,0
+2564,Owen Dodgson,Burnley,eng ENG,0.0,0.0,0
+2565,Wayne Hennessey,Burnley,eng ENG,0.0,0.0,0
+2566,Kevin Long,Burnley,eng ENG,0.0,0.0,0
+2567,Will Norris,Burnley,eng ENG,0.0,0.0,0
+2568,Lewis Richardson,Burnley,eng ENG,0.0,0.0,0
+2569,Connor Roberts,Burnley,eng ENG,0.0,0.0,0
+2570,Bobby Thomas,Burnley,eng ENG,0.0,0.0,0
+2571,Stefan Ortega,Arminia,de GER,0.0,0.02,990
+2572,Manuel Prietl,Arminia,de GER,0.09,0.06,990
+2573,Amos Pieper,Arminia,de GER,0.0,0.0,900
+2574,Joakim Nilsson,Arminia,de GER,0.0,0.0,855
+2575,Cédric Brunner,Arminia,de GER,0.11,0.06,821
+2576,Jacob Barrett Laursen,Arminia,de GER,0.0,0.05,809
+2577,Fabian Klos,Arminia,de GER,0.11,0.1,807
+2578,Masaya Okugawa,Arminia,de GER,0.0,0.04,716
+2579,Alessandro Schöpf,Arminia,de GER,0.0,0.16,744
+2580,Robin Hack,Arminia,de GER,0.0,0.11,686
+2581,Fabian Kunze,Arminia,de GER,0.0,0.02,492
+2582,Patrick Wimmer,Arminia,de GER,0.21,0.21,424
+2583,Bryan Lasme,Arminia,de GER,0.0,0.02,374
+2584,Florian Krüger,Arminia,de GER,0.0,0.11,269
+2585,Edimilson Fernandes,Arminia,de GER,0.0,0.12,209
+2586,Nathan de Medina,Arminia,de GER,0.0,0.0,197
+2587,Janni Serra,Arminia,de GER,0.0,0.02,179
+2588,Andrés Andrade Cedeño,Arminia,de GER,0.0,0.13,143
+2589,Lennart-Marten Czyborra,Arminia,de GER,0.0,0.0,131
+2590,Sebastian Vasiliadis,Arminia,de GER,0.0,0.0,72
+2591,Guilherme Ramos,Arminia,de GER,0.0,0.0,45
+2592,Mike van der Hoorn,Arminia,de GER,0.0,0.0,14
+2593,Vladislav Cherny,Arminia,de GER,0.0,0.0,0
+2594,Christian Gebauer,Arminia,de GER,0.0,0.0,0
+2595,Stefanos Kapino,Arminia,de GER,0.0,0.0,0
+2596,Arne Schulz,Arminia,de GER,0.0,0.0,0
+2597,Wahbi Khazri,Saint-Étienne,fr FRA,0.0,0.13,1050
+2598,Mahdi Camara,Saint-Étienne,fr FRA,0.0,0.09,1120
+2599,Timothée Kolodziejczak,Saint-Étienne,fr FRA,0.19,0.05,954
+2600,Harold Moukoudi,Saint-Étienne,fr FRA,0.0,0.0,945
+2601,Etienne Green,Saint-Étienne,fr FRA,0.0,0.03,882
+2602,Yvan Neyou,Saint-Étienne,fr FRA,0.0,0.03,811
+2603,Denis Bouanga,Saint-Étienne,fr FRA,0.0,0.08,836
+2604,Saidou Sow,Saint-Étienne,fr FRA,0.13,0.08,675
+2605,Zaydou Youssouf,Saint-Étienne,fr FRA,0.0,0.05,580
+2606,Yvann Macon,Saint-Étienne,fr FRA,0.0,0.08,522
+2607,Romain Hamouma,Saint-Étienne,fr FRA,0.0,0.06,578
+2608,Mickael Nade,Saint-Étienne,fr FRA,0.0,0.01,529
+2609,Arnaud Nordin,Saint-Étienne,fr FRA,0.49,0.33,546
+2610,Lucas Douath,Saint-Étienne,fr FRA,0.0,0.0,510
+2611,Ryad Boudebouz,Saint-Étienne,fr FRA,0.0,0.2,467
+2612,Miguel Trauco,Saint-Étienne,fr FRA,0.0,0.02,347
+2613,Jean-Philippe Krasso,Saint-Étienne,fr FRA,0.32,0.15,279
+2614,Stefan Bajic,Saint-Étienne,fr FRA,0.0,0.0,285
+2615,Adil Aouchiche,Saint-Étienne,fr FRA,0.34,0.06,261
+2616,Aimen Moueffek,Saint-Étienne,fr FRA,0.0,0.0,186
+2617,Juan Ignacio Ramírez,Saint-Étienne,fr FRA,0.0,0.0,117
+2618,Gabriel Silva,Saint-Étienne,fr FRA,0.0,0.04,83
+2619,Charles Abi,Saint-Étienne,fr FRA,0.0,0.0,45
+2620,Mathys Saban,Saint-Étienne,fr FRA,0.0,0.0,73
+2621,Bryan Djile Nokoué,Saint-Étienne,fr FRA,0.0,0.0,57
+2622,Elhadji Dieye,Saint-Étienne,fr FRA,0.0,0.0,12
+2623,Assane Dioussé,Saint-Étienne,fr FRA,0.0,0.0,10
+2624,Maxence Rivera,Saint-Étienne,fr FRA,0.0,0.0,5
+2625,Boubacar Fall,Saint-Étienne,fr FRA,0.0,0.0,0
+2626,Ahmed Sidibé,Saint-Étienne,fr FRA,0.0,0.0,0
+2627,Alexandre Oukidja,Metz,fr FRA,0.0,0.0,1167
+2628,Habib Maïga,Metz,fr FRA,0.0,0.06,919
+2629,Matthieu Udol,Metz,fr FRA,0.0,0.04,1007
+2630,Fabien Centonze,Metz,fr FRA,0.0,0.03,990
+2631,Dylan Bronn,Metz,fr FRA,0.0,0.01,989
+2632,Ibrahima Niane,Metz,fr FRA,0.11,0.12,800
+2633,Pape Matar Sarr,Metz,fr FRA,0.1,0.05,917
+2634,Vincent Pajot,Metz,fr FRA,0.0,0.0,782
+2635,Boubakar Kouyaté,Metz,fr FRA,0.0,0.0,775
+2636,Nicolas de Préville,Metz,fr FRA,0.0,0.06,591
+2637,Lamine Gueye,Metz,fr FRA,0.56,0.17,482
+2638,Thomas Delaine,Metz,fr FRA,0.17,0.19,517
+2639,Kévin N'Doram,Metz,fr FRA,0.0,0.01,453
+2640,Farid Boulaya,Metz,fr FRA,0.0,0.1,430
+2641,Jemerson,Metz,fr FRA,0.0,0.0,314
+2642,Sikou Niakaté,Metz,fr FRA,0.0,0.02,206
+2643,Papa Ndiaga Yade,Metz,fr FRA,0.0,0.22,256
+2644,Cheikh Tidiane Sabaly,Metz,fr FRA,0.0,0.03,135
+2645,Boubacar Traoré,Metz,fr FRA,0.0,0.01,288
+2646,Amadou Mbengue,Metz,fr FRA,0.0,0.01,189
+2647,Opa Nguette,Metz,fr FRA,0.76,0.05,119
+2648,Amine Bassi,Metz,fr FRA,0.0,0.13,75
+2649,Sofiane Alakouch,Metz,fr FRA,0.0,0.01,151
+2650,Vagner Gonçalves,Metz,fr FRA,0.0,0.08,86
+2651,Warren Tchimbembé,Metz,fr FRA,0.0,0.0,82
+2652,Lenny Joseph,Metz,fr FRA,0.0,0.0,42
+2653,Mamadou Fofana,Metz,fr FRA,0.0,0.0,33
+2654,Marc-Aurèle Caillard,Metz,fr FRA,0.0,0.0,3
+2655,Georges Mikautadze,Metz,fr FRA,0.0,0.0,1
+2656,Ousmane Ba,Metz,fr FRA,0.0,0.0,0
+2657,Lenny Lacroix,Metz,fr FRA,0.0,0.0,0
+2658,William Mikelbrencis,Metz,fr FRA,0.0,0.0,0
+2659,Vid Belec,Salernitana,it ITA,0.0,0.0,1080
+2660,Stefan Strandberg,Salernitana,it ITA,0.0,0.03,933
+2661,Norbert Gyömbér,Salernitana,it ITA,0.0,0.0,882
+2662,Luca Ranieri,Salernitana,it ITA,0.0,0.11,786
+2663,Francesco Di Tacchio,Salernitana,it ITA,0.0,0.02,749
+2664,Mamadou Coulibaly,Salernitana,it ITA,0.0,0.03,662
+2665,Franck Ribéry,Salernitana,it ITA,0.3,0.26,606
+2666,Federico Bonazzoli,Salernitana,it ITA,0.0,0.07,619
+2667,Wajdi Kechrida,Salernitana,it ITA,0.0,0.1,554
+2668,Riccardo Gagliolo,Salernitana,it ITA,0.17,0.0,525
+2669,Simeon Nwankwo,Salernitana,it ITA,0.17,0.07,521
+2670,Lassana Coulibaly,Salernitana,it ITA,0.0,0.0,496
+2671,Grigoris Kastanos,Salernitana,it ITA,0.19,0.11,477
+2672,Cedric Gondo,Salernitana,it ITA,0.0,0.02,430
+2673,Joel Obi,Salernitana,it ITA,0.17,0.22,540
+2674,Milan Đurić,Salernitana,it ITA,0.0,0.07,511
+2675,Nadir Zortea,Salernitana,it ITA,0.0,0.1,359
+2676,Paweł Jaroszyński,Salernitana,it ITA,0.0,0.1,311
+2677,Matteo Ruggeri,Salernitana,it ITA,0.0,0.02,225
+2678,Andrea Schiavone,Salernitana,it ITA,0.0,0.05,232
+2679,Ramzi Aya,Salernitana,it ITA,0.0,0.0,135
+2680,Leonardo Capezzi,Salernitana,it ITA,0.0,0.0,104
+2681,Luka Bogdan,Salernitana,it ITA,0.0,0.05,39
+2682,Freddie Veseli,Salernitana,it ITA,0.0,0.0,12
+2683,Julian Kristoffersen,Salernitana,it ITA,0.0,0.0,7
+2684,Edoardo Vergani,Salernitana,it ITA,0.0,0.0,7
+2685,Jacopo De Matteis,Salernitana,it ITA,0.0,0.0,0
+2686,Filippo Delli Carri,Salernitana,it ITA,0.0,0.0,0
+2687,Vincenzo Fiorillo,Salernitana,it ITA,0.0,0.0,0
+2688,Carmine Iannone,Salernitana,it ITA,0.0,0.0,0
+2689,Antonio Russo,Salernitana,it ITA,0.0,0.0,0
+2690,José Luis Morales,Levante,es ESP,0.0,0.13,1103
+2691,Rúben Vezo,Levante,es ESP,0.0,0.01,995
+2692,Carlos Clerc,Levante,es ESP,0.0,0.03,927
+2693,Aitor Fernández,Levante,es ESP,0.0,0.0,806
+2694,Jorge de Frutos,Levante,es ESP,0.23,0.1,797
+2695,Jorge Miramón,Levante,es ESP,0.0,0.03,774
+2696,Roger Martí,Levante,es ESP,0.0,0.01,662
+2697,Gonzalo Melero,Levante,es ESP,0.28,0.09,652
+2698,Óscar Duarte,Levante,es ESP,0.0,0.03,634
+2699,Pablo Martínez,Levante,es ESP,0.14,0.19,624
+2700,Rober,Levante,es ESP,0.0,0.0,610
+2701,José Campaña,Levante,es ESP,0.0,0.05,528
+2702,Nemanja Radoja,Levante,es ESP,0.0,0.0,447
+2703,Enis Bardhi,Levante,es ESP,0.0,0.05,473
+2704,Son,Levante,es ESP,0.0,0.08,458
+2705,Mickael Malsa,Levante,es ESP,0.2,0.13,457
+2706,Cárdenas,Levante,es ESP,0.0,0.0,450
+2707,José Luis García Vayá,Levante,es ESP,0.0,0.08,400
+2708,Shkodran Mustafi,Levante,es ESP,0.0,0.0,373
+2709,Roberto Soldado,Levante,es ESP,0.0,0.04,340
+2710,Enric Franquesa,Levante,es ESP,0.0,0.0,397
+2711,Dani Gómez,Levante,es ESP,0.25,0.06,363
+2712,Álex Cantero,Levante,es ESP,0.0,0.0,282
+2713,Sergio Postigo,Levante,es ESP,0.0,0.0,187
+2714,Nikola Vukčević,Levante,es ESP,0.0,0.02,111
+2715,Coke,Levante,es ESP,0.0,0.0,5
+2716,Alejandro Blesa,Levante,es ESP,0.0,0.0,0
+2717,Pablo Cuñat,Levante,es ESP,0.0,0.0,0
+2718,Hernâni Fortes,Levante,es ESP,0.0,0.0,0
+2719,José Manuel,Levante,es ESP,0.0,0.0,0
+2720,Koke Vegas,Levante,es ESP,0.0,0.0,0
+2721,Răzvan Marin,Cagliari,it ITA,0.25,0.19,1080
+2722,João Pedro,Cagliari,it ITA,0.17,0.09,1077
+2723,Alessio Cragno,Cagliari,it ITA,0.0,0.0,990
+2724,Andrea Carboni,Cagliari,it ITA,0.0,0.0,903
+2725,Alessandro Deiola,Cagliari,it ITA,0.0,0.09,840
+2726,Nahitan Nández,Cagliari,it ITA,0.1,0.08,917
+2727,Charalambos Lykogiannis,Cagliari,it ITA,0.0,0.04,796
+2728,Diego Godín,Cagliari,it ITA,0.14,0.05,625
+2729,Kevin Strootman,Cagliari,it ITA,0.0,0.03,586
+2730,Gabriele Zappa,Cagliari,it ITA,0.0,0.0,584
+2731,Luca Ceppitelli,Cagliari,it ITA,0.0,0.0,579
+2732,Keita Baldé,Cagliari,it ITA,0.19,0.14,465
+2733,Dalbert Henrique,Cagliari,it ITA,0.0,0.06,409
+2734,Martín Cáceres,Cagliari,it ITA,0.21,0.09,435
+2735,Leonardo Pavoletti,Cagliari,it ITA,0.0,0.05,451
+2736,Sebastian Walukiewicz,Cagliari,it ITA,0.0,0.01,278
+2737,Raoul Bellanova,Cagliari,it ITA,0.29,0.17,315
+2738,Alberto Grassi,Cagliari,it ITA,0.0,0.04,219
+2739,Boris Radunović,Cagliari,it ITA,0.0,0.0,90
+2740,Gastón Pereiro,Cagliari,it ITA,0.0,0.14,124
+2741,Diego Farias,Cagliari,it ITA,0.0,0.0,66
+2742,Adam Obert,Cagliari,it ITA,0.0,0.0,20
+2743,Christian Oliva,Cagliari,it ITA,0.0,0.0,12
+2744,Giovanni Simeone,Cagliari,it ITA,0.0,0.0,7
+2745,Damir Ceter,Cagliari,it ITA,0.0,0.0,6
+2746,Giorgio Altare,Cagliari,it ITA,0.0,0.0,4
+2747,Simone Aresti,Cagliari,it ITA,0.0,0.0,0
+2748,Nicolò Cavuoti,Cagliari,it ITA,0.0,0.0,0
+2749,Isaias Del Pupo,Cagliari,it ITA,0.0,0.0,0
+2750,Eugenio Fusco,Cagliari,it ITA,0.0,0.0,0
+2751,David Soria,Getafe,es ESP,0.0,0.0,1170
+2752,Nemanja Maksimović,Getafe,es ESP,0.08,0.02,1121
+2753,Djené,Getafe,es ESP,0.0,0.01,1045
+2754,Carles Aleñá,Getafe,es ESP,0.21,0.11,876
+2755,Mathías Olivera,Getafe,es ESP,0.0,0.08,944
+2756,Mauro Arambarri,Getafe,es ESP,0.0,0.02,825
+2757,Damián Suárez,Getafe,es ESP,0.0,0.13,869
+2758,Jorge Cuenca,Getafe,es ESP,0.0,0.0,820
+2759,Enes Ünal,Getafe,es ESP,0.0,0.02,772
+2760,Stefan Mitrović,Getafe,es ESP,0.0,0.0,653
+2761,Sandro Ramírez,Getafe,es ESP,0.0,0.06,470
+2762,Florentino Luís,Getafe,es ESP,0.0,0.02,527
+2763,Iglesias,Getafe,es ESP,0.0,0.02,315
+2764,Jaime Mata,Getafe,es ESP,0.0,0.01,415
+2765,David Timor,Getafe,es ESP,0.0,0.0,341
+2766,Darío Poveda,Getafe,es ESP,0.0,0.07,320
+2767,Jakub Jankto,Getafe,es ESP,0.0,0.02,238
+2768,Allan Nyom,Getafe,es ESP,0.0,0.05,236
+2769,José Juan Macías,Getafe,es ESP,0.0,0.0,201
+2770,Erick Cabaco,Getafe,es ESP,0.63,0.24,143
+2771,Vitolo,Getafe,es ESP,0.0,0.06,207
+2772,Emmanuel Amankwaa Akurugu,Getafe,es ESP,1.14,0.05,79
+2773,Chema,Getafe,es ESP,0.0,0.03,45
+2774,Jonathan Silva,Getafe,es ESP,0.0,0.06,143
+2775,Marc Cucurella,Getafe,es ESP,0.0,0.23,23
+2776,Hugo Duro,Getafe,es ESP,0.0,0.0,12
+2777,Chinchu,Getafe,es ESP,0.0,0.0,0
+2778,Diego Conde,Getafe,es ESP,0.0,0.0,0
+2779,John Joe,Getafe,es ESP,0.0,0.0,0
+2780,Diego López,Getafe,es ESP,0.0,0.0,0
+2781,Ignasi Miquel,Getafe,es ESP,0.0,0.0,0
+2782,Rubén Yáñez,Getafe,es ESP,0.0,0.0,0
+2783,Matt Ritchie,Newcastle Utd,eng ENG,0.09,0.13,990
+2784,Allan Saint-Maximin,Newcastle Utd,eng ENG,0.28,0.25,980
+2785,Isaac Hayden,Newcastle Utd,eng ENG,0.0,0.01,831
+2786,Ciaran Clark,Newcastle Utd,eng ENG,0.11,0.04,803
+2787,Jamaal Lascelles,Newcastle Utd,eng ENG,0.0,0.0,720
+2788,Sean Longstaff,Newcastle Utd,eng ENG,0.0,0.04,706
+2789,Miguel Almirón,Newcastle Utd,eng ENG,0.0,0.05,697
+2790,Karl Darlow,Newcastle Utd,eng ENG,0.0,0.0,630
+2791,Joe Willock,Newcastle Utd,eng ENG,0.0,0.05,589
+2792,Callum Wilson,Newcastle Utd,eng ENG,0.0,0.02,588
+2793,Javier Manquillo,Newcastle Utd,eng ENG,0.31,0.03,585
+2794,Joelinton,Newcastle Utd,eng ENG,0.17,0.07,517
+2795,Federico Fernández,Newcastle Utd,eng ENG,0.0,0.07,437
+2796,Jacob Murphy,Newcastle Utd,eng ENG,0.21,0.13,422
+2797,Emil Krafth,Newcastle Utd,eng ENG,0.25,0.01,362
+2798,Freddie Woodman,Newcastle Utd,eng ENG,0.0,0.0,360
+2799,Ryan Fraser,Newcastle Utd,eng ENG,0.0,0.02,202
+2800,Jonjo Shelvey,Newcastle Utd,eng ENG,0.0,0.07,192
+2801,Fabian Schär,Newcastle Utd,eng ENG,0.0,0.0,180
+2802,Jeff Hendrick,Newcastle Utd,eng ENG,0.0,0.0,61
+2803,Dwight Gayle,Newcastle Utd,eng ENG,0.0,0.0,23
+2804,Jamal Lewis,Newcastle Utd,eng ENG,0.0,0.0,7
+2805,Elliot Anderson,Newcastle Utd,eng ENG,0.0,0.0,0
+2806,Martin Dúbravka,Newcastle Utd,eng ENG,0.0,0.0,0
+2807,Mark Gillespie,Newcastle Utd,eng ENG,0.0,0.0,0
+2808,Joe White,Newcastle Utd,eng ENG,0.0,0.0,0
+2809,Max Aarons,Norwich City,eng ENG,0.0,0.06,990
+2810,Tim Krul,Norwich City,eng ENG,0.0,0.0,990
+2811,Teemu Pukki,Norwich City,eng ENG,0.0,0.01,919
+2812,Grant Hanley,Norwich City,eng ENG,0.0,0.02,897
+2813,Kenny McLean,Norwich City,eng ENG,0.0,0.04,855
+2814,Pierre Lees-Melou,Norwich City,eng ENG,0.0,0.1,736
+2815,Ben Gibson,Norwich City,eng ENG,0.0,0.0,694
+2816,Mathias Normann,Norwich City,eng ENG,0.16,0.05,579
+2817,Milot Rashica,Norwich City,eng ENG,0.14,0.11,637
+2818,Josh Sargent,Norwich City,eng ENG,0.0,0.07,526
+2819,Ozan Kabak,Norwich City,eng ENG,0.0,0.0,518
+2820,Brandon Williams,Norwich City,eng ENG,0.0,0.01,490
+2821,Dimitris Giannoulis,Norwich City,eng ENG,0.0,0.03,382
+2822,Billy Gilmour,Norwich City,eng ENG,0.0,0.06,348
+2823,Todd Cantwell,Norwich City,eng ENG,0.0,0.06,315
+2824,Andrew Omobamidele,Norwich City,eng ENG,0.0,0.0,292
+2825,Lukas Rupp,Norwich City,eng ENG,0.0,0.03,251
+2826,Kieran Dowell,Norwich City,eng ENG,0.0,0.15,207
+2827,Christos Tzolis,Norwich City,eng ENG,0.0,0.2,133
+2828,Adam Idah,Norwich City,eng ENG,0.0,0.38,57
+2829,Bali Mumba,Norwich City,eng ENG,0.0,0.0,45
+2830,Przemysław Płacheta,Norwich City,eng ENG,0.0,0.0,3
+2831,Angus Gunn,Norwich City,eng ENG,0.0,0.0,0
+2832,Jakob Sørensen,Norwich City,eng ENG,0.0,0.0,0
+2833,Christoph Zimmermann,Norwich City,eng ENG,0.0,0.0,0
+2834,Branimir Hrgota,Greuther Fürth,de GER,0.1,0.17,899
+2835,Marco Meyerhöfer,Greuther Fürth,de GER,0.0,0.05,900
+2836,Paul Seguin,Greuther Fürth,de GER,0.0,0.04,889
+2837,Maximilian Bauer,Greuther Fürth,de GER,0.0,0.0,720
+2838,Sebastian Griesbeck,Greuther Fürth,de GER,0.0,0.01,635
+2839,Jetro Willems,Greuther Fürth,de GER,0.0,0.13,598
+2840,Nick Viergever,Greuther Fürth,de GER,0.0,0.0,603
+2841,Julian Green,Greuther Fürth,de GER,0.0,0.07,533
+2842,Håvard Nielsen,Greuther Fürth,de GER,0.0,0.03,515
+2843,Sascha Burchert,Greuther Fürth,de GER,0.0,0.02,540
+2844,Cedric Itten,Greuther Fürth,de GER,0.0,0.02,528
+2845,Hans Nunoo Sarpei,Greuther Fürth,de GER,0.0,0.0,463
+2846,Marius Funk,Greuther Fürth,de GER,0.0,0.02,450
+2847,Jeremy Dudziak,Greuther Fürth,de GER,0.0,0.18,440
+2848,Jamie Leweling,Greuther Fürth,de GER,0.0,0.03,385
+2849,Gian-Luca Itter,Greuther Fürth,de GER,0.0,0.14,282
+2850,Justin Hoogma,Greuther Fürth,de GER,0.0,0.01,270
+2851,Max Christiansen,Greuther Fürth,de GER,0.0,0.0,346
+2852,Dickson Abiama,Greuther Fürth,de GER,0.28,0.22,324
+2853,Timothy Tillman,Greuther Fürth,de GER,0.9,0.37,200
+2854,Simon Asta,Greuther Fürth,de GER,0.0,0.02,90
+2855,Gideon Jung,Greuther Fürth,de GER,0.0,0.0,90
+2856,Nils Seufert,Greuther Fürth,de GER,0.0,0.0,57
+2857,Abdourahmane Barry,Greuther Fürth,de GER,0.0,0.0,101
+2858,Adrian Fein,Greuther Fürth,de GER,0.0,0.09,32
+2859,Leon Schaffran,Greuther Fürth,de GER,0.0,0.0,0
